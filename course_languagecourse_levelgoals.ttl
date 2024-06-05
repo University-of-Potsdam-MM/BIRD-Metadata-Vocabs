@@ -1,0 +1,51 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_languagecourse_levelgoals/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<> a skos:ConceptScheme ;
+    dct:title "Vocabulary of course_languagecourse_levelgoals"@en, "Vokabular von course_languagecourse_levelgoals"@de ;
+    dct:creator "BIRD"@de ;
+    dct:created "2024-06-05"^^xsd:date ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10> .
+
+<1> a skos:Concept ;
+    skos:prefLabel "A1"@de, "A1"@en;
+    skos:topConceptOf <> .
+
+<2> a skos:Concept ;
+    skos:prefLabel "A2"@de, "A2"@en;
+    skos:topConceptOf <> .
+
+<3> a skos:Concept ;
+    skos:prefLabel "B1"@de, "B1"@en;
+    skos:topConceptOf <> .
+
+<4> a skos:Concept ;
+    skos:prefLabel "B1.1"@de, "B1.1"@en;
+    skos:topConceptOf <> .
+
+<5> a skos:Concept ;
+    skos:prefLabel "B1.2"@de, "B1.2"@en;
+    skos:topConceptOf <> .
+
+<6> a skos:Concept ;
+    skos:prefLabel "B2"@de, "B2"@en;
+    skos:topConceptOf <> .
+
+<7> a skos:Concept ;
+    skos:prefLabel "B2.1"@de, "B2.1"@en;
+    skos:topConceptOf <> .
+
+<8> a skos:Concept ;
+    skos:prefLabel "B2.2"@de, "B2.2"@en;
+    skos:topConceptOf <> .
+
+<9> a skos:Concept ;
+    skos:prefLabel "C1"@de, "C1"@en;
+    skos:topConceptOf <> .
+
+<10> a skos:Concept ;
+    skos:prefLabel "C2"@de, "C2"@en;
+    skos:topConceptOf <> .

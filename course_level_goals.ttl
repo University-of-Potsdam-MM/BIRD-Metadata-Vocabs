@@ -1,0 +1,43 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_level_goals/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<> a skos:ConceptScheme ;
+    dct:title "Vocabulary of course_level_goals"@en, "Vokabular von course_level_goals"@de ;
+    dct:creator "BIRD"@de ;
+    dct:created "2024-06-05"^^xsd:date ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8> .
+
+<1> a skos:Concept ;
+    skos:prefLabel "Niveau 1"@de, "Level 1"@en;
+    skos:topConceptOf <> .
+
+<2> a skos:Concept ;
+    skos:prefLabel "Niveau 2"@de, "Level 2"@en;
+    skos:topConceptOf <> .
+
+<3> a skos:Concept ;
+    skos:prefLabel "Niveau 3"@de, "Level 3"@en;
+    skos:topConceptOf <> .
+
+<4> a skos:Concept ;
+    skos:prefLabel "Niveau 4"@de, "Level 4"@en;
+    skos:topConceptOf <> .
+
+<5> a skos:Concept ;
+    skos:prefLabel "Niveau 5"@de, "Level 5"@en;
+    skos:topConceptOf <> .
+
+<6> a skos:Concept ;
+    skos:prefLabel "Niveau 6"@de, "Level 6"@en;
+    skos:topConceptOf <> .
+
+<7> a skos:Concept ;
+    skos:prefLabel "Niveau 7"@de, "Level 7"@en;
+    skos:topConceptOf <> .
+
+<8> a skos:Concept ;
+    skos:prefLabel "Niveau 8"@de, "Level 8"@en;
+    skos:topConceptOf <> .

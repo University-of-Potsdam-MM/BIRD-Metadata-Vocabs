@@ -1,1 +1,1 @@
-{"data":{"allConceptScheme":{"edges":[{"node":{"id":"https://example.org/colour/","fields":{"languages":["en","de"]}}},{"node":{"id":"https://example.org/colour-with-hierarchy/","fields":{"languages":["en","de"]}}}]}}}
+{"data":{"allConceptScheme":{"edges":[{"node":{"id":"https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/colour/","fields":{"languages":["en","de"]}}},{"node":{"id":"https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/colour-with-hierarchy/","fields":{"languages":["en","de"]}}}]}}}

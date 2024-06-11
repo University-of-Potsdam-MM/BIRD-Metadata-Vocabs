@@ -1,0 +1,58 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityTeacherPosition/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_currentActivityTeacherPosition"@en,
+                       "Vokabular von buddy_currentActivityTeacherPosition"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "school-leadership"@de, "school-leadership"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "deputy-school-leadership"@de, "deputy-school-leadership"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "department-head"@de, "department-head"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "upper-school-coordination"@de, "upper-school-coordination"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "middle-school-coordination"@de, "middle-school-coordination"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "lower-school-coordination"@de, "lower-school-coordination"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "quality-assurance"@de, "quality-assurance"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "class-leadership"@de, "class-leadership"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "trust-teacher"@de, "trust-teacher"@en ;
+    skos:topConceptOf <> .

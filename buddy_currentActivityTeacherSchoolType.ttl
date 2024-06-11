@@ -1,0 +1,88 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityTeacherSchoolType/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_currentActivityTeacherSchoolType"@en,
+                       "Vokabular von buddy_currentActivityTeacherSchoolType"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10>, <11>, <12>, <13>, <14>, <15> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "grundschule"@de, "grundschule"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "hauptschule"@de, "hauptschule"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "realschule"@de, "realschule"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "gesamtschule"@de, "gesamtschule"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "förderschule"@de, "förderschule"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "oberschule"@de, "oberschule"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "gymnasium"@de, "gymnasium"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "gemeinschaftsschule"@de, "gemeinschaftsschule"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "sekundarschule"@de, "sekundarschule"@en ;
+    skos:topConceptOf <> .
+
+<10>
+    a                 skos:Concept ;
+    skos:prefLabel    "berufsfachschule"@de, "berufsfachschule"@en ;
+    skos:topConceptOf <> .
+
+<11>
+    a                 skos:Concept ;
+    skos:prefLabel    "berufsschule"@de, "berufsschule"@en ;
+    skos:topConceptOf <> .
+
+<12>
+    a                 skos:Concept ;
+    skos:prefLabel    "fachoberschule"@de, "fachoberschule"@en ;
+    skos:topConceptOf <> .
+
+<13>
+    a                 skos:Concept ;
+    skos:prefLabel    "berufliches-gymnasium"@de, "berufliches-gymnasium"@en ;
+    skos:topConceptOf <> .
+
+<14>
+    a                 skos:Concept ;
+    skos:prefLabel    "privat-und-ersatzschule"@de, "privat-und-ersatzschule"@en ;
+    skos:topConceptOf <> .
+
+<15>
+    a                 skos:Concept ;
+    skos:prefLabel    "abendgymnasium"@de, "abendgymnasium"@en ;
+    skos:topConceptOf <> .

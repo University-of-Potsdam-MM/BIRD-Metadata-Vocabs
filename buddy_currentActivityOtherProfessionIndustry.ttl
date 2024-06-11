@@ -1,0 +1,88 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityOtherProfessionIndustry/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_currentActivityOtherProfessionIndustry"@en,
+                       "Vokabular von buddy_currentActivityOtherProfessionIndustry"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10>, <11>, <12>, <13>, <14>, <15> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "construction-architecture-surveying"@de, "construction-architecture-surveying"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "services"@de, "services"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "electrical"@de, "electrical"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "health"@de, "health"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "it-computer"@de, "it-computer"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "arts-culture-design"@de, "arts-culture-design"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "agriculture-nature-environment"@de, "agriculture-nature-environment"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "media"@de, "media"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "metallurgy-mechanical-engineering"@de, "metallurgy-mechanical-engineering"@en ;
+    skos:topConceptOf <> .
+
+<10>
+    a                 skos:Concept ;
+    skos:prefLabel    "natural-sciences"@de, "natural-sciences"@en ;
+    skos:topConceptOf <> .
+
+<11>
+    a                 skos:Concept ;
+    skos:prefLabel    "production-manufacturing"@de, "production-manufacturing"@en ;
+    skos:topConceptOf <> .
+
+<12>
+    a                 skos:Concept ;
+    skos:prefLabel    "social-educational"@de, "social-educational"@en ;
+    skos:topConceptOf <> .
+
+<13>
+    a                 skos:Concept ;
+    skos:prefLabel    "technology-technology-fields"@de, "technology-technology-fields"@en ;
+    skos:topConceptOf <> .
+
+<14>
+    a                 skos:Concept ;
+    skos:prefLabel    "transport-logistics"@de, "transport-logistics"@en ;
+    skos:topConceptOf <> .
+
+<15>
+    a                 skos:Concept ;
+    skos:prefLabel    "economics-administration"@de, "economics-administration"@en ;
+    skos:topConceptOf <> .

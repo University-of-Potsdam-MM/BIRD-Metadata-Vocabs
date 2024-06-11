@@ -1,0 +1,77 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_purpose/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_purpose"@en, "Vokabular von buddy_purpose"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10>, <11>, <12>, <13> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "tutoring"@de, "tutoring"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "exam-preparation"@de, "exam-preparation"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "homework-help"@de, "homework-help"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "proofreading"@de, "proofreading"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "feedback"@de, "feedback"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "learning-partner"@de, "learning-partner"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "study-or-project-group"@de, "study-or-project-group"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "professional-exchange"@de, "professional-exchange"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "counseling-coaching"@de, "counseling-coaching"@en ;
+    skos:topConceptOf <> .
+
+<10>
+    a                 skos:Concept ;
+    skos:prefLabel    "experience-sharing"@de, "experience-sharing"@en ;
+    skos:topConceptOf <> .
+
+<11>
+    a                 skos:Concept ;
+    skos:prefLabel    "motivation-encouragement"@de, "motivation-encouragement"@en ;
+    skos:topConceptOf <> .
+
+<12>
+    a                 skos:Concept ;
+    skos:prefLabel    "material-exchange"@de, "material-exchange"@en ;
+    skos:topConceptOf <> .
+
+<13>
+    a                 skos:Concept ;
+    skos:prefLabel    "organizational-support-in-studies"@de, "organizational-support-in-studies"@en ;
+    skos:topConceptOf <> .

@@ -1,0 +1,134 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityTeacherSubject/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_currentActivityTeacherSubject"@en,
+                       "Vokabular von buddy_currentActivityTeacherSubject"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10>, <11>, <12>, <13>, <14>, <15>, <16>, <17>,
+                       <18>, <19>, <20>, <21>, <22>, <23>, <24> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "mathematics"@de, "mathematics"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "german"@de, "german"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "english"@de, "english"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "french"@de, "french"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "spanish"@de, "spanish"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "italian"@de, "italian"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "latin"@de, "latin"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "history"@de, "history"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "physics"@de, "physics"@en ;
+    skos:topConceptOf <> .
+
+<10>
+    a                 skos:Concept ;
+    skos:prefLabel    "chemistry"@de, "chemistry"@en ;
+    skos:topConceptOf <> .
+
+<11>
+    a                 skos:Concept ;
+    skos:prefLabel    "biology"@de, "biology"@en ;
+    skos:topConceptOf <> .
+
+<12>
+    a                 skos:Concept ;
+    skos:prefLabel    "geography"@de, "geography"@en ;
+    skos:topConceptOf <> .
+
+<13>
+    a                 skos:Concept ;
+    skos:prefLabel    "computer-science"@de, "computer-science"@en ;
+    skos:topConceptOf <> .
+
+<14>
+    a                 skos:Concept ;
+    skos:prefLabel    "technology-works"@de, "technology-works"@en ;
+    skos:topConceptOf <> .
+
+<15>
+    a                 skos:Concept ;
+    skos:prefLabel    "social-sciences"@de, "social-sciences"@en ;
+    skos:topConceptOf <> .
+
+<16>
+    a                 skos:Concept ;
+    skos:prefLabel    "statistics"@de, "statistics"@en ;
+    skos:topConceptOf <> .
+
+<17>
+    a                 skos:Concept ;
+    skos:prefLabel    "law"@de, "law"@en ;
+    skos:topConceptOf <> .
+
+<18>
+    a                 skos:Concept ;
+    skos:prefLabel    "media"@de, "media"@en ;
+    skos:topConceptOf <> .
+
+<19>
+    a                 skos:Concept ;
+    skos:prefLabel    "economics"@de, "economics"@en ;
+    skos:topConceptOf <> .
+
+<20>
+    a                 skos:Concept ;
+    skos:prefLabel    "accounting"@de, "accounting"@en ;
+    skos:topConceptOf <> .
+
+<21>
+    a                 skos:Concept ;
+    skos:prefLabel    "performing-arts"@de, "performing-arts"@en ;
+    skos:topConceptOf <> .
+
+<22>
+    a                 skos:Concept ;
+    skos:prefLabel    "religion"@de, "religion"@en ;
+    skos:topConceptOf <> .
+
+<23>
+    a                 skos:Concept ;
+    skos:prefLabel    "philosophy-ethics-life-skills"@de, "philosophy-ethics-life-skills"@en ;
+    skos:topConceptOf <> .
+
+<24>
+    a                 skos:Concept ;
+    skos:prefLabel    "other"@de, "other"@en ;
+    skos:topConceptOf <> .

@@ -1,43 +1,52 @@
 @base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_type/> .
-@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
 
-<> a skos:ConceptScheme ;
-    dct:title "Vocabulary of course_type"@en, "Vokabular von course_type"@de ;
-    dct:creator "BIRD"@de ;
-    dct:created "2024-06-05"^^xsd:date ;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of course_type"@en, "Vokabular von course_type"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8> .
 
-<1> a skos:Concept ;
-    skos:prefLabel "Sprachkurs"@de, "Language course"@en;
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "Sprachkurs"@de, "Language course"@en ;
     skos:topConceptOf <> .
 
-<2> a skos:Concept ;
-    skos:prefLabel "Fachkurs"@de, "Specialist course"@en;
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "Fachkurs"@de, "Specialist course"@en ;
     skos:topConceptOf <> .
 
-<3> a skos:Concept ;
-    skos:prefLabel "Propädeutika"@de, "Propaedeutics"@en;
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "Propädeutika"@de, "Propaedeutics"@en ;
     skos:topConceptOf <> .
 
-<4> a skos:Concept ;
-    skos:prefLabel "Soft Skills"@de, "Soft Skills"@en;
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "Soft Skills"@de, "Soft Skills"@en ;
     skos:topConceptOf <> .
 
-<5> a skos:Concept ;
-    skos:prefLabel "Business Skills"@de, "Business Skills"@en;
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "Business Skills"@de, "Business Skills"@en ;
     skos:topConceptOf <> .
 
-<6> a skos:Concept ;
-    skos:prefLabel "Digital Skills"@de, "Digital Skills"@en;
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "Digital Skills"@de, "Digital Skills"@en ;
     skos:topConceptOf <> .
 
-<7> a skos:Concept ;
-    skos:prefLabel "Academic Skills"@de, "Academic Skills"@en;
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "Academic Skills"@de, "Academic Skills"@en ;
     skos:topConceptOf <> .
 
-<8> a skos:Concept ;
-    skos:prefLabel "Career Skills"@de, "Career Skills"@en;
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "Career Skills"@de, "Career Skills"@en ;
     skos:topConceptOf <> .

@@ -1,31 +1,38 @@
 @base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_lecture_type/> .
-@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
 
-<> a skos:ConceptScheme ;
-    dct:title "Vocabulary of course_lecture_type"@en, "Vokabular von course_lecture_type"@de ;
-    dct:creator "BIRD"@de ;
-    dct:created "2024-06-05"^^xsd:date ;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of course_lecture_type"@en, "Vokabular von course_lecture_type"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept <1>, <2>, <3>, <4>, <5> .
 
-<1> a skos:Concept ;
-    skos:prefLabel "Präsenz"@de, "Presence"@en;
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "Präsenz"@de, "Presence"@en ;
     skos:topConceptOf <> .
 
-<2> a skos:Concept ;
-    skos:prefLabel "Online (Selbstlernkurs)"@de, "Online (self-paced course)"@en;
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "Online (Selbstlernkurs)"@de, "Online (self-paced course)"@en ;
     skos:topConceptOf <> .
 
-<3> a skos:Concept ;
-    skos:prefLabel "Blended Learning mit festen Präsenz-Gruppenterminen"@de, "Blended learning with fixed attendance dates"@en;
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "Blended Learning mit festen Präsenz-Gruppenterminen"@de,
+                      "Blended learning with fixed attendance dates"@en ;
     skos:topConceptOf <> .
 
-<4> a skos:Concept ;
-    skos:prefLabel "Online mit festen Online-Gruppenterminen"@de, "Online with fixed online dates"@en;
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "Online mit festen Online-Gruppenterminen"@de, "Online with fixed online dates"@en ;
     skos:topConceptOf <> .
 
-<5> a skos:Concept ;
-    skos:prefLabel "MOOC"@de, "MOOC"@en;
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "MOOC"@de, "MOOC"@en ;
     skos:topConceptOf <> .

@@ -1,39 +1,47 @@
 @base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_targetgroup/> .
-@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
 
-<> a skos:ConceptScheme ;
-    dct:title "Vocabulary of course_targetgroup"@en, "Vokabular von course_targetgroup"@de ;
-    dct:creator "BIRD"@de ;
-    dct:created "2024-06-05"^^xsd:date ;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of course_targetgroup"@en, "Vokabular von course_targetgroup"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7> .
 
-<1> a skos:Concept ;
-    skos:prefLabel "Schüler*innen"@de, "Pupils"@en;
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "Schüler*innen"@de, "Pupils"@en ;
     skos:topConceptOf <> .
 
-<2> a skos:Concept ;
-    skos:prefLabel "Studieninteressierte"@de, "Prospective students"@en;
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "Studieninteressierte"@de, "Prospective students"@en ;
     skos:topConceptOf <> .
 
-<3> a skos:Concept ;
-    skos:prefLabel "Studierende"@de, "Students"@en;
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "Studierende"@de, "Students"@en ;
     skos:topConceptOf <> .
 
-<4> a skos:Concept ;
-    skos:prefLabel "Promotionsinteresse"@de, "Prospective doctoral students"@en;
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "Promotionsinteresse"@de, "Prospective doctoral students"@en ;
     skos:topConceptOf <> .
 
-<5> a skos:Concept ;
-    skos:prefLabel "PASCH-Schüler*innen"@de, "PASCH pupils"@en;
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "PASCH-Schüler*innen"@de, "PASCH pupils"@en ;
     skos:topConceptOf <> .
 
-<6> a skos:Concept ;
-    skos:prefLabel "Lehrende"@de, "Lecturer"@en;
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "Lehrende"@de, "Lecturer"@en ;
     skos:topConceptOf <> .
 
-<7> a skos:Concept ;
-    skos:prefLabel "Eltern"@de, "Parents"@en;
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "Eltern"@de, "Parents"@en ;
     skos:topConceptOf <> .

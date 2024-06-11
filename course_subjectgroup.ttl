@@ -1,47 +1,57 @@
 @base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_subjectgroup/> .
-@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
 
-<> a skos:ConceptScheme ;
-    dct:title "Vocabulary of course_subjectgroup"@en, "Vokabular von course_subjectgroup"@de ;
-    dct:creator "BIRD"@de ;
-    dct:created "2024-06-05"^^xsd:date ;
-    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of course_subjectgroup"@en, "Vokabular von course_subjectgroup"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9> .
 
-<1> a skos:Concept ;
-    skos:prefLabel "Agrar- und Forstwissenschaften"@de, "Agricultural and Forest Sciences"@en;
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "Agrar- und Forstwissenschaften"@de, "Agricultural and Forest Sciences"@en ;
     skos:topConceptOf <> .
 
-<2> a skos:Concept ;
-    skos:prefLabel "Gesellschafts- und Sozialwissenschaften"@de, "Humanities and Social Sciences"@en;
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "Gesellschafts- und Sozialwissenschaften"@de, "Humanities and Social Sciences"@en ;
     skos:topConceptOf <> .
 
-<3> a skos:Concept ;
-    skos:prefLabel "Ingenieurwissenschaften"@de, "Engineering Sciences"@en;
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "Ingenieurwissenschaften"@de, "Engineering Sciences"@en ;
     skos:topConceptOf <> .
 
-<4> a skos:Concept ;
-    skos:prefLabel "Kunst, Musik, Design"@de, "Art, Music, Design"@en;
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "Kunst, Musik, Design"@de, "Art, Music, Design"@en ;
     skos:topConceptOf <> .
 
-<5> a skos:Concept ;
-    skos:prefLabel "Lehramt"@de, "Teaching Degrees"@en;
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "Lehramt"@de, "Teaching Degrees"@en ;
     skos:topConceptOf <> .
 
-<6> a skos:Concept ;
-    skos:prefLabel "Mathematik, Naturwissenschaften"@de, "Mathematics and Natural Sciences"@en;
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "Mathematik, Naturwissenschaften"@de, "Mathematics and Natural Sciences"@en ;
     skos:topConceptOf <> .
 
-<7> a skos:Concept ;
-    skos:prefLabel "Medizin, Gesundheitswissenschaften"@de, "Medicine, Health Sciences"@en;
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "Medizin, Gesundheitswissenschaften"@de, "Medicine, Health Sciences"@en ;
     skos:topConceptOf <> .
 
-<8> a skos:Concept ;
-    skos:prefLabel "Sprach-, Kulturwissenschaften"@de, "Language and Cultural Studies"@en;
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "Sprach-, Kulturwissenschaften"@de, "Language and Cultural Studies"@en ;
     skos:topConceptOf <> .
 
-<9> a skos:Concept ;
-    skos:prefLabel "Wirtschaftswissenschaften, Rechtswissenschaften"@de, "Economic Sciences, Law"@en;
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "Wirtschaftswissenschaften, Rechtswissenschaften"@de, "Economic Sciences, Law"@en ;
     skos:topConceptOf <> .

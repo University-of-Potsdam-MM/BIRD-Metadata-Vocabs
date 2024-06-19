@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityCareerBreakType/8",
   "type": "Concept",
   "prefLabel": {
-    "en": "parental-leave-care-leave-family-care-leave",
-    "de": "parental-leave-care-leave-family-care-leave"
+    "en": "parental-leave; care-leave; family-care-leave",
+    "de": "Elternzeit; Pflegezeit; Familien-Pflegezeit"
   },
   "inScheme": [
     {

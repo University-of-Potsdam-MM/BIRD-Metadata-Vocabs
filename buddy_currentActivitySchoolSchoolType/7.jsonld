@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivitySchoolSchoolType/7",
   "type": "Concept",
   "prefLabel": {
-    "en": "gymnasium",
-    "de": "gymnasium"
+    "en": "High school",
+    "de": "Gymnasium"
   },
   "inScheme": [
     {

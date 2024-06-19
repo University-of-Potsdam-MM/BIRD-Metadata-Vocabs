@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivitySchoolSchoolType/5",
   "type": "Concept",
   "prefLabel": {
-    "en": "förderschule",
-    "de": "förderschule"
+    "en": "special school",
+    "de": "Foerderschule"
   },
   "inScheme": [
     {

@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivitySchoolSchoolType/9",
   "type": "Concept",
   "prefLabel": {
-    "en": "sekundarschule",
-    "de": "sekundarschule"
+    "en": "secondary school",
+    "de": "Sekundarschule"
   },
   "inScheme": [
     {

@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivitySchoolSchoolType/8",
   "type": "Concept",
   "prefLabel": {
-    "en": "gemeinschaftsschule",
-    "de": "gemeinschaftsschule"
+    "en": "community school",
+    "de": "Gemeinschaftsschule"
   },
   "inScheme": [
     {

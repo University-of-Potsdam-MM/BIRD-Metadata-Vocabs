@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "grundschule"@de, "grundschule"@en ;
+    skos:prefLabel    "grundschule"@de, "elementary school"@en ;
     skos:topConceptOf <> .
 
 <2>
@@ -29,7 +29,7 @@
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "gesamtschule"@de, "gesamtschule"@en ;
+    skos:prefLabel    "gesamtschule"@de, "comprehensive school"@en ;
     skos:topConceptOf <> .
 
 <5>

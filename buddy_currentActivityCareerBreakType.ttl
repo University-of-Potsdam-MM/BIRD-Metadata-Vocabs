@@ -14,32 +14,32 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "sabbatical"@de, "sabbatical"@en ;
+    skos:prefLabel    "Urlaubssemester"@de, "sabbatical"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "travel"@de, "travel"@en ;
+    skos:prefLabel    "Reisen"@de, "travel"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "further-education"@de, "further-education"@en ;
+    skos:prefLabel    "Weiterbildung"@de, "further-education"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "illness"@de, "illness"@en ;
+    skos:prefLabel    "Krankheit"@de, "illness"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "vacation"@de, "vacation"@en ;
+    skos:prefLabel    "Urlaub"@de, "vacation"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "part-time"@de, "part-time"@en ;
+    skos:prefLabel    "Teilzeit"@de, "part-time"@en ;
     skos:topConceptOf <> .
 
 <7>
@@ -49,11 +49,11 @@
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "parental-leave-care-leave-family-care-leave"@de,
-                      "parental-leave-care-leave-family-care-leave"@en ;
+    skos:prefLabel    "Elternzeit; Pflegezeit; Familien-Pflegezeit"@de,
+                      "parental-leave; care-leave; family-care-leave"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "religious-reasons"@de, "religious-reasons"@en ;
+    skos:prefLabel    "religioese-Gründe"@de, "religious-reasons"@en ;
     skos:topConceptOf <> .

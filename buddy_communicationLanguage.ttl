@@ -29,12 +29,12 @@
 
 <ab>
     a                 skos:Concept ;
-    skos:prefLabel    "Abkhazian"@de, "Abkhazian"@en ;
+    skos:prefLabel    "Abchasisch"@de, "Abkhazian"@en ;
     skos:topConceptOf <> .
 
 <ae>
     a                 skos:Concept ;
-    skos:prefLabel    "Avestan"@de, "Avestan"@en ;
+    skos:prefLabel    "Avestisch"@de, "Avestan"@en ;
     skos:topConceptOf <> .
 
 <af>
@@ -49,27 +49,27 @@
 
 <am>
     a                 skos:Concept ;
-    skos:prefLabel    "Amharic"@de, "Amharic"@en ;
+    skos:prefLabel    "Amharisch"@de, "Amharic"@en ;
     skos:topConceptOf <> .
 
 <an>
     a                 skos:Concept ;
-    skos:prefLabel    "Aragonese"@de, "Aragonese"@en ;
+    skos:prefLabel    "Aragonesisch"@de, "Aragonese"@en ;
     skos:topConceptOf <> .
 
 <ar>
     a                 skos:Concept ;
-    skos:prefLabel    "Arabic"@de, "Arabic"@en ;
+    skos:prefLabel    "Arabisch"@de, "Arabic"@en ;
     skos:topConceptOf <> .
 
 <as>
     a                 skos:Concept ;
-    skos:prefLabel    "Assamese"@de, "Assamese"@en ;
+    skos:prefLabel    "Assamesisch"@de, "Assamese"@en ;
     skos:topConceptOf <> .
 
 <av>
     a                 skos:Concept ;
-    skos:prefLabel    "Avaric"@de, "Avaric"@en ;
+    skos:prefLabel    "Avarisch"@de, "Avaric"@en ;
     skos:topConceptOf <> .
 
 <ay>
@@ -79,32 +79,32 @@
 
 <az>
     a                 skos:Concept ;
-    skos:prefLabel    "Azerbaijani"@de, "Azerbaijani"@en ;
+    skos:prefLabel    "Aserbaidschanisch"@de, "Azerbaijani"@en ;
     skos:topConceptOf <> .
 
 <ba>
     a                 skos:Concept ;
-    skos:prefLabel    "Bashkir"@de, "Bashkir"@en ;
+    skos:prefLabel    "Baschkirisch"@de, "Bashkir"@en ;
     skos:topConceptOf <> .
 
 <be>
     a                 skos:Concept ;
-    skos:prefLabel    "Belarusian"@de, "Belarusian"@en ;
+    skos:prefLabel    "Belorussisch"@de, "Belarusian"@en ;
     skos:topConceptOf <> .
 
 <bg>
     a                 skos:Concept ;
-    skos:prefLabel    "Bulgarian"@de, "Bulgarian"@en ;
+    skos:prefLabel    "Bulgarisch"@de, "Bulgarian"@en ;
     skos:topConceptOf <> .
 
 <bh>
     a                 skos:Concept ;
-    skos:prefLabel    "Bihari languages"@de, "Bihari languages"@en ;
+    skos:prefLabel    "Biharisch"@de, "Bihari languages"@en ;
     skos:topConceptOf <> .
 
 <bi>
     a                 skos:Concept ;
-    skos:prefLabel    "Bislama"@de, "Bislama"@en ;
+    skos:prefLabel    "Bislamisch"@de, "Bislama"@en ;
     skos:topConceptOf <> .
 
 <bm>
@@ -114,32 +114,32 @@
 
 <bn>
     a                 skos:Concept ;
-    skos:prefLabel    "Bengali"@de, "Bengali"@en ;
+    skos:prefLabel    "Bengalisch"@de, "Bengali"@en ;
     skos:topConceptOf <> .
 
 <bo>
     a                 skos:Concept ;
-    skos:prefLabel    "Tibetan"@de, "Tibetan"@en ;
+    skos:prefLabel    "Tibetanisch"@de, "Tibetan"@en ;
     skos:topConceptOf <> .
 
 <br>
     a                 skos:Concept ;
-    skos:prefLabel    "Breton"@de, "Breton"@en ;
+    skos:prefLabel    "Bretonisch"@de, "Breton"@en ;
     skos:topConceptOf <> .
 
 <bs>
     a                 skos:Concept ;
-    skos:prefLabel    "Bosnian"@de, "Bosnian"@en ;
+    skos:prefLabel    "Bosnisch"@de, "Bosnian"@en ;
     skos:topConceptOf <> .
 
 <ca>
     a                 skos:Concept ;
-    skos:prefLabel    "Catalan; Valencian"@de, "Catalan; Valencian"@en ;
+    skos:prefLabel    "Katalanisch"@de, "Catalan; Valencian"@en ;
     skos:topConceptOf <> .
 
 <ce>
     a                 skos:Concept ;
-    skos:prefLabel    "Chechen"@de, "Chechen"@en ;
+    skos:prefLabel    "Tschetschenisch"@de, "Chechen"@en ;
     skos:topConceptOf <> .
 
 <ch>
@@ -149,7 +149,7 @@
 
 <co>
     a                 skos:Concept ;
-    skos:prefLabel    "Corsican"@de, "Corsican"@en ;
+    skos:prefLabel    "Korsisch"@de, "Corsican"@en ;
     skos:topConceptOf <> .
 
 <cr>
@@ -159,38 +159,38 @@
 
 <cs>
     a                 skos:Concept ;
-    skos:prefLabel    "Czech"@de, "Czech"@en ;
+    skos:prefLabel    "Tschechisch"@de, "Czech"@en ;
     skos:topConceptOf <> .
 
 <cu>
     a                 skos:Concept ;
-    skos:prefLabel    "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic"@de,
+    skos:prefLabel    "Kirchenslawisch; Altslawisch; Kirchenslawisch; Altbulgarisch; Altkirchenslawisch"@de,
                       "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic"@en ;
     skos:topConceptOf <> .
 
 <cv>
     a                 skos:Concept ;
-    skos:prefLabel    "Chuvash"@de, "Chuvash"@en ;
+    skos:prefLabel    "Tschuwaschisch"@de, "Chuvash"@en ;
     skos:topConceptOf <> .
 
 <cy>
     a                 skos:Concept ;
-    skos:prefLabel    "Welsh"@de, "Welsh"@en ;
+    skos:prefLabel    "Walisisch"@de, "Welsh"@en ;
     skos:topConceptOf <> .
 
 <da>
     a                 skos:Concept ;
-    skos:prefLabel    "Danish"@de, "Danish"@en ;
+    skos:prefLabel    "Daenisch"@de, "Danish"@en ;
     skos:topConceptOf <> .
 
 <de>
     a                 skos:Concept ;
-    skos:prefLabel    "German"@de, "German"@en ;
+    skos:prefLabel    "Deutsch"@de, "German"@en ;
     skos:topConceptOf <> .
 
 <dv>
     a                 skos:Concept ;
-    skos:prefLabel    "Divehi; Dhivehi; Maldivian"@de, "Divehi; Dhivehi; Maldivian"@en ;
+    skos:prefLabel    "Dhivehi; Divehi; Maledivisch"@de, "Divehi; Dhivehi; Maldivian"@en ;
     skos:topConceptOf <> .
 
 <dz>
@@ -205,12 +205,12 @@
 
 <el>
     a                 skos:Concept ;
-    skos:prefLabel    "Greek, Modern (1453-)"@de, "Greek, Modern (1453-)"@en ;
+    skos:prefLabel    "Griechisch (1453-)"@de, "Greek, Modern (1453-)"@en ;
     skos:topConceptOf <> .
 
 <en>
     a                 skos:Concept ;
-    skos:prefLabel    "English"@de, "English"@en ;
+    skos:prefLabel    "Englisch"@de, "English"@en ;
     skos:topConceptOf <> .
 
 <eo>
@@ -220,67 +220,67 @@
 
 <es>
     a                 skos:Concept ;
-    skos:prefLabel    "Spanish; Castilian"@de, "Spanish; Castilian"@en ;
+    skos:prefLabel    "Spanisch; Castilianisch"@de, "Spanish; Castilian"@en ;
     skos:topConceptOf <> .
 
 <et>
     a                 skos:Concept ;
-    skos:prefLabel    "Estonian"@de, "Estonian"@en ;
+    skos:prefLabel    "Estnisch"@de, "Estonian"@en ;
     skos:topConceptOf <> .
 
 <eu>
     a                 skos:Concept ;
-    skos:prefLabel    "Basque"@de, "Basque"@en ;
+    skos:prefLabel    "Baskisch"@de, "Basque"@en ;
     skos:topConceptOf <> .
 
 <fa>
     a                 skos:Concept ;
-    skos:prefLabel    "Persian"@de, "Persian"@en ;
+    skos:prefLabel    "Persisch"@de, "Persian"@en ;
     skos:topConceptOf <> .
 
 <ff>
     a                 skos:Concept ;
-    skos:prefLabel    "Fulah"@de, "Fulah"@en ;
+    skos:prefLabel    "Fulfulde"@de, "Fulah"@en ;
     skos:topConceptOf <> .
 
 <fi>
     a                 skos:Concept ;
-    skos:prefLabel    "Finnish"@de, "Finnish"@en ;
+    skos:prefLabel    "Finnisch"@de, "Finnish"@en ;
     skos:topConceptOf <> .
 
 <fj>
     a                 skos:Concept ;
-    skos:prefLabel    "Fijian"@de, "Fijian"@en ;
+    skos:prefLabel    "Fiji"@de, "Fijian"@en ;
     skos:topConceptOf <> .
 
 <fo>
     a                 skos:Concept ;
-    skos:prefLabel    "Faroese"@de, "Faroese"@en ;
+    skos:prefLabel    "Färöisch"@de, "Faroese"@en ;
     skos:topConceptOf <> .
 
 <fr>
     a                 skos:Concept ;
-    skos:prefLabel    "French"@de, "French"@en ;
+    skos:prefLabel    "Franzoesisch"@de, "French"@en ;
     skos:topConceptOf <> .
 
 <fy>
     a                 skos:Concept ;
-    skos:prefLabel    "Western Frisian"@de, "Western Frisian"@en ;
+    skos:prefLabel    "Westfriesisch"@de, "Western Frisian"@en ;
     skos:topConceptOf <> .
 
 <ga>
     a                 skos:Concept ;
-    skos:prefLabel    "Irish"@de, "Irish"@en ;
+    skos:prefLabel    "Irisch"@de, "Irish"@en ;
     skos:topConceptOf <> .
 
 <gd>
     a                 skos:Concept ;
-    skos:prefLabel    "Gaelic; Scottish Gaelic"@de, "Gaelic; Scottish Gaelic"@en ;
+    skos:prefLabel    "Gaelisch; Scottisch Gaelisch"@de, "Gaelic; Scottish Gaelic"@en ;
     skos:topConceptOf <> .
 
 <gl>
     a                 skos:Concept ;
-    skos:prefLabel    "Galician"@de, "Galician"@en ;
+    skos:prefLabel    "Galizisch"@de, "Galician"@en ;
     skos:topConceptOf <> .
 
 <gn>
@@ -290,22 +290,22 @@
 
 <gu>
     a                 skos:Concept ;
-    skos:prefLabel    "Gujarati"@de, "Gujarati"@en ;
+    skos:prefLabel    "Gujaratisch"@de, "Gujarati"@en ;
     skos:topConceptOf <> .
 
 <gv>
     a                 skos:Concept ;
-    skos:prefLabel    "Manx"@de, "Manx"@en ;
+    skos:prefLabel    "Manx; Manx-Gealsisch"@de, "Manx"@en ;
     skos:topConceptOf <> .
 
 <ha>
     a                 skos:Concept ;
-    skos:prefLabel    "Hausa"@de, "Hausa"@en ;
+    skos:prefLabel    "Haussa"@de, "Hausa"@en ;
     skos:topConceptOf <> .
 
 <he>
     a                 skos:Concept ;
-    skos:prefLabel    "Hebrew"@de, "Hebrew"@en ;
+    skos:prefLabel    "Hebraeisch"@de, "Hebrew"@en ;
     skos:topConceptOf <> .
 
 <hi>
@@ -320,27 +320,27 @@
 
 <hr>
     a                 skos:Concept ;
-    skos:prefLabel    "Croatian"@de, "Croatian"@en ;
+    skos:prefLabel    "Kroatisch"@de, "Croatian"@en ;
     skos:topConceptOf <> .
 
 <ht>
     a                 skos:Concept ;
-    skos:prefLabel    "Haitian; Haitian Creole"@de, "Haitian; Haitian Creole"@en ;
+    skos:prefLabel    "Haitianisch; Haitian Creole"@de, "Haitian; Haitian Creole"@en ;
     skos:topConceptOf <> .
 
 <hu>
     a                 skos:Concept ;
-    skos:prefLabel    "Hungarian"@de, "Hungarian"@en ;
+    skos:prefLabel    "Ungarisch"@de, "Hungarian"@en ;
     skos:topConceptOf <> .
 
 <hy>
     a                 skos:Concept ;
-    skos:prefLabel    "Armenian"@de, "Armenian"@en ;
+    skos:prefLabel    "Armenisch"@de, "Armenian"@en ;
     skos:topConceptOf <> .
 
 <hz>
     a                 skos:Concept ;
-    skos:prefLabel    "Herero"@de, "Herero"@en ;
+    skos:prefLabel    "Otjiherero"@de, "Herero"@en ;
     skos:topConceptOf <> .
 
 <ia>
@@ -351,7 +351,7 @@
 
 <id>
     a                 skos:Concept ;
-    skos:prefLabel    "Indonesian"@de, "Indonesian"@en ;
+    skos:prefLabel    "Indonesisch"@de, "Indonesian"@en ;
     skos:topConceptOf <> .
 
 <ie>
@@ -371,7 +371,7 @@
 
 <ik>
     a                 skos:Concept ;
-    skos:prefLabel    "Inupiaq"@de, "Inupiaq"@en ;
+    skos:prefLabel    "Inupiak"@de, "Inupiaq"@en ;
     skos:topConceptOf <> .
 
 <io>
@@ -381,12 +381,12 @@
 
 <is>
     a                 skos:Concept ;
-    skos:prefLabel    "Icelandic"@de, "Icelandic"@en ;
+    skos:prefLabel    "Islaendisch"@de, "Icelandic"@en ;
     skos:topConceptOf <> .
 
 <it>
     a                 skos:Concept ;
-    skos:prefLabel    "Italian"@de, "Italian"@en ;
+    skos:prefLabel    "Italiensisch"@de, "Italian"@en ;
     skos:topConceptOf <> .
 
 <iu>
@@ -396,17 +396,17 @@
 
 <ja>
     a                 skos:Concept ;
-    skos:prefLabel    "Japanese"@de, "Japanese"@en ;
+    skos:prefLabel    "Japanisch"@de, "Japanese"@en ;
     skos:topConceptOf <> .
 
 <jv>
     a                 skos:Concept ;
-    skos:prefLabel    "Javanese"@de, "Javanese"@en ;
+    skos:prefLabel    "Javanisch"@de, "Javanese"@en ;
     skos:topConceptOf <> .
 
 <ka>
     a                 skos:Concept ;
-    skos:prefLabel    "Georgian"@de, "Georgian"@en ;
+    skos:prefLabel    "Georgisch"@de, "Georgian"@en ;
     skos:topConceptOf <> .
 
 <kg>
@@ -426,27 +426,27 @@
 
 <kk>
     a                 skos:Concept ;
-    skos:prefLabel    "Kazakh"@de, "Kazakh"@en ;
+    skos:prefLabel    "Kasachisch"@de, "Kazakh"@en ;
     skos:topConceptOf <> .
 
 <kl>
     a                 skos:Concept ;
-    skos:prefLabel    "Kalaallisut; Greenlandic"@de, "Kalaallisut; Greenlandic"@en ;
+    skos:prefLabel    "Kalaallisut; Groenlaendisch"@de, "Kalaallisut; Greenlandic"@en ;
     skos:topConceptOf <> .
 
 <km>
     a                 skos:Concept ;
-    skos:prefLabel    "Central Khmer"@de, "Central Khmer"@en ;
+    skos:prefLabel    "Zentral Khmer"@de, "Central Khmer"@en ;
     skos:topConceptOf <> .
 
 <kn>
     a                 skos:Concept ;
-    skos:prefLabel    "Kannada"@de, "Kannada"@en ;
+    skos:prefLabel    "Kannadisch"@de, "Kannada"@en ;
     skos:topConceptOf <> .
 
 <ko>
     a                 skos:Concept ;
-    skos:prefLabel    "Korean"@de, "Korean"@en ;
+    skos:prefLabel    "Koreanisch"@de, "Korean"@en ;
     skos:topConceptOf <> .
 
 <kr>
@@ -461,7 +461,7 @@
 
 <ku>
     a                 skos:Concept ;
-    skos:prefLabel    "Kurdish"@de, "Kurdish"@en ;
+    skos:prefLabel    "Kurdisch"@de, "Kurdish"@en ;
     skos:topConceptOf <> .
 
 <kv>
@@ -471,22 +471,22 @@
 
 <kw>
     a                 skos:Concept ;
-    skos:prefLabel    "Cornish"@de, "Cornish"@en ;
+    skos:prefLabel    "Kornish"@de, "Cornish"@en ;
     skos:topConceptOf <> .
 
 <ky>
     a                 skos:Concept ;
-    skos:prefLabel    "Kirghiz; Kyrgyz"@de, "Kirghiz; Kyrgyz"@en ;
+    skos:prefLabel    "Kirgisisch; Kyrgyz"@de, "Kirghiz; Kyrgyz"@en ;
     skos:topConceptOf <> .
 
 <la>
     a                 skos:Concept ;
-    skos:prefLabel    "Latin"@de, "Latin"@en ;
+    skos:prefLabel    "Latein"@de, "Latin"@en ;
     skos:topConceptOf <> .
 
 <lb>
     a                 skos:Concept ;
-    skos:prefLabel    "Luxembourgish; Letzeburgesch"@de, "Luxembourgish; Letzeburgesch"@en ;
+    skos:prefLabel    "Luxemburgisch; Letzeburgesch"@de, "Luxembourgish; Letzeburgesch"@en ;
     skos:topConceptOf <> .
 
 <lg>
@@ -496,7 +496,7 @@
 
 <li>
     a                 skos:Concept ;
-    skos:prefLabel    "Limburgan; Limburger; Limburgish"@de, "Limburgan; Limburger; Limburgish"@en ;
+    skos:prefLabel    "Limburgisch; Südniederfränkisch"@de, "Limburgan; Limburger; Limburgish"@en ;
     skos:topConceptOf <> .
 
 <ln>
@@ -506,22 +506,22 @@
 
 <lo>
     a                 skos:Concept ;
-    skos:prefLabel    "Lao"@de, "Lao"@en ;
+    skos:prefLabel    "Laotisch"@de, "Lao"@en ;
     skos:topConceptOf <> .
 
 <lt>
     a                 skos:Concept ;
-    skos:prefLabel    "Lithuanian"@de, "Lithuanian"@en ;
+    skos:prefLabel    "Litauisch"@de, "Lithuanian"@en ;
     skos:topConceptOf <> .
 
 <lu>
     a                 skos:Concept ;
-    skos:prefLabel    "Luba-Katanga"@de, "Luba-Katanga"@en ;
+    skos:prefLabel    "Kiluba"@de, "Luba-Katanga"@en ;
     skos:topConceptOf <> .
 
 <lv>
     a                 skos:Concept ;
-    skos:prefLabel    "Latvian"@de, "Latvian"@en ;
+    skos:prefLabel    "Lettisch"@de, "Latvian"@en ;
     skos:topConceptOf <> .
 
 <mg>
@@ -531,27 +531,27 @@
 
 <mh>
     a                 skos:Concept ;
-    skos:prefLabel    "Marshallese"@de, "Marshallese"@en ;
+    skos:prefLabel    "Marshallesesisch"@de, "Marshallese"@en ;
     skos:topConceptOf <> .
 
 <mi>
     a                 skos:Concept ;
-    skos:prefLabel    "Maori"@de, "Maori"@en ;
+    skos:prefLabel    "Maorisch"@de, "Maori"@en ;
     skos:topConceptOf <> .
 
 <mk>
     a                 skos:Concept ;
-    skos:prefLabel    "Macedonian"@de, "Macedonian"@en ;
+    skos:prefLabel    "Mazedonisch"@de, "Macedonian"@en ;
     skos:topConceptOf <> .
 
 <ml>
     a                 skos:Concept ;
-    skos:prefLabel    "Malayalam"@de, "Malayalam"@en ;
+    skos:prefLabel    "Malajalam"@de, "Malayalam"@en ;
     skos:topConceptOf <> .
 
 <mn>
     a                 skos:Concept ;
-    skos:prefLabel    "Mongolian"@de, "Mongolian"@en ;
+    skos:prefLabel    "Mongolisch"@de, "Mongolian"@en ;
     skos:topConceptOf <> .
 
 <mr>
@@ -561,22 +561,22 @@
 
 <ms>
     a                 skos:Concept ;
-    skos:prefLabel    "Malay"@de, "Malay"@en ;
+    skos:prefLabel    "Malaiisch"@de, "Malay"@en ;
     skos:topConceptOf <> .
 
 <mt>
     a                 skos:Concept ;
-    skos:prefLabel    "Maltese"@de, "Maltese"@en ;
+    skos:prefLabel    "Maltesisch"@de, "Maltese"@en ;
     skos:topConceptOf <> .
 
 <my>
     a                 skos:Concept ;
-    skos:prefLabel    "Burmese"@de, "Burmese"@en ;
+    skos:prefLabel    "Birmanisch; Burmesisch"@de, "Burmese"@en ;
     skos:topConceptOf <> .
 
 <na>
     a                 skos:Concept ;
-    skos:prefLabel    "Nauru"@de, "Nauru"@en ;
+    skos:prefLabel    "Nauruisch"@de, "Nauru"@en ;
     skos:topConceptOf <> .
 
 <nb>
@@ -601,22 +601,22 @@
 
 <nl>
     a                 skos:Concept ;
-    skos:prefLabel    "Dutch; Flemish"@de, "Dutch; Flemish"@en ;
+    skos:prefLabel    "Niederländisch; Flämisch"@de, "Dutch; Flemish"@en ;
     skos:topConceptOf <> .
 
 <nn>
     a                 skos:Concept ;
-    skos:prefLabel    "Norwegian Nynorsk; Nynorsk, Norwegian"@de, "Norwegian Nynorsk; Nynorsk, Norwegian"@en ;
+    skos:prefLabel    "Norwegisch Nynorsk; Nynorsk, Norwegisch"@de, "Norwegian Nynorsk; Nynorsk, Norwegian"@en ;
     skos:topConceptOf <> .
 
 <no>
     a                 skos:Concept ;
-    skos:prefLabel    "Norwegian"@de, "Norwegian"@en ;
+    skos:prefLabel    "Norwegisch"@de, "Norwegian"@en ;
     skos:topConceptOf <> .
 
 <nr>
     a                 skos:Concept ;
-    skos:prefLabel    "Ndebele, South; South Ndebele"@de, "Ndebele, South; South Ndebele"@en ;
+    skos:prefLabel    "Ndebele, Sued; Sued-Ndebele"@de, "Ndebele, South; South Ndebele"@en ;
     skos:topConceptOf <> .
 
 <nv>
@@ -631,12 +631,12 @@
 
 <oc>
     a                 skos:Concept ;
-    skos:prefLabel    "Occitan (post 1500); Provençal"@de, "Occitan (post 1500); Provençal"@en ;
+    skos:prefLabel    "Okzitanisch (post 1500); Provençal"@de, "Occitan (post 1500); Provençal"@en ;
     skos:topConceptOf <> .
 
 <oj>
     a                 skos:Concept ;
-    skos:prefLabel    "Ojibwa"@de, "Ojibwa"@en ;
+    skos:prefLabel    "Ojibwe"@de, "Ojibwa"@en ;
     skos:topConceptOf <> .
 
 <om>
@@ -651,12 +651,12 @@
 
 <os>
     a                 skos:Concept ;
-    skos:prefLabel    "Ossetian; Ossetic"@de, "Ossetian; Ossetic"@en ;
+    skos:prefLabel    "Osseti; Ossetisch"@de, "Ossetian; Ossetic"@en ;
     skos:topConceptOf <> .
 
 <pa>
     a                 skos:Concept ;
-    skos:prefLabel    "Panjabi; Punjabi"@de, "Panjabi; Punjabi"@en ;
+    skos:prefLabel    "Panjabi; Pandschabi"@de, "Panjabi; Punjabi"@en ;
     skos:topConceptOf <> .
 
 <pi>
@@ -666,17 +666,17 @@
 
 <pl>
     a                 skos:Concept ;
-    skos:prefLabel    "Polish"@de, "Polish"@en ;
+    skos:prefLabel    "Polnisch"@de, "Polish"@en ;
     skos:topConceptOf <> .
 
 <ps>
     a                 skos:Concept ;
-    skos:prefLabel    "Pushto; Pashto"@de, "Pushto; Pashto"@en ;
+    skos:prefLabel    "Puschtu; Paschtu"@de, "Pushto; Pashto"@en ;
     skos:topConceptOf <> .
 
 <pt>
     a                 skos:Concept ;
-    skos:prefLabel    "Portuguese"@de, "Portuguese"@en ;
+    skos:prefLabel    "Portugiesisch"@de, "Portuguese"@en ;
     skos:topConceptOf <> .
 
 <qu>
@@ -686,27 +686,27 @@
 
 <rm>
     a                 skos:Concept ;
-    skos:prefLabel    "Romansh"@de, "Romansh"@en ;
+    skos:prefLabel    "Romanisch"@de, "Romansh"@en ;
     skos:topConceptOf <> .
 
 <rn>
     a                 skos:Concept ;
-    skos:prefLabel    "Rundi"@de, "Rundi"@en ;
+    skos:prefLabel    "Kirundi"@de, "Rundi"@en ;
     skos:topConceptOf <> .
 
 <ro>
     a                 skos:Concept ;
-    skos:prefLabel    "Romanian; Moldavian; Moldovan"@de, "Romanian; Moldavian; Moldovan"@en ;
+    skos:prefLabel    "Rumänisch; Moldavisch; Moldovan"@de, "Romanian; Moldavian; Moldovan"@en ;
     skos:topConceptOf <> .
 
 <ru>
     a                 skos:Concept ;
-    skos:prefLabel    "Russian"@de, "Russian"@en ;
+    skos:prefLabel    "Russisch"@de, "Russian"@en ;
     skos:topConceptOf <> .
 
 <rw>
     a                 skos:Concept ;
-    skos:prefLabel    "Kinyarwanda"@de, "Kinyarwanda"@en ;
+    skos:prefLabel    "Kijarwanda"@de, "Kinyarwanda"@en ;
     skos:topConceptOf <> .
 
 <sa>
@@ -716,7 +716,7 @@
 
 <sc>
     a                 skos:Concept ;
-    skos:prefLabel    "Sardinian"@de, "Sardinian"@en ;
+    skos:prefLabel    "Sardisch"@de, "Sardinian"@en ;
     skos:topConceptOf <> .
 
 <sd>
@@ -726,7 +726,7 @@
 
 <se>
     a                 skos:Concept ;
-    skos:prefLabel    "Northern Sami"@de, "Northern Sami"@en ;
+    skos:prefLabel    "Nordsamisch"@de, "Northern Sami"@en ;
     skos:topConceptOf <> .
 
 <sg>
@@ -736,97 +736,97 @@
 
 <si>
     a                 skos:Concept ;
-    skos:prefLabel    "Sinhala; Sinhalese"@de, "Sinhala; Sinhalese"@en ;
+    skos:prefLabel    "Singhalesisch"@de, "Sinhala; Sinhalese"@en ;
     skos:topConceptOf <> .
 
 <sk>
     a                 skos:Concept ;
-    skos:prefLabel    "Slovak"@de, "Slovak"@en ;
+    skos:prefLabel    "Slowakisch"@de, "Slovak"@en ;
     skos:topConceptOf <> .
 
 <sl>
     a                 skos:Concept ;
-    skos:prefLabel    "Slovenian"@de, "Slovenian"@en ;
+    skos:prefLabel    "Slowenisch"@de, "Slovenian"@en ;
     skos:topConceptOf <> .
 
 <sm>
     a                 skos:Concept ;
-    skos:prefLabel    "Samoan"@de, "Samoan"@en ;
+    skos:prefLabel    "Samoanisch"@de, "Samoan"@en ;
     skos:topConceptOf <> .
 
 <sn>
     a                 skos:Concept ;
-    skos:prefLabel    "Shona"@de, "Shona"@en ;
+    skos:prefLabel    "Schonisch"@de, "Shona"@en ;
     skos:topConceptOf <> .
 
 <so>
     a                 skos:Concept ;
-    skos:prefLabel    "Somali"@de, "Somali"@en ;
+    skos:prefLabel    "Somalisch"@de, "Somali"@en ;
     skos:topConceptOf <> .
 
 <sq>
     a                 skos:Concept ;
-    skos:prefLabel    "Albanian"@de, "Albanian"@en ;
+    skos:prefLabel    "Albanisch"@de, "Albanian"@en ;
     skos:topConceptOf <> .
 
 <sr>
     a                 skos:Concept ;
-    skos:prefLabel    "Serbian"@de, "Serbian"@en ;
+    skos:prefLabel    "Serbisch"@de, "Serbian"@en ;
     skos:topConceptOf <> .
 
 <ss>
     a                 skos:Concept ;
-    skos:prefLabel    "Swati"@de, "Swati"@en ;
+    skos:prefLabel    "Swasiländisch"@de, "Swati"@en ;
     skos:topConceptOf <> .
 
 <st>
     a                 skos:Concept ;
-    skos:prefLabel    "Sotho, Southern"@de, "Sotho, Southern"@en ;
+    skos:prefLabel    "Sesothisch"@de, "Sotho, Southern"@en ;
     skos:topConceptOf <> .
 
 <su>
     a                 skos:Concept ;
-    skos:prefLabel    "Sundanese"@de, "Sundanese"@en ;
+    skos:prefLabel    "Sundanesisch"@de, "Sundanese"@en ;
     skos:topConceptOf <> .
 
 <sv>
     a                 skos:Concept ;
-    skos:prefLabel    "Swedish"@de, "Swedish"@en ;
+    skos:prefLabel    "Schwedisch"@de, "Swedish"@en ;
     skos:topConceptOf <> .
 
 <sw>
     a                 skos:Concept ;
-    skos:prefLabel    "Swahili"@de, "Swahili"@en ;
+    skos:prefLabel    "Suaheli"@de, "Swahili"@en ;
     skos:topConceptOf <> .
 
 <ta>
     a                 skos:Concept ;
-    skos:prefLabel    "Tamil"@de, "Tamil"@en ;
+    skos:prefLabel    "Tamilisch"@de, "Tamil"@en ;
     skos:topConceptOf <> .
 
 <te>
     a                 skos:Concept ;
-    skos:prefLabel    "Telugu"@de, "Telugu"@en ;
+    skos:prefLabel    "Tegulu"@de, "Telugu"@en ;
     skos:topConceptOf <> .
 
 <tg>
     a                 skos:Concept ;
-    skos:prefLabel    "Tajik"@de, "Tajik"@en ;
+    skos:prefLabel    "Tadschikisch"@de, "Tajik"@en ;
     skos:topConceptOf <> .
 
 <th>
     a                 skos:Concept ;
-    skos:prefLabel    "Thai"@de, "Thai"@en ;
+    skos:prefLabel    "Thailändisch"@de, "Thai"@en ;
     skos:topConceptOf <> .
 
 <ti>
     a                 skos:Concept ;
-    skos:prefLabel    "Tigrinya"@de, "Tigrinya"@en ;
+    skos:prefLabel    "Tigrinja"@de, "Tigrinya"@en ;
     skos:topConceptOf <> .
 
 <tk>
     a                 skos:Concept ;
-    skos:prefLabel    "Turkmen"@de, "Turkmen"@en ;
+    skos:prefLabel    "Turkmenisch"@de, "Turkmen"@en ;
     skos:topConceptOf <> .
 
 <tl>
@@ -836,27 +836,27 @@
 
 <tn>
     a                 skos:Concept ;
-    skos:prefLabel    "Tswana"@de, "Tswana"@en ;
+    skos:prefLabel    "Sezuan"@de, "Tswana"@en ;
     skos:topConceptOf <> .
 
 <to>
     a                 skos:Concept ;
-    skos:prefLabel    "Tonga (Tonga Islands)"@de, "Tonga (Tonga Islands)"@en ;
+    skos:prefLabel    "Tongaisch (Tonga Islands)"@de, "Tonga (Tonga Islands)"@en ;
     skos:topConceptOf <> .
 
 <tr>
     a                 skos:Concept ;
-    skos:prefLabel    "Turkish"@de, "Turkish"@en ;
+    skos:prefLabel    "Tuerkisch"@de, "Turkish"@en ;
     skos:topConceptOf <> .
 
 <ts>
     a                 skos:Concept ;
-    skos:prefLabel    "Tsonga"@de, "Tsonga"@en ;
+    skos:prefLabel    "Tsongaisch"@de, "Tsonga"@en ;
     skos:topConceptOf <> .
 
 <tt>
     a                 skos:Concept ;
-    skos:prefLabel    "Tatar"@de, "Tatar"@en ;
+    skos:prefLabel    "Tatarisch"@de, "Tatar"@en ;
     skos:topConceptOf <> .
 
 <tw>
@@ -866,17 +866,17 @@
 
 <ty>
     a                 skos:Concept ;
-    skos:prefLabel    "Tahitian"@de, "Tahitian"@en ;
+    skos:prefLabel    "Tahitiamisch, Tahitisch"@de, "Tahitian"@en ;
     skos:topConceptOf <> .
 
 <ug>
     a                 skos:Concept ;
-    skos:prefLabel    "Uighur; Uyghur"@de, "Uighur; Uyghur"@en ;
+    skos:prefLabel    "Uigur; Uygur"@de, "Uighur; Uyghur"@en ;
     skos:topConceptOf <> .
 
 <uk>
     a                 skos:Concept ;
-    skos:prefLabel    "Ukrainian"@de, "Ukrainian"@en ;
+    skos:prefLabel    "Ukrainisch"@de, "Ukrainian"@en ;
     skos:topConceptOf <> .
 
 <ur>
@@ -886,7 +886,7 @@
 
 <uz>
     a                 skos:Concept ;
-    skos:prefLabel    "Uzbek"@de, "Uzbek"@en ;
+    skos:prefLabel    "Usbekisch"@de, "Uzbek"@en ;
     skos:topConceptOf <> .
 
 <ve>
@@ -896,17 +896,17 @@
 
 <vi>
     a                 skos:Concept ;
-    skos:prefLabel    "Vietnamese"@de, "Vietnamese"@en ;
+    skos:prefLabel    "Vietnamesisch"@de, "Vietnamese"@en ;
     skos:topConceptOf <> .
 
 <vo>
     a                 skos:Concept ;
-    skos:prefLabel    "Volapük"@de, "Volapük"@en ;
+    skos:prefLabel    "Volapuek"@de, "Volapuek"@en ;
     skos:topConceptOf <> .
 
 <wa>
     a                 skos:Concept ;
-    skos:prefLabel    "Walloon"@de, "Walloon"@en ;
+    skos:prefLabel    "Wallonisch"@de, "Walloon"@en ;
     skos:topConceptOf <> .
 
 <wo>
@@ -921,12 +921,12 @@
 
 <yi>
     a                 skos:Concept ;
-    skos:prefLabel    "Yiddish"@de, "Yiddish"@en ;
+    skos:prefLabel    "Jiddish"@de, "Yiddish"@en ;
     skos:topConceptOf <> .
 
 <yo>
     a                 skos:Concept ;
-    skos:prefLabel    "Yoruba"@de, "Yoruba"@en ;
+    skos:prefLabel    "Joruba"@de, "Yoruba"@en ;
     skos:topConceptOf <> .
 
 <za>
@@ -936,7 +936,7 @@
 
 <zh>
     a                 skos:Concept ;
-    skos:prefLabel    "Chinese"@de, "Chinese"@en ;
+    skos:prefLabel    "Chinesisch"@de, "Chinese"@en ;
     skos:topConceptOf <> .
 
 <zu>

@@ -13,50 +13,50 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "school"@de, "school"@en ;
+    skos:prefLabel    "Schule"@de, "school"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "vocational-training"@de, "vocational-training"@en ;
+    skos:prefLabel    "Berufsausbildung"@de, "vocational-training"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "university-studies"@de, "university-studies"@en ;
+    skos:prefLabel    "Universitätsstudent"@de, "university-studies"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "voluntary-service"@de, "voluntary-service"@en ;
+    skos:prefLabel    "Freiwilligendienst"@de, "voluntary-service"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "school-teacher"@de, "school-teacher"@en ;
+    skos:prefLabel    "Schul Lehrkraft"@de, "school-teacher"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "other-profession"@de, "other-profession"@en ;
+    skos:prefLabel    "Anderer Beruf"@de, "other-profession"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "care-work"@de, "care-work"@en ;
+    skos:prefLabel    "Pflegekraft"@de, "care-work"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "career-break"@de, "career-break"@en ;
+    skos:prefLabel    "karrierepause"@de, "career-break"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "retirement"@de, "retirement"@en ;
+    skos:prefLabel    "Ruhestand"@de, "retirement"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel    "transition-phase"@de, "transition-phase"@en ;
+    skos:prefLabel    "Übergangsphase"@de, "transition-phase"@en ;
     skos:topConceptOf <> .

@@ -44,14 +44,14 @@
 <1>
     a                 skos:Concept ;
     skos:prefLabel    "Rheinisch-Westfälische Technische Hochschule Aachen"@de,
-                      "Rheinisch-Westfälische Technische Hochschule Aachen"@en ;
-    skos:altLabel     "Aachen TH"@de, "Aachen TH"@en ;
+                      "Rhine-Westphalia Technical University Aachen"@en ;
+    skos:altLabel     "RWTH Aachen"@de, "RWTH Aachen"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
     skos:prefLabel    "Fachhochschule Aachen"@de, "Fachhochschule Aachen"@en ;
-    skos:altLabel     "Aachen FH"@de, "Aachen FH"@en ;
+    skos:altLabel "FH Aachen"@de, "FH Aachen"@en ;
     skos:topConceptOf <> .
 
 <3>

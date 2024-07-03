@@ -205,7 +205,7 @@
 
 <el>
     a                 skos:Concept ;
-    skos:prefLabel    "Griechisch (1453-)"@de, "Greek, Modern (1453-)"@en ;
+    skos:prefLabel "Griechisch"@de, "Greek, Modern"@en ;
     skos:topConceptOf <> .
 
 <en>

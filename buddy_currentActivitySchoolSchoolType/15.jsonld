@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivitySchoolSchoolType/15",
   "type": "Concept",
   "prefLabel": {
-    "en": "abendgymnasium",
-    "de": "evening high school"
+    "en": "evening grammar school",
+    "de": "abendgymnasium"
   },
   "inScheme": [
     {

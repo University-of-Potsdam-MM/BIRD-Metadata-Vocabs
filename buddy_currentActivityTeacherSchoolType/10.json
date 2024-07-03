@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityTeacherSchoolType/10",
   "type": "Concept",
   "prefLabel": {
-    "en": "berufsfachschule",
-    "de": "berufsfachschule"
+    "en": "vocational professinal school",
+    "de": "Berufsfachschule"
   },
   "inScheme": [
     {

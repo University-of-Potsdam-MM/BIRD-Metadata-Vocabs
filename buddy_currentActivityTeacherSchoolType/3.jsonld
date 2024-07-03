@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityTeacherSchoolType/3",
   "type": "Concept",
   "prefLabel": {
-    "en": "realschule",
-    "de": "realschule"
+    "en": "secondary modern school",
+    "de": "Realschule"
   },
   "inScheme": [
     {

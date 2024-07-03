@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityTeacherSchoolType/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "grundschule",
-    "de": "grundschule"
+    "en": "elementary school",
+    "de": "Grundschule"
   },
   "inScheme": [
     {

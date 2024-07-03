@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityTeacherExperience/3",
   "type": "Concept",
   "prefLabel": {
-    "en": "extensive-professional-experience",
-    "de": "extensive-professional-experience"
+    "en": "extensive-professional-experience; expert",
+    "de": "umfangreiche Berufserfahrung; Experte"
   },
   "inScheme": [
     {

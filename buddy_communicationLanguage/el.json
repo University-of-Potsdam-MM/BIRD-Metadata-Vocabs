@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_communicationLanguage/el",
   "type": "Concept",
   "prefLabel": {
-    "en": "Greek, Modern (1453-)",
-    "de": "Griechisch (1453-)"
+    "en": "Greek, Modern",
+    "de": "Griechisch"
   },
   "inScheme": [
     {

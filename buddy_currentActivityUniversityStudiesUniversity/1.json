@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "en": "Rhine-Westphalia Technical University Aachen",
     "de": "Rheinisch-Westfälische Technische Hochschule Aachen"
   },
   "altLabel": {
     "en": [
-      "Aachen TH"
+      "RWTH Aachen"
     ],
     "de": [
-      "Aachen TH"
+      "RWTH Aachen"
     ]
   },
   "inScheme": [

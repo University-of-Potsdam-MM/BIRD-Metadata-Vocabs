@@ -2,8 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivitySchoolSubject/12",
   "type": "Concept",
   "prefLabel": {
-    "en": "geography",
-    "de": "Geographie; Geografie; Erdkunde"
+    "en": "geography"
   },
   "inScheme": [
     {

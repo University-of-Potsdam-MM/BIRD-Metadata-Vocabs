@@ -14,75 +14,75 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "grundschule"@de, "grundschule"@en ;
+    skos:prefLabel "Grundschule"@de, "elementary school"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "hauptschule"@de, "hauptschule"@en ;
+    skos:prefLabel "Hauptschule"@de, "middle school"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "realschule"@de, "realschule"@en ;
+    skos:prefLabel "Realschule"@de, "secondary modern school"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "gesamtschule"@de, "gesamtschule"@en ;
+    skos:prefLabel "Gesamtschule"@de, "comprehensive school"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "förderschule"@de, "förderschule"@en ;
+    skos:prefLabel "Foerderschule"@de, "special needs school"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "oberschule"@de, "oberschule"@en ;
+    skos:prefLabel "Oberschule"@de, "secondary school"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "gymnasium"@de, "gymnasium"@en ;
+    skos:prefLabel "Gymnasium"@de, "grammar school"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "gemeinschaftsschule"@de, "gemeinschaftsschule"@en ;
+    skos:prefLabel "Gemeinschaftsschule"@de, "community school"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "sekundarschule"@de, "sekundarschule"@en ;
+    skos:prefLabel "Sekundarschule"@de, "High school"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel    "berufsfachschule"@de, "berufsfachschule"@en ;
+    skos:prefLabel "Berufsfachschule"@de, "vocational professinal school"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel    "berufsschule"@de, "berufsschule"@en ;
+    skos:prefLabel "berufsschule"@de, "vocational School"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel    "fachoberschule"@de, "fachoberschule"@en ;
+    skos:prefLabel "fachoberschule"@de, "technical college"@en ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel    "berufliches-gymnasium"@de, "berufliches-gymnasium"@en ;
+    skos:prefLabel "berufliches-gymnasium"@de, "vocational grammar school"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel    "privat-und-ersatzschule"@de, "privat-und-ersatzschule"@en ;
+    skos:prefLabel "privat-und-ersatzschule"@de, "private-and-substituteschool"@en ;
     skos:topConceptOf <> .
 
 <15>
     a                 skos:Concept ;
-    skos:prefLabel    "abendgymnasium"@de, "abendgymnasium"@en ;
+    skos:prefLabel "abendgymnasium"@de, "evening grammar school"@en ;
     skos:topConceptOf <> .

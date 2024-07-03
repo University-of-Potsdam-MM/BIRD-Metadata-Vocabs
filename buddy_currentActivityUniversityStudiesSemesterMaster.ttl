@@ -49,5 +49,5 @@
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "8-or-higher"@de, "8-or-higher"@en ;
+    skos:prefLabel "8-oder-höher"@de, "8-or-higher"@en ;
     skos:topConceptOf <> .

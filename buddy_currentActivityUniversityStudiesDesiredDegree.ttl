@@ -29,15 +29,15 @@
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "state-examination"@de, "state-examination"@en ;
+    skos:prefLabel "Staatsexam"@de, "state-examination"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "diploma"@de, "diploma"@en ;
+    skos:prefLabel "Diplom"@de, "diploma"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "doctorate"@de, "doctorate"@en ;
+    skos:prefLabel "Doktor"@de, "doctorate"@en ;
     skos:topConceptOf <> .

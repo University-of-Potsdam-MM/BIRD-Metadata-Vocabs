@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/5",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Anhalt - Anhalt University of Applied Sciences",
+    "en": "University Anhalt - Anhalt University of Applied Sciences",
     "de": "Hochschule Anhalt - Anhalt University of Applied Sciences"
   },
   "altLabel": {
     "en": [
-      "Anhalt H"
+      "HS Anhalt"
     ],
     "de": [
-      "Anhalt H"
+      "HS Anhalt"
     ]
   },
   "inScheme": [

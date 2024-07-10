@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/19",
   "type": "Concept",
   "prefLabel": {
-    "en": "Evangelische Hochschule Berlin",
+    "en": "Protestant University of Applied Sciences Berlin",
     "de": "Evangelische Hochschule Berlin"
   },
   "altLabel": {
     "en": [
-      "Berlin EvH"
+      "EH Berlin"
     ],
     "de": [
-      "Berlin EvH"
+      "EH Berlin"
     ]
   },
   "inScheme": [

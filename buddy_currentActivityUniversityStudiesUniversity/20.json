@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/20",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität der Künste Berlin",
+    "en": "The Berlin University of the Arts",
     "de": "Universität der Künste Berlin"
   },
   "altLabel": {
     "en": [
-      "Berlin UdK"
+      "udk Berlin"
     ],
     "de": [
-      "Berlin UdK"
+      "udk Berlin"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/28",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Bielefeld - University of Applied Sciences and Arts (HSBI)",
-    "de": "Hochschule Bielefeld - University of Applied Sciences and Arts (HSBI)"
+    "en": "Hochschule Bielefeld - University of Applied Sciences and Arts",
+    "de": "Hochschule Bielefeld - Universität für angewandte Wissenschaften und Künste"
   },
   "altLabel": {
     "en": [
-      "Bielefeld H"
+      "HS Bielefeld"
     ],
     "de": [
-      "Bielefeld H"
+      "HS Bielefeld"
     ]
   },
   "inScheme": [

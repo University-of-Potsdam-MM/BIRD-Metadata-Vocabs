@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/29",
   "type": "Concept",
   "prefLabel": {
-    "en": "Ruhr-Universität Bochum",
+    "en": "Ruhr-University Bochum",
     "de": "Ruhr-Universität Bochum"
   },
   "altLabel": {
     "en": [
-      "Bochum U"
+      "RU Bochum"
     ],
     "de": [
-      "Bochum U"
+      "RU Bochum"
     ]
   },
   "inScheme": [

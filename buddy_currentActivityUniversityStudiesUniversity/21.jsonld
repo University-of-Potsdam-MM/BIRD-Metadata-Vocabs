@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/21",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Musik Hanns Eisler Berlin",
+    "en": "Hanns Eisler School of Music Berlin",
     "de": "Hochschule für Musik Hanns Eisler Berlin"
   },
   "altLabel": {
     "en": [
-      "Berlin HfM"
+      "HFM Berlin"
     ],
     "de": [
-      "Berlin HfM"
+      "HFM Berlin"
     ]
   },
   "inScheme": [

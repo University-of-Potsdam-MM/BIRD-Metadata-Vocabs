@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/6",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Augsburg",
+    "en": "University Augsburg",
     "de": "Universität Augsburg"
   },
   "altLabel": {
     "en": [
-      "Augsburg U"
+      "Uni Augsburg"
     ],
     "de": [
-      "Augsburg U"
+      "Uni Augsburg"
     ]
   },
   "inScheme": [

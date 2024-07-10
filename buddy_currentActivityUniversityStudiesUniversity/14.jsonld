@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/14",
   "type": "Concept",
   "prefLabel": {
-    "en": "ESCP Europe Wirtschaftshochschule Berlin e.V.",
-    "de": "ESCP Europe Wirtschaftshochschule Berlin e.V."
+    "en": "ESCP Business School",
+    "de": "ESCP Europa Wirtschaftshochschule Berlin e.V."
   },
   "altLabel": {
     "en": [
-      "Berlin ESCP"
+      "ESCP Berlin"
     ],
     "de": [
-      "Berlin ESCP"
+      "ESCP Berlin"
     ]
   },
   "inScheme": [

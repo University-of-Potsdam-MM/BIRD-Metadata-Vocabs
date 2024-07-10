@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/7",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Hochschule Augsburg",
+    "en": "University of Applied Sciences Augsburg",
     "de": "Technische Hochschule Augsburg"
   },
   "altLabel": {
     "en": [
-      "Augsburg TH"
+      "HS Augsburg"
     ],
     "de": [
-      "Augsburg TH"
+      "HS Augsburg"
     ]
   },
   "inScheme": [

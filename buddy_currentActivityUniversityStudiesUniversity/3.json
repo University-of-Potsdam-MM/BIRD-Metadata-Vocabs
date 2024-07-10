@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/3",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Aalen - Technik und Wirtschaft",
+    "en": "University Aalen - Technology and Economics",
     "de": "Hochschule Aalen - Technik und Wirtschaft"
   },
   "altLabel": {
     "en": [
-      "Aalen H"
+      "HTW Aalen"
     ],
     "de": [
-      "Aalen H"
+      "HTW Aalen"
     ]
   },
   "inScheme": [

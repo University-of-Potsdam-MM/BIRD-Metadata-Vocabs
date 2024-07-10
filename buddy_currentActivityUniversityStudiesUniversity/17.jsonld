@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/17",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Wirtschaft und Recht Berlin",
+    "en": "Berlin School of Economics and Law",
     "de": "Hochschule für Wirtschaft und Recht Berlin"
   },
   "altLabel": {
     "en": [
-      "Berlin HWR"
+      "HWR Berlin"
     ],
     "de": [
-      "Berlin HWR"
+      "HWR Berlin"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/16",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Technik und Wirtschaft Berlin",
+    "en": "University of Applied Sciences Berlin",
     "de": "Hochschule für Technik und Wirtschaft Berlin"
   },
   "altLabel": {
     "en": [
-      "Berlin HTW"
+      "HTW Berlin"
     ],
     "de": [
-      "Berlin HTW"
+      "HTW Berlin"
     ]
   },
   "inScheme": [

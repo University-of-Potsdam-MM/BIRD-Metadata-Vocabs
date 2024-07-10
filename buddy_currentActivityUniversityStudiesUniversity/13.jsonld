@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/13",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Universität Berlin",
+    "en": "Technical University Berlin",
     "de": "Technische Universität Berlin"
   },
   "altLabel": {
     "en": [
-      "Berlin TU"
+      "TU Berlin"
     ],
     "de": [
-      "Berlin TU"
+      "TU Berlin"
     ]
   },
   "inScheme": [

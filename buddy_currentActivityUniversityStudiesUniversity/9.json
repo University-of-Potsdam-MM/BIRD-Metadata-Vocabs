@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/9",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Bayreuth",
+    "en": "University of Bayreuth",
     "de": "Universität Bayreuth"
   },
   "altLabel": {
     "en": [
-      "Bayreuth U"
+      "Uni Bayreuth"
     ],
     "de": [
-      "Bayreuth U"
+      "Uni Bayreuth"
     ]
   },
   "inScheme": [

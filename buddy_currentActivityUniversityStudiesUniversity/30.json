@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/30",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Bochum - University of Applied Sciences",
-    "de": "Hochschule Bochum - University of Applied Sciences"
+    "en": "Bochum University of Applied Sciences",
+    "de": "Universität für angewandte Wissenschaften Bochum"
   },
   "altLabel": {
     "en": [
-      "Bochum H"
+      "BO Bochum"
     ],
     "de": [
-      "Bochum H"
+      "BO Bochum"
     ]
   },
   "inScheme": [

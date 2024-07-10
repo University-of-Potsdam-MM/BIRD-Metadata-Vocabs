@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/8",
   "type": "Concept",
   "prefLabel": {
-    "en": "Otto-Friedrich-Universität Bamberg",
+    "en": "Otto-Friedrich-University Bamberg",
     "de": "Otto-Friedrich-Universität Bamberg"
   },
   "altLabel": {
     "en": [
-      "Bamberg U"
+      "Uni Bamberg"
     ],
     "de": [
-      "Bamberg U"
+      "Uni Bamberg"
     ]
   },
   "inScheme": [

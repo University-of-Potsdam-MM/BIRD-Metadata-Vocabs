@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_currentActivityUniversityStudiesUniversity/11",
   "type": "Concept",
   "prefLabel": {
-    "en": "Freie Universität Berlin",
+    "en": "Free University Berlin",
     "de": "Freie Universität Berlin"
   },
   "altLabel": {
     "en": [
-      "Berlin FU"
+      "FU Berlin"
     ],
     "de": [
-      "Berlin FU"
+      "FU Berlin"
     ]
   },
   "inScheme": [

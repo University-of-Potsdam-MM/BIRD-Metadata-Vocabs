@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "remote"@de, "remote"@en ;
+    skos:prefLabel    "online"@de, "online"@en ;
     skos:topConceptOf <> .
 
 <2>

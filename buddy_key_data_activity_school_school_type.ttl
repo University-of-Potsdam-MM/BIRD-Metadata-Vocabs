@@ -1,12 +1,12 @@
-@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_current_activity_other_profession_industry/> .
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_school_school_type/> .
 @prefix dct:  <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
 
 <>
     a                  skos:ConceptScheme ;
-    dct:title          "Vocabulary of buddy_current_activity_other_profession_industry"@en,
-                       "Vokabular von buddy_current_activity_other_profession_industry"@de ;
+    dct:title          "Vocabulary of buddy_key_data_activity_school_school_type"@en,
+                       "Vokabular von buddy_key_data_activity_school_school_type"@de ;
     dct:creator        "BIRD"@de ;
     dct:created        "2024-06-05"^^xsd:date ;
     dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
@@ -14,75 +14,75 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Bau-Architektur-Vermessung"@de, "construction-architecture-surveying"@en ;
+    skos:prefLabel "Grundschule"@de, "elementary school"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Dienstleistungen"@de, "services"@en ;
+    skos:prefLabel "Hauptschule"@de, "middle school"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Elektrotechnik"@de, "electrical"@en ;
+    skos:prefLabel "Realschule"@de, "secondary modern school"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Gesundheit"@de, "health"@en ;
+    skos:prefLabel "Gesamtschule"@de, "comprehensive school"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "IT-Comuter"@de, "it-computer"@en ;
+    skos:prefLabel "Foerderschule"@de, "special needs school"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Kunst-Kultur-Design"@de, "arts-culture-design"@en ;
+    skos:prefLabel "Oberschule"@de, "secondary school"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Landwirtschaft-Natur-Umwelt"@de, "agriculture-nature-environment"@en ;
+    skos:prefLabel "Gymnasium"@de, "grammar school"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "Medien"@de, "media"@en ;
+    skos:prefLabel "Gemeinschaftsschule"@de, "community school"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "Metallkunde-Maschinenbau"@de, "metallurgy-mechanical-engineering"@en ;
+    skos:prefLabel "Sekundarschule"@de, "High school"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel    "Naturwissenschaften"@de, "natural-sciences"@en ;
+    skos:prefLabel "Berufsfachschule"@de, "vocational professinal school"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel    "Produktion-Herstellung"@de, "production-manufacturing"@en ;
+    skos:prefLabel "Berufsschule"@de, "vocational School"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel    "Sozialpädagogik"@de, "social-educational"@en ;
+    skos:prefLabel "Fachoberschule"@de, "technical college"@en ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel    "Technologie-technologische Bereiche"@de, "technology-technology-fields"@en ;
+    skos:prefLabel "Berufliches-gymnasium"@de, "vocational grammar school"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel    "Transport-Logistik"@de, "transport-logistics"@en ;
+    skos:prefLabel "Privat-und-Ersatzschule"@de, "private-and-substituteschool"@en ;
     skos:topConceptOf <> .
 
 <15>
     a                 skos:Concept ;
-    skos:prefLabel    "Wirtschaft-Verwaltung"@de, "economics-administration"@en ;
+    skos:prefLabel "Abendgymnasium"@de, "evening grammar school"@en ;
     skos:topConceptOf <> .

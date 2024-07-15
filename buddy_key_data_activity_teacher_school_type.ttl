@@ -1,12 +1,12 @@
-@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_current_activity_school_school_type/> .
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_teacher_school_type/> .
 @prefix dct:  <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
 
 <>
     a                  skos:ConceptScheme ;
-    dct:title          "Vocabulary of buddy_current_activity_school_school_type"@en,
-                       "Vokabular von buddy_current_activity_school_school_type"@de ;
+    dct:title          "Vocabulary of buddy_key_data_activity_teacher_school_type"@en,
+                       "Vokabular von buddy_key_data_activity_teacher_school_type"@de ;
     dct:creator        "BIRD"@de ;
     dct:created        "2024-06-05"^^xsd:date ;
     dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
@@ -64,25 +64,25 @@
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel "Berufsschule"@de, "vocational School"@en ;
+    skos:prefLabel "berufsschule"@de, "vocational School"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel "Fachoberschule"@de, "technical college"@en ;
+    skos:prefLabel "fachoberschule"@de, "technical college"@en ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel "Berufliches-gymnasium"@de, "vocational grammar school"@en ;
+    skos:prefLabel "berufliches-gymnasium"@de, "vocational grammar school"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel "Privat-und-Ersatzschule"@de, "private-and-substituteschool"@en ;
+    skos:prefLabel "privat-und-ersatzschule"@de, "private-and-substituteschool"@en ;
     skos:topConceptOf <> .
 
 <15>
     a                 skos:Concept ;
-    skos:prefLabel "Abendgymnasium"@de, "evening grammar school"@en ;
+    skos:prefLabel "abendgymnasium"@de, "evening grammar school"@en ;
     skos:topConceptOf <> .

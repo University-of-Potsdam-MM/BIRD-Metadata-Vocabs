@@ -1,12 +1,12 @@
-@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_current_activity_retirement_previous_industry/> .
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_other_profession_industry/> .
 @prefix dct:  <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
 
 <>
     a                  skos:ConceptScheme ;
-    dct:title          "Vocabulary of buddy_current_activity_retirement_previous_industry"@en,
-                       "Vokabular von buddy_current_activity_retirement_previous_industry"@de ;
+    dct:title          "Vocabulary of buddy_key_data_activity_other_profession_industry"@en,
+                       "Vokabular von buddy_key_data_activity_other_profession_industry"@de ;
     dct:creator        "BIRD"@de ;
     dct:created        "2024-06-05"^^xsd:date ;
     dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;

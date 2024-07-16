@@ -1,4 +1,4 @@
-@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_career_break_type/> .
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_career_break_type/> .
 @prefix dct:  <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .

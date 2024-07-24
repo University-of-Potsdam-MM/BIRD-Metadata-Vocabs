@@ -17,12 +17,12 @@
     skos:prefLabel    "Schule"@de, "School"@en ;
     skos:topConceptOf <> .
 
-<2>
+<1>
     a                 skos:Concept ;
     skos:prefLabel    "(Duales) Ausbildung"@de, "apprenticeship"@en ;
     skos:topConceptOf <> .
 
-<3>
+<1>
     a                 skos:Concept ;
     skos:prefLabel    "(Duales) Studium"@de, "studies"@en ;
     skos:topConceptOf <> .

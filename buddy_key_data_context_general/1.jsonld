@@ -1,6 +1,10 @@
 {
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_general/1",
   "type": "Concept",
+  "prefLabel": {
+    "en": "School",
+    "de": "Schule"
+  },
   "inScheme": [
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_general/",

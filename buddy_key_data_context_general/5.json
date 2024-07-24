@@ -1,9 +1,9 @@
 {
-  "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_general/1",
+  "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_general/5",
   "type": "Concept",
   "prefLabel": {
-    "en": "School",
-    "de": "Schule"
+    "en": "school teacher",
+    "de": "Schullehrer"
   },
   "inScheme": [
     {

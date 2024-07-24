@@ -17,27 +17,27 @@
     skos:prefLabel    "Schule"@de, "School"@en ;
     skos:topConceptOf <> .
 
-<1>
+<2>
     a                 skos:Concept ;
     skos:prefLabel    "(Duales) Ausbildung"@de, "apprenticeship"@en ;
     skos:topConceptOf <> .
 
-<1>
+<3>
     a                 skos:Concept ;
     skos:prefLabel    "(Duales) Studium"@de, "studies"@en ;
     skos:topConceptOf <> .
 
-<1>
+<4>
     a                 skos:Concept ;
     skos:prefLabel    "Freiwilligendienst"@de, "voluntary service"@en ;
     skos:topConceptOf <> .
 
-<1>
+<5>
     a                 skos:Concept ;
     skos:prefLabel    "Schullehrer"@de, "school teacher"@en ;
     skos:topConceptOf <> .
 
-<1>
+<6>
     a                 skos:Concept ;
     skos:prefLabel    "Beruf"@de, "Occupation"@en ;
     skos:topConceptOf <> .

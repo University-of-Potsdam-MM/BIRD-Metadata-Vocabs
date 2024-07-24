@@ -1,26 +1,26 @@
 {
-  "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_homework_help/1",
+  "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_study/1",
   "type": "Concept",
   "inScheme": [
     {
-      "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_homework_help/",
+      "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_study/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_context_homework_help",
-        "de": "Vokabular von buddy_key_data_context_homework_help"
+        "en": "Vocabulary of buddy_key_data_context_study",
+        "de": "Vokabular von buddy_key_data_context_study"
       }
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_homework_help/"
+      "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_study/"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_homework_help/",
+      "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_context_study/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_context_homework_help",
-        "de": "Vokabular von buddy_key_data_context_homework_help"
+        "en": "Vocabulary of buddy_key_data_context_study",
+        "de": "Vokabular von buddy_key_data_context_study"
       }
     }
   ],

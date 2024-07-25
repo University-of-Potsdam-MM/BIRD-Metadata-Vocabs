@@ -77,7 +77,3 @@
     skos:prefLabel    "13"@de, "13"@en ;
     skos:topConceptOf <> .
 
-<14>
-    a                 skos:Concept ;
-    skos:prefLabel    "14"@de, "14"@en ;
-    skos:topConceptOf <> .

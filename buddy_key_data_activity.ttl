@@ -1,0 +1,62 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_key_data_activity"@en, "Vokabular von buddy_key_data_activity"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "Schule"@de, "school"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "Berufsausbildung"@de, "vocational-training"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "Universitätsstudent"@de, "university-studies"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "Freiwilligendienst"@de, "voluntary-service"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "Schul Lehrkraft"@de, "school-teacher"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "Anderer Beruf"@de, "other-profession"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "Pflegekraft"@de, "care-work"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "karrierepause"@de, "career-break"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "Ruhestand"@de, "retirement"@en ;
+    skos:topConceptOf <> .
+
+<10>
+    a                 skos:Concept ;
+    skos:prefLabel    "Übergangsphase"@de, "transition-phase"@en ;
+    skos:topConceptOf <> .

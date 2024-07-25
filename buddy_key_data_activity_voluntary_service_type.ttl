@@ -1,0 +1,58 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_voluntary_service_type/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_key_data_activity_voluntary_service_type"@en,
+                       "Vokabular von buddy_key_data_activity_voluntary_service_type"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "youth-voluntary-service"@de, "youth-voluntary-service"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "voluntary-social-year"@de, "voluntary-social-year"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "voluntary-ecological-year"@de, "voluntary-ecological-year"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "youth-in-action"@de, "youth-in-action"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "international-youth-voluntary-service"@de, "international-youth-voluntary-service"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "developmental-volunteer-service-weltwärts"@de, "developmental-volunteer-service-weltwärts"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "voluntary-services-for-all-generations"@de, "voluntary-services-for-all-generations"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "federal-voluntary-service"@de, "federal-voluntary-service"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "voluntary-military-service"@de, "voluntary-military-service"@en ;
+    skos:topConceptOf <> .

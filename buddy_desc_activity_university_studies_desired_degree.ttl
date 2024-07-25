@@ -1,0 +1,43 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_desired_degree/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_desc_activity_university_studies_desired_degree"@en,
+                       "Vokabular von buddy_desc_activity_university_studies_desired_degree"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "bachelor"@de, "bachelor"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "master"@de, "master"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "magister-discontinued"@de, "magister-discontinued"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel "Staatsexam"@de, "state-examination"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel "Diplom"@de, "diploma"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel "Doktor"@de, "doctorate"@en ;
+    skos:topConceptOf <> .

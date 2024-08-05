@@ -184,7 +184,7 @@
 
 <26>
     a                 skos:Concept ;
-    skos:prefLabel "Hochschule Biberach"@de, "Hochschule Biberach"@en ;
+    skos:prefLabel "Hochschule Biberach"@de, "Biberach University of Applied Sciences"@en ;
     skos:altLabel  "HBC Biberach"@de, "HBC Biberach"@en ;
     skos:topConceptOf <> .
 
@@ -222,154 +222,152 @@
 <32>
     a                 skos:Concept ;
     skos:prefLabel    "Rheinische Friedrich-Wilhelms-Universität Bonn"@de,
-                      "Rheinische Friedrich-Wilhelms-University Bonn"@en ;
+                      "Rhenish Friedrich-Wilhelm-University of Bonn"@en ;
     skos:altLabel     "uni Bonn"@de, "uni Bonn"@en ;
     skos:topConceptOf <> .
 
 <34>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Hochschule Brandenburg"@de, "Technische Hochschule Brandenburg"@en ;
-    skos:altLabel     "Brandenburg TH"@de, "Brandenburg TH"@en ;
+    skos:prefLabel "Technische Hochschule Brandenburg"@de, "University of Applied Sciences Brandenburg"@en ;
+    skos:altLabel  "TH Brandenburg"@de, "TH Brandenburg"@en ;
     skos:topConceptOf <> .
 
 <35>
     a                 skos:Concept ;
     skos:prefLabel    "Technische Universität Carolo-Wilhelmina zu Braunschweig"@de,
-                      "Technische Universität Carolo-Wilhelmina zu Braunschweig"@en ;
-    skos:altLabel     "Braunschweig TU"@de, "Braunschweig TU"@en ;
+                      "Technical University Carolo-Wilhelmina of Braunschweig"@en ;
+    skos:altLabel     "TU Braunschweig"@de, "TU Braunschweig"@en ;
     skos:topConceptOf <> .
 
 <36>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule Braunschweig/Wolfenbüttel, Ostfalia Hochschule für angewandte Wissenschaften"@de,
-                      "Hochschule Braunschweig/Wolfenbüttel, Ostfalia Hochschule für angewandte Wissenschaften"@en ;
-    skos:altLabel     "Ostfalia H"@de, "Ostfalia H"@en ;
+                      "University Braunschweig/Wolfenbüttel, Ostfalia University of Applied Sciences"@en ;
+    skos:altLabel     "H Ostfalia"@de, "H Ostfalia"@en ;
     skos:topConceptOf <> .
 
 <37>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Bildende Künste Braunschweig"@de,
-                      "Hochschule für Bildende Künste Braunschweig"@en ;
-    skos:altLabel     "Braunschweig HBK"@de, "Braunschweig HBK"@en ;
+    skos:prefLabel    "Hochschule für Bildende Künste Braunschweig"@de, "Braunschweig University of Arts"@en ;
+    skos:altLabel     "HBK Braunschweig"@de, "HBK Braunschweig"@en ;
     skos:topConceptOf <> .
 
 <38>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Bremen"@de, "Universität Bremen"@en ;
-    skos:altLabel     "Bremen U"@de, "Bremen U"@en ;
+    skos:prefLabel "Universität Bremen"@de, "University of Bremen"@en ;
+    skos:altLabel  "U Bremen"@de, "U Bremen"@en ;
     skos:topConceptOf <> .
 
 <39>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Künste Bremen"@de, "Hochschule für Künste Bremen"@en ;
-    skos:altLabel     "Bremen HfK"@de, "Bremen HfK"@en ;
+    skos:prefLabel "Hochschule für Künste Bremen"@de, "University of the Arts Bremen"@en ;
+    skos:altLabel  "HfK Bremen"@de, "HFK Bremen"@en ;
     skos:topConceptOf <> .
 
 <40>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Bremen"@de, "Hochschule Bremen"@en ;
-    skos:altLabel     "Bremen H"@de, "Bremen H"@en ;
+    skos:prefLabel "Hochschule Bremen"@de, "City University of Applied Sciences Bremen"@en ;
+    skos:altLabel  "HS Bremen"@de, "HS Bremen"@en ;
     skos:topConceptOf <> .
 
 <41>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Bremerhaven"@de, "Hochschule Bremerhaven"@en ;
-    skos:altLabel     "Bremerhaven H"@de, "Bremerhaven H"@en ;
+    skos:prefLabel "Hochschule Bremerhaven"@de, "Bremerhaven University of Applied Sciences"@en ;
+    skos:altLabel  "HS Bremerhaven"@de, "HS Bremerhaven"@en ;
     skos:topConceptOf <> .
 
 <42>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Universität Chemnitz"@de, "Technische Universität Chemnitz"@en ;
-    skos:altLabel     "Chemnitz TU"@de, "Chemnitz TU"@en ;
+    skos:prefLabel "Technische Universität Chemnitz"@de, "Chemnitz University of Technology"@en ;
+    skos:altLabel  "TU Chemnitz"@de, "TU Chemnitz"@en ;
     skos:topConceptOf <> .
 
 <43>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Universität Clausthal"@de, "Technische Universität Clausthal"@en ;
-    skos:altLabel     "Clausthal TU"@de, "Clausthal TU"@en ;
+    skos:prefLabel "Technische Universität Clausthal"@de, "Clausthal University of Technology"@en ;
+    skos:altLabel  "TU Clausthal"@de, "TU Clausthal"@en ;
     skos:topConceptOf <> .
 
 <44>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für angewandte Wissenschaften Coburg"@de,
-                      "Hochschule für angewandte Wissenschaften Coburg"@en ;
-    skos:altLabel     "Coburg H"@de, "Coburg H"@en ;
+                      "Coburg University of applied schiences and arts"@en ;
+    skos:altLabel     "HS Coburg"@de, "HS Coburg"@en ;
     skos:topConceptOf <> .
 
 <45>
     a                 skos:Concept ;
     skos:prefLabel    "Brandenburgische Technische Universität Cottbus-Senftenberg"@de,
-                      "Brandenburgische Technische Universität Cottbus-Senftenberg"@en ;
-    skos:altLabel     "Cottbus-Senftenberg TU"@de, "Cottbus-Senftenberg TU"@en ;
+                      "Brandenburg University of Technology Cottbus-Senftenberg"@en ;
+    skos:altLabel     "BTU Cottbus-Senftenberg"@de, "BTU Cottbus-Senftenberg"@en ;
     skos:topConceptOf <> .
 
 <46>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Universität Darmstadt"@de, "Technische Universität Darmstadt"@en ;
-    skos:altLabel     "Darmstadt TU"@de, "Darmstadt TU"@en ;
+    skos:prefLabel "Technische Universität Darmstadt"@de, "Technical University of Darmstadt"@en ;
+    skos:altLabel  "´TU Darmstadt"@de, "TU Darmstadt"@en ;
     skos:topConceptOf <> .
 
 <47>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Darmstadt"@de, "Hochschule Darmstadt"@en ;
-    skos:altLabel     "Darmstadt H"@de, "Darmstadt H"@en ;
+    skos:prefLabel "Hochschule Darmstadt"@de, "University of Applied Sciences Darmstadt"@en ;
+    skos:altLabel  "H Darmstadt"@de, "H Darmstadt"@en ;
     skos:topConceptOf <> .
 
 <48>
     a                 skos:Concept ;
     skos:prefLabel    "Evangelische Hochschule Darmstadt (staatlich anerkannt) – Kirchliche Körperschaft des öffentlichen Rechts"@de,
-                      "Evangelische Hochschule Darmstadt (staatlich anerkannt) – Kirchliche Körperschaft des öffentlichen Rechts"@en ;
-    skos:altLabel     "Darmstadt EvH"@de, "Darmstadt EvH"@en ;
+                      "Protestant University Darmstadt (staatlich anerkannt) – Church corporation under public law"@en ;
+    skos:altLabel     "EvH Darmstadt"@de, "EvH Darmstadt"@en ;
     skos:topConceptOf <> .
 
 <49>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Musik Detmold"@de, "Hochschule für Musik Detmold"@en ;
-    skos:altLabel     "Detmold HfM"@de, "Detmold HfM"@en ;
+    skos:prefLabel "Hochschule für Musik Detmold"@de, "Detmold University of Music"@en ;
+    skos:altLabel  "HfM Detmold"@de, "HfM Detmold"@en ;
     skos:topConceptOf <> .
 
 <51>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Universität Dortmund"@de, "Technische Universität Dortmund"@en ;
-    skos:altLabel     "Dortmund TU"@de, "Dortmund TU"@en ;
+    skos:prefLabel "Technische Universität Dortmund"@de, "Dortmund University"@en ;
+    skos:altLabel  "TU Dortmund"@de, "TU Dortmund"@en ;
     skos:topConceptOf <> .
 
 <52>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachhochschule Dortmund"@de, "Fachhochschule Dortmund"@en ;
-    skos:altLabel     "Dortmund FH"@de, "Dortmund FH"@en ;
+    skos:prefLabel "Fachhochschule Dortmund"@de, "University of Applied Sciences and Arts Dortmund"@en ;
+    skos:altLabel  "FH Dortmund"@de, "FH Dortmund"@en ;
     skos:topConceptOf <> .
 
 <53>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Universität Dresden"@de, "Technische Universität Dresden"@en ;
-    skos:altLabel     "Dresden TU"@de, "Dresden TU"@en ;
+    skos:prefLabel "Technische Universität Dresden"@de, "Dresden University of Technology"@en ;
+    skos:altLabel  "TU Dresden"@de, "TU Dresden"@en ;
     skos:topConceptOf <> .
 
 <54>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Technik und Wirtschaft Dresden  - University of Applied Sciences"@de,
-                      "Hochschule für Technik und Wirtschaft Dresden  - University of Applied Sciences"@en ;
-    skos:altLabel     "Dresden HTW"@de, "Dresden HTW"@en ;
+    skos:prefLabel "Hochschule für Technik und Wirtschaft Dresden"@de, "University of Applied Sciences Dresden"@en ;
+    skos:altLabel  "HTW Dresden"@de, "HTW Dresden"@en ;
     skos:topConceptOf <> .
 
 <55>
     a                 skos:Concept ;
-    skos:prefLabel    "Evangelische Hochschule Dresden"@de, "Evangelische Hochschule Dresden"@en ;
-    skos:altLabel     "Dresden EvH"@de, "Dresden EvH"@en ;
+    skos:prefLabel "Evangelische Hochschule Dresden"@de, "Protestant University Dresden"@en ;
+    skos:altLabel  "EHS Dresden"@de, "EHS Dresden"@en ;
     skos:topConceptOf <> .
 
 <56>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Bildende Künste Dresden"@de, "Hochschule für Bildende Künste Dresden"@en ;
-    skos:altLabel     "Dresden HfBK"@de, "Dresden HfBK"@en ;
+    skos:prefLabel "Hochschule für Bildende Künste Dresden"@de, "Academy of Fine Arts Dresden"@en ;
+    skos:altLabel  "HfBK Dresden"@de, "HfBK Dresden"@en ;
     skos:topConceptOf <> .
 
 <57>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für Musik Carl Maria von Weber Dresden"@de,
-                      "Hochschule für Musik Carl Maria von Weber Dresden"@en ;
-    skos:altLabel     "Dresden HfM"@de, "Dresden HfM"@en ;
+                      "Carl Maria von Weber College of Music Dresden"@en ;
+    skos:altLabel     "HfMD Dresden"@de, "HfMD Dresden"@en ;
     skos:topConceptOf <> .
 
 <58>
@@ -381,109 +379,108 @@
 
 <59>
     a                 skos:Concept ;
-    skos:prefLabel    "Heinrich-Heine-Universität Düsseldorf"@de, "Heinrich-Heine-Universität Düsseldorf"@en ;
-    skos:altLabel     "Düsseldorf U"@de, "Düsseldorf U"@en ;
+    skos:prefLabel "Heinrich-Heine-Universität Düsseldorf"@de, "Heinrich-Heine-University Düsseldorf"@en ;
+    skos:altLabel  "HHU Düsseldorf"@de, "HHU Düsseldorf"@en ;
     skos:topConceptOf <> .
 
 <60>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Düsseldorf"@de, "Hochschule Düsseldorf"@en ;
-    skos:altLabel     "Düsseldorf H"@de, "Düsseldorf H"@en ;
+    skos:prefLabel "Hochschule Düsseldorf"@de, "University of Applied Sciences Düsseldorf"@en ;
+    skos:altLabel  "HS Düsseldorf"@de, "HS Düsseldorf"@en ;
     skos:topConceptOf <> .
 
 <61>
     a                 skos:Concept ;
     skos:prefLabel    "Kunstakademie Düsseldorf"@de, "Kunstakademie Düsseldorf"@en ;
-    skos:altLabel     "Düsseldorf KuAk"@de, "Düsseldorf KuAk"@en ;
+    skos:altLabel "KuAk Düsseldorf"@de, "KuAk Düsseldorf"@en ;
     skos:topConceptOf <> .
 
 <62>
     a                 skos:Concept ;
-    skos:prefLabel    "Robert-Schumann-Hochschule Düsseldorf"@de, "Robert-Schumann-Hochschule Düsseldorf"@en ;
-    skos:altLabel     "Düsseldorf HfM"@de, "Düsseldorf HfM"@en ;
+    skos:prefLabel "Robert-Schumann-Hochschule Düsseldorf"@de, "Robert-Schumann-University Düsseldorf"@en ;
+    skos:altLabel  "RSH Düsseldorf"@de, "RSH Düsseldorf"@en ;
     skos:topConceptOf <> .
 
 <64>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für nachhaltige Entwicklung Eberswalde"@de,
-                      "Hochschule für nachhaltige Entwicklung Eberswalde"@en ;
-    skos:altLabel     "Eberswalde H"@de, "Eberswalde H"@en ;
+                      "Eberswalde University for Sustainable Developement"@en ;
+    skos:altLabel     "FH Eberswalde"@de, "FH Eberswalde"@en ;
     skos:topConceptOf <> .
 
 <65>
     a                 skos:Concept ;
     skos:prefLabel    "Katholische Universität Eichstätt - Ingolstadt"@de,
-                      "Katholische Universität Eichstätt - Ingolstadt"@en ;
-    skos:altLabel     "Eichstätt - Ingolstadt U"@de, "Eichstätt - Ingolstadt U"@en ;
+                      "Catholic University Eichstaett - Ingolstadt"@en ;
+    skos:altLabel     "KU Eichstätt - Ingolstadt"@de, "KU Eichstätt - Ingolstadt"@en ;
     skos:topConceptOf <> .
 
 <66>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Erfurt"@de, "Universität Erfurt"@en ;
-    skos:altLabel     "Erfurt U"@de, "Erfurt U"@en ;
+    skos:prefLabel "Universität Erfurt"@de, "University of Erfurt"@en ;
+    skos:altLabel  "UNI Erfurt"@de, "UNI Erfurt"@en ;
     skos:topConceptOf <> .
 
 <67>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachhochschule Erfurt"@de, "Fachhochschule Erfurt"@en ;
-    skos:altLabel     "Erfurt FH"@de, "Erfurt FH"@en ;
+    skos:prefLabel "Fachhochschule Erfurt"@de, "Erfurt University of Applied Sciences"@en ;
+    skos:altLabel  "FH Erfurt"@de, "FH Erfurt"@en ;
     skos:topConceptOf <> .
 
 <70>
     a                 skos:Concept ;
     skos:prefLabel    "Friedrich-Alexander-Universität Erlangen-Nürnberg"@de,
-                      "Friedrich-Alexander-Universität Erlangen-Nürnberg"@en ;
-    skos:altLabel     "Erlangen-Nürnberg U"@de, "Erlangen-Nürnberg U"@en ;
+                      "Friedrich-Alexander-University Erlangen-Nuremberg"@en ;
+    skos:altLabel     "FAU Erlangen-Nürnberg"@de, "FAU Erlangen-Nuremberg"@en ;
     skos:topConceptOf <> .
 
 <71>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Duisburg-Essen"@de, "Universität Duisburg-Essen"@en ;
-    skos:altLabel     "Duisburg-Essen U"@de, "Duisburg-Essen U"@en ;
+    skos:prefLabel "Universität Duisburg-Essen"@de, "University Duisburg-Essen"@en ;
+    skos:altLabel  "UNI Duisburg-Essen"@de, "UNI Duisburg-Essen"@en ;
     skos:topConceptOf <> .
 
 <72>
     a                 skos:Concept ;
-    skos:prefLabel    "Folkwang Universität der Künste"@de, "Folkwang Universität der Künste"@en ;
-    skos:altLabel     "Essen UdK"@de, "Essen UdK"@en ;
+    skos:prefLabel "Folkwang Universität der Künste"@de, "Folkwang University of Arts"@en ;
+    skos:altLabel  "UdK Essen"@de, "UdK Essen"@en ;
     skos:topConceptOf <> .
 
 <73>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Esslingen"@de, "Hochschule Esslingen"@en ;
-    skos:altLabel     "Esslingen H"@de, "Esslingen H"@en ;
+    skos:prefLabel "Hochschule Esslingen"@de, "University of Applied Sciences Esslingen"@en ;
+    skos:altLabel  "HS Esslingen"@de, "HS Esslingen"@en ;
     skos:topConceptOf <> .
 
 <75>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg"@de,
-                      "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg"@en ;
-    skos:altLabel     "Tübingen HfKiM"@de, "Tübingen HfKiM"@en ;
+    skos:prefLabel "Hochschule für Kirchenmusik Tübingen"@de, "Tübingen University of Church Music"@en ;
+    skos:altLabel  "HKM Tübingen"@de, "HKM Tübingen"@en ;
     skos:topConceptOf <> .
 
 <76>
     a                 skos:Concept ;
-    skos:prefLabel    "Europa-Universität Flensburg"@de, "Europa-Universität Flensburg"@en ;
-    skos:altLabel     "Flensburg U"@de, "Flensburg U"@en ;
+    skos:prefLabel "Europa-Universität Flensburg"@de, "Europa-University Flensburg"@en ;
+    skos:altLabel  "UNI Flensburg"@de, "UNI Flensburg"@en ;
     skos:topConceptOf <> .
 
 <77>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Flensburg"@de, "Hochschule Flensburg"@en ;
-    skos:altLabel     "Flensburg H"@de, "Flensburg H"@en ;
+    skos:prefLabel "Hochschule Flensburg"@de, "Flensburg University of Applied Sciences"@en ;
+    skos:altLabel  "HS Flensburg"@de, "HS Flensburg"@en ;
     skos:topConceptOf <> .
 
 <78>
     a                 skos:Concept ;
     skos:prefLabel    "Johann Wolfgang Goethe-Universität, Frankfurt am Main"@de,
-                      "Johann Wolfgang Goethe-Universität, Frankfurt am Main"@en ;
-    skos:altLabel     "Frankfurt am Main U"@de, "Frankfurt am Main U"@en ;
+                      "Johann Wolfgang Goethe-University, Frankfurt am Main"@en ;
+    skos:altLabel     "UNI Frankfurt am Main"@de, "UNI Frankfurt am Main"@en ;
     skos:topConceptOf <> .
 
 <79>
     a                 skos:Concept ;
     skos:prefLabel    "Frankfurt University of Applied Sciences"@de, "Frankfurt University of Applied Sciences"@en ;
-    skos:altLabel     "Frankfurt am Main FH"@de, "Frankfurt am Main FH"@en ;
+    skos:altLabel "FH Frankfurt am Main"@de, "FH Frankfurt am Main"@en ;
     skos:topConceptOf <> .
 
 <80>
@@ -496,571 +493,569 @@
 <81>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für Musik und Darstellende Kunst Frankfurt am Main"@de,
-                      "Hochschule für Musik und Darstellende Kunst Frankfurt am Main"@en ;
-    skos:altLabel     "Frankfurt am Main HfM"@de, "Frankfurt am Main HfM"@en ;
+                      "Frankfurt am Main University of Music and Performing Arts"@en ;
+    skos:altLabel     "HfMDK Frankfurt am Main"@de, "HfMDK Frankfurt am Main"@en ;
     skos:topConceptOf <> .
 
 <82>
     a                 skos:Concept ;
     skos:prefLabel    "Philosophisch-Theologische Hochschule Sankt Georgen Frankfurt am Main"@de,
-                      "Philosophisch-Theologische Hochschule Sankt Georgen Frankfurt am Main"@en ;
-    skos:altLabel     "Frankfurt am Main PhThH"@de, "Frankfurt am Main PhThH"@en ;
+                      "Graduate School of Philosophy and Theology sankt Georgen Frankfurt am Main"@en ;
+    skos:altLabel     "PhThH Frankfurt am Main"@de, "PhThH Frankfurt am Main"@en ;
     skos:topConceptOf <> .
 
 <83>
     a                 skos:Concept ;
     skos:prefLabel    "Frankfurt School of Finance & Management"@de, "Frankfurt School of Finance & Management"@en ;
-    skos:altLabel     "Frankfurt am Main FSFM"@de, "Frankfurt am Main FSFM"@en ;
+    skos:altLabel "FSFM Frankfurt am Main"@de, "FSFM Frankfurt am Main"@en ;
     skos:topConceptOf <> .
 
 <84>
     a                 skos:Concept ;
     skos:prefLabel    "Europa-Universität Viadrina Frankfurt (Oder)"@de,
-                      "Europa-Universität Viadrina Frankfurt (Oder)"@en ;
-    skos:altLabel     "Frankfurt (Oder) U"@de, "Frankfurt (Oder) U"@en ;
+                      "Europa-University Viadrina Frankfurt (Oder)"@en ;
+    skos:altLabel     "UNI Frankfurt (Oder)"@de, "UNI Frankfurt (Oder)"@en ;
     skos:topConceptOf <> .
 
 <85>
     a                 skos:Concept ;
     skos:prefLabel    "Technische Universität Bergakademie Freiberg"@de,
-                      "Technische Universität Bergakademie Freiberg"@en ;
-    skos:altLabel     "Freiberg TUBergAk"@de, "Freiberg TUBergAk"@en ;
+                      "Technology University Bergakademie Freiberg"@en ;
+    skos:altLabel     "TU Freiberg"@de, "TU Freiberg"@en ;
     skos:topConceptOf <> .
 
 <86>
     a                 skos:Concept ;
     skos:prefLabel    "Albert-Ludwigs-Universität Freiburg im Breisgau"@de,
-                      "Albert-Ludwigs-Universität Freiburg im Breisgau"@en ;
-    skos:altLabel     "Freiburg U"@de, "Freiburg U"@en ;
+                      "Albert-Ludwigs-University Freiburg im Breisgau"@en ;
+    skos:altLabel     "UNI Freiburg"@de, "UNI Freiburg"@en ;
     skos:topConceptOf <> .
 
 <87>
     a                 skos:Concept ;
-    skos:prefLabel    "Pädagogische Hochschule Freiburg"@de, "Pädagogische Hochschule Freiburg"@en ;
-    skos:altLabel     "Freiburg PH"@de, "Freiburg PH"@en ;
+    skos:prefLabel "Pädagogische Hochschule Freiburg"@de, "University of Education Freiburg"@en ;
+    skos:altLabel  "PH Freiburg"@de, "PH Freiburg"@en ;
     skos:topConceptOf <> .
 
 <88>
     a                 skos:Concept ;
-    skos:prefLabel    "Katholische Hochschule Freiburg, staatlich anerkannte Hochschule - Catholic University of Applied Sciences"@de,
-                      "Katholische Hochschule Freiburg, staatlich anerkannte Hochschule - Catholic University of Applied Sciences"@en ;
-    skos:altLabel     "Freiburg KathHS"@de, "Freiburg KathHS"@en ;
+    skos:prefLabel "Katholische Hochschule Freiburg, staatlich anerkannte Hochschule"@de,
+                   "Catholic University of Applied Sciences"@en ;
+    skos:altLabel  "KH Freiburg"@de, "KH Freiburg"@en ;
     skos:topConceptOf <> .
 
 <89>
     a                 skos:Concept ;
     skos:prefLabel    "Evangelische Hochschule Freiburg, staatlich anerkannte Hochschule der Evangelischen Landeskirche in Baden"@de,
-                      "Evangelische Hochschule Freiburg, staatlich anerkannte Hochschule der Evangelischen Landeskirche in Baden"@en ;
-    skos:altLabel     "Freiburg EvHS"@de, "Freiburg EvHS"@en ;
+                      "Protestant University of Apllied Sciences Freiburg, staatlich anerkannte Hochschule der Evangelischen Landeskirche in Baden"@en ;
+    skos:altLabel     "EvHS Freiburg"@de, "EvHS Freiburg"@en ;
     skos:topConceptOf <> .
 
 <90>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Musik Freiburg im Breisgau"@de, "Hochschule für Musik Freiburg im Breisgau"@en ;
-    skos:altLabel     "Freiburg HfM"@de, "Freiburg HfM"@en ;
+    skos:prefLabel "Hochschule für Musik Freiburg im Breisgau"@de, "University of Music Freiburg"@en ;
+    skos:altLabel  "HfM Freiburg"@de, "HfM Freiburg"@en ;
     skos:topConceptOf <> .
 
 <91>
     a                 skos:Concept ;
-    skos:prefLabel    "Theologische Hochschule Friedensau"@de, "Theologische Hochschule Friedensau"@en ;
-    skos:altLabel     "Friedensau ThH"@de, "Friedensau ThH"@en ;
+    skos:prefLabel "Theologische Hochschule Friedensau"@de, "Friedensau Adventist University"@en ;
+    skos:altLabel  "ThH Friedensau"@de, "ThH Friedensau"@en ;
     skos:topConceptOf <> .
 
 <92>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Fulda - University of Applied Sciences"@de,
-                      "Hochschule Fulda - University of Applied Sciences"@en ;
-    skos:altLabel     "Fulda H"@de, "Fulda H"@en ;
+    skos:prefLabel "Hochschule Fulda"@de, "Fulda University of Applied Sciences"@en ;
+    skos:altLabel  "HS Fulda"@de, "HS Fulda"@en ;
     skos:topConceptOf <> .
 
 <93>
     a                 skos:Concept ;
-    skos:prefLabel    "Theologische Fakultät Fulda"@de, "Theologische Fakultät Fulda"@en ;
-    skos:altLabel     "Fulda ThFak"@de, "Fulda ThFak"@en ;
+    skos:prefLabel "Theologische Fakultät Fulda"@de, "Faculty of Theology Fulda"@en ;
+    skos:altLabel  "ThFak Fulda"@de, "ThFak Fulda"@en ;
     skos:topConceptOf <> .
 
 <94>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Furtwangen - Informatik, Technik, Wirtschaft, Medien, Gesundheit"@de,
-                      "Hochschule Furtwangen - Informatik, Technik, Wirtschaft, Medien, Gesundheit"@en ;
-    skos:altLabel     "Furtwangen H"@de, "Furtwangen H"@en ;
+    skos:prefLabel "Hochschule Furtwangen"@de, "Furtwagen University"@en ;
+    skos:altLabel  "H Furtwangen"@de, "H Furtwangen"@en ;
     skos:topConceptOf <> .
 
 <95>
     a                 skos:Concept ;
     skos:prefLabel    "Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen"@de,
-                      "Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen"@en ;
-    skos:altLabel     "Westfälische H"@de, "Westfälische H"@en ;
+                      "University of Applied Sciences Gelsenkirchen, Bocholt, Recklinghausen"@en ;
+    skos:altLabel     "HS Westfälische"@de, "HS Westfälische"@en ;
     skos:topConceptOf <> .
 
 <96>
     a                 skos:Concept ;
-    skos:prefLabel    "Justus-Liebig-Universität Gießen"@de, "Justus-Liebig-Universität Gießen"@en ;
-    skos:altLabel     "Giessen U"@de, "Giessen U"@en ;
+    skos:prefLabel "Justus-Liebig-Universität Gießen"@de, "Justus-Liebig-University Gießen"@en ;
+    skos:altLabel  "UNI Giessen"@de, "UNI Giessen"@en ;
     skos:topConceptOf <> .
 
 <97>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Hochschule Mittelhessen - THM"@de, "Technische Hochschule Mittelhessen - THM"@en ;
-    skos:altLabel     "Mittelhessen THM"@de, "Mittelhessen THM"@en ;
+    skos:prefLabel "Technische Hochschule Mittelhessen"@de, "University of Applied Sciences Mittelhessen"@en ;
+    skos:altLabel  "TH Mittelhessen"@de, "TH Mittelhessen"@en ;
     skos:topConceptOf <> .
 
 <98>
     a                 skos:Concept ;
-    skos:prefLabel    "Georg-August-Universität Göttingen"@de, "Georg-August-Universität Göttingen"@en ;
-    skos:altLabel     "Göttingen U"@de, "Göttingen U"@en ;
+    skos:prefLabel "Georg-August-Universität Göttingen"@de, "Georg-August-University Göttingen"@en ;
+    skos:altLabel  "UNI Göttingen"@de, "UNI Göttingen"@en ;
     skos:topConceptOf <> .
 
 <99>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Greifswald"@de, "Universität Greifswald"@en ;
-    skos:altLabel     "Greifswald U"@de, "Greifswald U"@en ;
+    skos:prefLabel "Universität Greifswald"@de, "University of Greifswald"@en ;
+    skos:altLabel  "UNI Greifswald"@de, "UNI Greifswald"@en ;
     skos:topConceptOf <> .
 
 <100>
     a                 skos:Concept ;
-    skos:prefLabel    "FernUniversität in Hagen"@de, "FernUniversität in Hagen"@en ;
-    skos:altLabel     "Hagen FernU"@de, "Hagen FernU"@en ;
+    skos:prefLabel "FernUniversität in Hagen"@de, "Distance-Learning University Hagen"@en ;
+    skos:altLabel  "FernU Hagen"@de, "FernU Hagen"@en ;
     skos:topConceptOf <> .
 
 <101>
     a                 skos:Concept ;
-    skos:prefLabel    "Martin-Luther-Universität Halle-Wittenberg"@de, "Martin-Luther-Universität Halle-Wittenberg"@en ;
-    skos:altLabel     "Halle-Wittenberg U"@de, "Halle-Wittenberg U"@en ;
+    skos:prefLabel "Martin-Luther-Universität Halle-Wittenberg"@de, "Martin-Luther-University Halle-Wittenberg"@en ;
+    skos:altLabel  "UNI Halle-Wittenberg U"@de, "UNI Halle-Wittenberg"@en ;
     skos:topConceptOf <> .
 
 <102>
     a                 skos:Concept ;
-    skos:prefLabel    "Burg Giebichenstein Kunsthochschule Halle"@de, "Burg Giebichenstein Kunsthochschule Halle"@en ;
-    skos:altLabel     "Halle KuH"@de, "Halle KuH"@en ;
+    skos:prefLabel "Burg Giebichenstein Kunsthochschule Halle"@de,
+                   "Burg Giebichenstein University of Art and Design Halle"@en ;
+    skos:altLabel  "KuH Halle"@de, "KuH Halle"@en ;
     skos:topConceptOf <> .
 
 <103>
     a                 skos:Concept ;
-    skos:prefLabel    "Evangelische Hochschule für Kirchenmusik"@de, "Evangelische Hochschule für Kirchenmusik"@en ;
-    skos:altLabel     "Halle HfKiM"@de, "Halle HfKiM"@en ;
+    skos:prefLabel "Evangelische Hochschule für Kirchenmusik Halle"@de,
+                   "Protestant University for Church Music Halle"@en ;
+    skos:altLabel  "HfKiM Halle"@de, "HfKiM Halle"@en ;
     skos:topConceptOf <> .
 
 <104>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Hamburg"@de, "Universität Hamburg"@en ;
-    skos:altLabel     "Hamburg U"@de, "Hamburg U"@en ;
+    skos:prefLabel "Universität Hamburg"@de, "University Hamburg"@en ;
+    skos:altLabel  "UHH Hamburg"@de, "UHH Hamburg"@en ;
     skos:topConceptOf <> .
 
 <105>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Universität Hamburg"@de, "Technische Universität Hamburg"@en ;
-    skos:altLabel     "Hamburg TU"@de, "Hamburg TU"@en ;
+    skos:prefLabel "Technische Universität Hamburg"@de, "Hamburg University of Technology"@en ;
+    skos:altLabel  "TUH Hamburg"@de, "TUH Hamburg"@en ;
     skos:topConceptOf <> .
 
 <106>
     a                 skos:Concept ;
     skos:prefLabel    "Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg"@de,
-                      "Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg"@en ;
-    skos:altLabel     "Hamburg UBw"@de, "Hamburg UBw"@en ;
+                      "Helmut-Schmidt-University/University der Bundeswehr Hamburg"@en ;
+    skos:altLabel     "HSU Hamburg"@de, "HSU Hamburg"@en ;
     skos:topConceptOf <> .
 
 <107>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für Angewandte Wissenschaften Hamburg"@de,
-                      "Hochschule für Angewandte Wissenschaften Hamburg"@en ;
-    skos:altLabel     "Hamburg HAW"@de, "Hamburg HAW"@en ;
+                      "University of Applied Sciences Hamburg"@en ;
+    skos:altLabel     "HAW Hamburg"@de, "HAW Hamburg"@en ;
     skos:topConceptOf <> .
 
 <108>
     a                 skos:Concept ;
-    skos:prefLabel    "Evangelische Hochschule für Soziale Arbeit & Diakonie"@de,
-                      "Evangelische Hochschule für Soziale Arbeit & Diakonie"@en ;
-    skos:altLabel     "Hamburg EvH"@de, "Hamburg EvH"@en ;
+    skos:prefLabel "Evangelische Hochschule für Soziale Arbeit & Diakonie Hamburg"@de,
+                   "Protestant University for social Work & social Welfare Hamburg"@en ;
+    skos:altLabel  "EvH Hamburg"@de, "EvH Hamburg"@en ;
     skos:topConceptOf <> .
 
 <109>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Bildende Künste Hamburg"@de, "Hochschule für Bildende Künste Hamburg"@en ;
-    skos:altLabel     "Hamburg HfBK"@de, "Hamburg HfBK"@en ;
+    skos:prefLabel "Hochschule für Bildende Künste Hamburg"@de, "University of Fine Arts Hamburg"@en ;
+    skos:altLabel  "HfBK Hamburg"@de, "HfBK Hamburg"@en ;
     skos:topConceptOf <> .
 
 <110>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Musik und Theater Hamburg"@de, "Hochschule für Musik und Theater Hamburg"@en ;
-    skos:altLabel     "Hamburg HfM"@de, "Hamburg HfM"@en ;
+    skos:prefLabel "Hochschule für Musik und Theater Hamburg"@de, "University of Music and Theatre Hamburg"@en ;
+    skos:altLabel  "HfMT Hamburg"@de, "HfMT Hamburg"@en ;
     skos:topConceptOf <> .
 
 <112>
     a                 skos:Concept ;
-    skos:prefLabel    "Medizinische Hochschule Hannover (MHH)"@de, "Medizinische Hochschule Hannover (MHH)"@en ;
-    skos:altLabel     "Hannover MedH"@de, "Hannover MedH"@en ;
+    skos:prefLabel "Medizinische Hochschule Hannover"@de, "Hanover Medical School"@en ;
+    skos:altLabel  "MH Hannover"@de, "MH Hannover"@en ;
     skos:topConceptOf <> .
 
 <113>
     a                 skos:Concept ;
-    skos:prefLabel    "Stiftung Tierärztliche Hochschule Hannover"@de, "Stiftung Tierärztliche Hochschule Hannover"@en ;
-    skos:altLabel     "Hannover TiHo"@de, "Hannover TiHo"@en ;
+    skos:prefLabel "Stiftung Tierärztliche Hochschule Hannover"@de, "University of Veterinary Medicine Hannover"@en ;
+    skos:altLabel  "TiHo Hannover"@de, "TiHo Hannover"@en ;
     skos:topConceptOf <> .
 
 <114>
     a                 skos:Concept ;
     skos:prefLabel    "Gottfried Wilhelm Leibniz Universität Hannover"@de,
-                      "Gottfried Wilhelm Leibniz Universität Hannover"@en ;
-    skos:altLabel     "Hannover U"@de, "Hannover U"@en ;
+                      "Gottfried Wilhelm Leibniz University Hannover"@en ;
+    skos:altLabel     "UNI Hannover"@de, "UNI Hannover"@en ;
     skos:topConceptOf <> .
 
 <115>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Hannover"@de, "Hochschule Hannover"@en ;
-    skos:altLabel     "Hannover H"@de, "Hannover H"@en ;
+    skos:prefLabel "Hochschule Hannover"@de, "University of Applied Sciences Hannover"@en ;
+    skos:altLabel  "HS Hannover"@de, "HS Hannover"@en ;
     skos:topConceptOf <> .
 
 <117>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für Musik, Theater und Medien Hannover"@de,
-                      "Hochschule für Musik, Theater und Medien Hannover"@en ;
-    skos:altLabel     "Hannover HfMTM"@de, "Hannover HfMTM"@en ;
+                      "Hannover University of Music, Drama and Media"@en ;
+    skos:altLabel     "HMTM Hannover"@de, "HMTM Hannover"@en ;
     skos:topConceptOf <> .
 
 <118>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)"@de,
-                      "Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)"@en ;
-    skos:altLabel     "Harz H"@de, "Harz H"@en ;
+    skos:prefLabel "Hochschule Harz, Hochschule für angewandte Wissenschaften"@de,
+                   "University Harz, University of Applied Sciences"@en ;
+    skos:altLabel  "HS Harz"@de, "HS Harz"@en ;
     skos:topConceptOf <> .
 
 <119>
     a                 skos:Concept ;
-    skos:prefLabel    "Ruprecht-Karls-Universität Heidelberg"@de, "Ruprecht-Karls-Universität Heidelberg"@en ;
-    skos:altLabel     "Heidelberg U"@de, "Heidelberg U"@en ;
+    skos:prefLabel "Ruprecht-Karls-Universität Heidelberg"@de, "Ruprecht-Karls-University Heidelberg"@en ;
+    skos:altLabel  "UNI Heidelberg"@de, "UNI Heidelberg"@en ;
     skos:topConceptOf <> .
 
 <120>
     a                 skos:Concept ;
-    skos:prefLabel    "Pädagogische Hochschule Heidelberg"@de, "Pädagogische Hochschule Heidelberg"@en ;
-    skos:altLabel     "Heidelberg PH"@de, "Heidelberg PH"@en ;
+    skos:prefLabel "Pädagogische Hochschule Heidelberg"@de, "Heidelberg University of Education"@en ;
+    skos:altLabel  "PH Heidelberg"@de, "PH Heidelberg"@en ;
     skos:topConceptOf <> .
 
 <121>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Jüdische Studien Heidelberg"@de, "Hochschule für Jüdische Studien Heidelberg"@en ;
-    skos:altLabel     "Heidelberg HfJS"@de, "Heidelberg HfJS"@en ;
+    skos:prefLabel "Hochschule für Jüdische Studien Heidelberg"@de, "Heidelberg University of Jewish Studies"@en ;
+    skos:altLabel  "HfJS Heidelberg"@de, "HfJS Heidelberg"@en ;
     skos:topConceptOf <> .
 
 <122>
     a                 skos:Concept ;
     skos:prefLabel    "SRH Hochschule Heidelberg - Staatlich anerkannte Fachhochschule"@de,
-                      "SRH Hochschule Heidelberg - Staatlich anerkannte Fachhochschule"@en ;
-    skos:altLabel     "Heidelberg H"@de, "Heidelberg H"@en ;
+                      "SRH University Heidelberg - Staatlich anerkannte Fachhochschule"@en ;
+    skos:altLabel     "SRH Heidelberg"@de, "SRH Heidelberg"@en ;
     skos:topConceptOf <> .
 
 <123>
     a                 skos:Concept ;
     skos:prefLabel    "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim"@de,
-                      "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim"@en ;
-    skos:altLabel     "Mannheim HfM"@de, "Mannheim HfM"@en ;
+                      "University of Music and Performing Arts Mannheim"@en ;
+    skos:altLabel     "MuHo Mannheim"@de, "MuHo Mannheim"@en ;
     skos:topConceptOf <> .
 
 <124>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Baden"@de,
-                      "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Baden"@en ;
-    skos:altLabel     "Heidelberg HfKiM"@de, "Heidelberg HfKiM"@en ;
+                      "University for Church Music of the Protestant Church in Baden"@en ;
+    skos:altLabel     "HfK Heidelberg"@de, "HfK Heidelberg"@en ;
     skos:topConceptOf <> .
 
 <125>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule Heilbronn, Technik, Wirtschaft, Informatik"@de,
-                      "Hochschule Heilbronn, Technik, Wirtschaft, Informatik"@en ;
-    skos:altLabel     "Heilbronn H"@de, "Heilbronn H"@en ;
+                      "Heilbronn University of Applied Sciences, Technology, economics, computer science"@en ;
+    skos:altLabel     "HS Heilbronn"@de, "HS Heilbronn"@en ;
     skos:topConceptOf <> .
 
 <126>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen"@de,
-                      "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen"@en ;
+                      "University of Church Music of Protestant Church in Westfalen"@en ;
     skos:altLabel     "Herford HfKiM"@de, "Herford HfKiM"@en ;
     skos:topConceptOf <> .
 
 <127>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Hildesheim"@de, "Universität Hildesheim"@en ;
-    skos:altLabel     "Hildesheim U"@de, "Hildesheim U"@en ;
+    skos:prefLabel "Universität Hildesheim"@de, "University Hildesheim"@en ;
+    skos:altLabel  "UNI Hildesheim"@de, "UNI Hildesheim"@en ;
     skos:topConceptOf <> .
 
 <128>
     a                 skos:Concept ;
     skos:prefLabel    "HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen"@de,
-                      "HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen"@en ;
-    skos:altLabel     "Hildesh./Holzm./Göttingen H"@de, "Hildesh./Holzm./Göttingen H"@en ;
+                      "HAWK University of Applied Sciences and Arts Hildesheim/Holzminden/Göttingen"@en ;
+    skos:altLabel     "HAWK Hildesh./Holzm./Göttingen"@de, "HAWK Hildesh./Holzm./Göttingen"@en ;
     skos:topConceptOf <> .
 
 <129>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Hohenheim"@de, "Universität Hohenheim"@en ;
-    skos:altLabel     "Hohenheim U"@de, "Hohenheim U"@en ;
+    skos:prefLabel "Universität Hohenheim"@de, "University Hohenheim"@en ;
+    skos:altLabel  "UNI Hohenheim"@de, "UNI Hohenheim"@en ;
     skos:topConceptOf <> .
 
 <130>
     a                 skos:Concept ;
     skos:prefLabel    "Technische Universität Ilmenau"@de, "Technische Universität Ilmenau"@en ;
-    skos:altLabel     "Ilmenau TU"@de, "Ilmenau TU"@en ;
+    skos:altLabel "TU Ilmenau"@de, "TU Ilmenau"@en ;
     skos:topConceptOf <> .
 
 <133>
     a                 skos:Concept ;
-    skos:prefLabel    "Friedrich-Schiller-Universität Jena"@de, "Friedrich-Schiller-Universität Jena"@en ;
-    skos:altLabel     "Jena U"@de, "Jena U"@en ;
+    skos:prefLabel "Friedrich-Schiller-Universität Jena"@de, "Friedrich-Schiller-University Jena"@en ;
+    skos:altLabel  "UNI Jena"@de, "UNI Jena"@en ;
     skos:topConceptOf <> .
 
 <134>
     a                 skos:Concept ;
     skos:prefLabel    "Ernst-Abbe-Hochschule Jena - University of Applied Sciences"@de,
                       "Ernst-Abbe-Hochschule Jena - University of Applied Sciences"@en ;
-    skos:altLabel     "Jena H"@de, "Jena H"@en ;
+    skos:altLabel "EAH Jena"@de, "EAH Jena"@en ;
     skos:topConceptOf <> .
 
 <135>
     a                 skos:Concept ;
     skos:prefLabel    "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau"@de,
-                      "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau"@en ;
-    skos:altLabel     "Kaiserslautern-Landau RPTU"@de, "Kaiserslautern-Landau RPTU"@en ;
+                      "Rheinland-Pfälzische Technology University Kaiserslautern-Landau"@en ;
+    skos:altLabel     "RPTU Kaiserslautern-Landau"@de, "RPTU Kaiserslautern-Landau"@en ;
     skos:topConceptOf <> .
 
 <136>
     a                 skos:Concept ;
-    skos:prefLabel    "Karlsruher Institut für Technologie"@de, "Karlsruher Institut für Technologie"@en ;
-    skos:altLabel     "Karlsruhe U KIT"@de, "Karlsruhe U KIT"@en ;
+    skos:prefLabel "Karlsruher Institut für Technologie"@de, "Karlsruher Institute of Technology"@en ;
+    skos:altLabel  "KIT Karlsruhe"@de, "KIT Karlsruhe"@en ;
     skos:topConceptOf <> .
 
 <137>
     a                 skos:Concept ;
-    skos:prefLabel    "Pädagogische Hochschule Karlsruhe"@de, "Pädagogische Hochschule Karlsruhe"@en ;
-    skos:altLabel     "Karlsruhe PH"@de, "Karlsruhe PH"@en ;
+    skos:prefLabel "Pädagogische Hochschule Karlsruhe"@de, "University of education Karlsruhe"@en ;
+    skos:altLabel  "PH Karlsruhe"@de, "PH Karlsruhe"@en ;
     skos:topConceptOf <> .
 
 <138>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule Karlsruhe - Technik und Wirtschaft"@de,
-                      "Hochschule Karlsruhe - Technik und Wirtschaft"@en ;
-    skos:altLabel     "Karlsruhe H"@de, "Karlsruhe H"@en ;
+                      "University Karlsruhe - Technology and economics"@en ;
+    skos:altLabel     "HS Karlsruhe"@de, "HS Karlsruhe"@en ;
     skos:topConceptOf <> .
 
 <139>
     a                 skos:Concept ;
     skos:prefLabel    "Staatliche Akademie der Bildenden Künste Karlsruhe"@de,
                       "Staatliche Akademie der Bildenden Künste Karlsruhe"@en ;
-    skos:altLabel     "Karlsruhe AkdBK"@de, "Karlsruhe AkdBK"@en ;
+    skos:altLabel "AkdBK Karlsruhe"@de, "AkdBK Karlsruhe"@en ;
     skos:topConceptOf <> .
 
 <140>
     a                 skos:Concept ;
     skos:prefLabel    "Staatliche Hochschule für Gestaltung Karlsruhe"@de,
-                      "Staatliche Hochschule für Gestaltung Karlsruhe"@en ;
-    skos:altLabel     "Karlsruhe HfGest"@de, "Karlsruhe HfGest"@en ;
+                      "Karlsruhe University of Arts and Design"@en ;
+    skos:altLabel     "HfG Karlsruhe"@de, "HfG Karlsruhe"@en ;
     skos:topConceptOf <> .
 
 <141>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Musik Karlsruhe"@de, "Hochschule für Musik Karlsruhe"@en ;
-    skos:altLabel     "Karlsruhe HfM"@de, "Karlsruhe HfM"@en ;
+    skos:prefLabel "Hochschule für Musik Karlsruhe"@de, "Karlsruhe University of Music"@en ;
+    skos:altLabel  "HfM Karlsruhe"@de, "HfM Karlsruhe"@en ;
     skos:topConceptOf <> .
 
 <142>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Kassel"@de, "Universität Kassel"@en ;
-    skos:altLabel     "Kassel U"@de, "Kassel U"@en ;
+    skos:prefLabel "Universität Kassel"@de, "University Kassel"@en ;
+    skos:altLabel  "UNI Kassel"@de, "UNI Kassel"@en ;
     skos:topConceptOf <> .
 
 <143>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für angewandte Wissenschaften Kempten"@de,
-                      "Hochschule für angewandte Wissenschaften Kempten"@en ;
-    skos:altLabel     "Kempten H"@de, "Kempten H"@en ;
+                      "Kempten University of Applied Sciences"@en ;
+    skos:altLabel     "HS Kempten"@de, "HS Kempten"@en ;
     skos:topConceptOf <> .
 
 <144>
     a                 skos:Concept ;
-    skos:prefLabel    "Christian-Albrechts-Universität zu Kiel"@de, "Christian-Albrechts-Universität zu Kiel"@en ;
-    skos:altLabel     "Kiel U"@de, "Kiel U"@en ;
+    skos:prefLabel "Christian-Albrechts-Universität zu Kiel"@de, "Christian-Albrechts-University zu Kiel"@en ;
+    skos:altLabel  "UNI Kiel"@de, "UNI Kiel"@en ;
     skos:topConceptOf <> .
 
 <145>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachhochschule Kiel"@de, "Fachhochschule Kiel"@en ;
-    skos:altLabel     "Kiel FH"@de, "Kiel FH"@en ;
+    skos:prefLabel "Fachhochschule Kiel"@de, "Kiel University of Applied Sciences"@en ;
+    skos:altLabel  "FH Kiel"@de, "FH Kiel"@en ;
     skos:topConceptOf <> .
 
 <146>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Koblenz"@de, "Universität Koblenz"@en ;
-    skos:altLabel     "Koblenz U"@de, "Koblenz U"@en ;
+    skos:prefLabel "Universität Koblenz"@de, "University Koblenz"@en ;
+    skos:altLabel  "UNI Koblenz"@de, "UNI Koblenz"@en ;
     skos:topConceptOf <> .
 
 <147>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität zu Köln"@de, "Universität zu Köln"@en ;
-    skos:altLabel     "Köln U"@de, "Köln U"@en ;
+    skos:prefLabel "Universität zu Köln"@de, "University zu Köln"@en ;
+    skos:altLabel  "UNI Köln"@de, "UNI Köln"@en ;
     skos:topConceptOf <> .
 
 <148>
     a                 skos:Concept ;
-    skos:prefLabel    "Deutsche Sporthochschule Köln"@de, "Deutsche Sporthochschule Köln"@en ;
-    skos:altLabel     "Köln DSHS"@de, "Köln DSHS"@en ;
+    skos:prefLabel "Deutsche Sporthochschule Köln"@de, "German Sport Univeristy Cologne"@en ;
+    skos:altLabel  "DSHS Köln"@de, "DSHS Köln"@en ;
     skos:topConceptOf <> .
 
 <149>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Hochschule Köln"@de, "Technische Hochschule Köln"@en ;
-    skos:altLabel     "Köln TH"@de, "Köln TH"@en ;
+    skos:prefLabel "Technische Hochschule Köln"@de, "Köln University of Applied Sciences"@en ;
+    skos:altLabel  "TH Köln"@de, "TH Köln"@en ;
     skos:topConceptOf <> .
 
 <150>
     a                 skos:Concept ;
     skos:prefLabel    "Rheinische Hochschule Köln"@de, "Rheinische Hochschule Köln"@en ;
-    skos:altLabel     "Köln RheinH"@de, "Köln RheinH"@en ;
+    skos:altLabel "RH Köln"@de, "RH Köln"@en ;
     skos:topConceptOf <> .
 
 <151>
     a                 skos:Concept ;
-    skos:prefLabel    "Katholische Hochschule Nordrhein-Westfalen - Catholic University of Applied Sciences"@de,
-                      "Katholische Hochschule Nordrhein-Westfalen - Catholic University of Applied Sciences"@en ;
-    skos:altLabel     "Nordrhein-Westfalen KathH"@de, "Nordrhein-Westfalen KathH"@en ;
+    skos:prefLabel "Katholische Hochschule Nordrhein-Westfalen"@de, "Catholic University of Applied Sciences"@en ;
+    skos:altLabel  "Katho Nordrhein-Westfalen"@de, "Katho Nordrhein-Westfalen"@en ;
     skos:topConceptOf <> .
 
 <152>
     a                 skos:Concept ;
-    skos:prefLabel    "Kunsthochschule für Medien Köln"@de, "Kunsthochschule für Medien Köln"@en ;
-    skos:altLabel     "Köln KuHMedien"@de, "Köln KuHMedien"@en ;
+    skos:prefLabel "Kunsthochschule für Medien Köln"@de, "Academy of Media Arts Cologne"@en ;
+    skos:altLabel  "KhM Köln"@de, "KhM Köln"@en ;
     skos:topConceptOf <> .
 
 <153>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Musik und Tanz Köln"@de, "Hochschule für Musik und Tanz Köln"@en ;
-    skos:altLabel     "Köln HfMT"@de, "Köln HfMT"@en ;
+    skos:prefLabel "Hochschule für Musik und Tanz Köln"@de, "Cologne University of Music and Dance"@en ;
+    skos:altLabel  "HfMT Köln"@de, "HfMT Köln"@en ;
     skos:topConceptOf <> .
 
 <154>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Konstanz"@de, "Universität Konstanz"@en ;
-    skos:altLabel     "Konstanz U"@de, "Konstanz U"@en ;
+    skos:prefLabel "Universität Konstanz"@de, "University Konstanz"@en ;
+    skos:altLabel  "UNI Konstanz"@de, "UNI Konstanz"@en ;
     skos:topConceptOf <> .
 
 <155>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule Konstanz Technik, Wirtschaft und Gestaltung"@de,
-                      "Hochschule Konstanz Technik, Wirtschaft und Gestaltung"@en ;
-    skos:altLabel     "Konstanz H"@de, "Konstanz H"@en ;
+                      "Hochschule Konstanz University of Applied Sciences"@en ;
+    skos:altLabel     "HTWG Konstanz"@de, "HTWG Konstanz"@en ;
     skos:topConceptOf <> .
 
 <156>
     a                 skos:Concept ;
     skos:prefLabel    "AKAD Hochschule Stuttgart - staatlich anerkannt"@de,
-                      "AKAD Hochschule Stuttgart - staatlich anerkannt"@en ;
-    skos:altLabel     "Stuttgart AKAD"@de, "Stuttgart AKAD"@en ;
+                      "AKAD University Stuttgart - staatlich anerkannt"@en ;
+    skos:altLabel     "AKAD Stuttgart"@de, "AKAD Stuttgart"@en ;
     skos:topConceptOf <> .
 
 <157>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule Landshut - Hochschule für angewandte Wissenschaften"@de,
-                      "Hochschule Landshut - Hochschule für angewandte Wissenschaften"@en ;
-    skos:altLabel     "Landshut H"@de, "Landshut H"@en ;
+                      "University of Applied Sciences Landshut"@en ;
+    skos:altLabel     "HAW Landshut"@de, "HAW Landshut"@en ;
     skos:topConceptOf <> .
 
 <159>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Leipzig"@de, "Universität Leipzig"@en ;
-    skos:altLabel     "Leipzig U"@de, "Leipzig U"@en ;
+    skos:prefLabel "Universität Leipzig"@de, "University Leipzig"@en ;
+    skos:altLabel  "UNI Leipzig"@de, "UNI Leipzig"@en ;
     skos:topConceptOf <> .
 
 <160>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für Technik, Wirtschaft und Kultur Leipzig"@de,
-                      "Hochschule für Technik, Wirtschaft und Kultur Leipzig"@en ;
-    skos:altLabel     "Leipzig HTWK"@de, "Leipzig HTWK"@en ;
+                      "Leipzig University of Applied Sciences"@en ;
+    skos:altLabel     "HTWK Leipzig"@de, "HTWK Leipzig"@en ;
     skos:topConceptOf <> .
 
 <162>
     a                 skos:Concept ;
     skos:prefLabel    "Hochschule für Musik und Theater Felix Mendelssohn Bartholdy Leipzig"@de,
-                      "Hochschule für Musik und Theater Felix Mendelssohn Bartholdy Leipzig"@en ;
+                      "University of Music and Theatre Felix Mendelssohn Bartholdy Leipzig"@en ;
     skos:altLabel     "Leipzig HMT"@de, "Leipzig HMT"@en ;
     skos:topConceptOf <> .
 
 <164>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule für Grafik und Buchkunst Leipzig"@de,
-                      "Hochschule für Grafik und Buchkunst Leipzig"@en ;
-    skos:altLabel     "Leipzig HfGuB"@de, "Leipzig HfGuB"@en ;
+    skos:prefLabel    "Hochschule für Grafik und Buchkunst Leipzig"@de, "Academy of Fine Arts Leipzig"@en ;
+    skos:altLabel     "HGB Leipzig"@de, "HGB Leipzig"@en ;
     skos:topConceptOf <> .
 
 <165>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Hochschule Ostwestfalen-Lippe"@de, "Technische Hochschule Ostwestfalen-Lippe"@en ;
-    skos:altLabel     "Ostwestfalen-Lippe TH"@de, "Ostwestfalen-Lippe TH"@en ;
+    skos:prefLabel "Technische Hochschule Ostwestfalen-Lippe"@de, "University of Applied Sciences and Arts"@en ;
+    skos:altLabel  "TH Ostwestfalen-Lippe"@de, "TH Ostwestfalen-Lippe"@en ;
     skos:topConceptOf <> .
 
 <166>
     a                 skos:Concept ;
-    skos:prefLabel    "Pädagogische Hochschule Ludwigsburg"@de, "Pädagogische Hochschule Ludwigsburg"@en ;
-    skos:altLabel     "Ludwigsburg PH"@de, "Ludwigsburg PH"@en ;
+    skos:prefLabel "Pädagogische Hochschule Ludwigsburg"@de, "Ludwigsburg University of Education"@en ;
+    skos:altLabel  "PH Ludwigsburg"@de, "PH Ludwigsburg"@en ;
     skos:topConceptOf <> .
 
 <168>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität zu Lübeck"@de, "Universität zu Lübeck"@en ;
-    skos:altLabel     "Lübeck U"@de, "Lübeck U"@en ;
+    skos:prefLabel "Universität zu Lübeck"@de, "University zu Lübeck"@en ;
+    skos:altLabel  "UNI Lübeck"@de, "UNI Lübeck"@en ;
     skos:topConceptOf <> .
 
 <169>
     a                 skos:Concept ;
-    skos:prefLabel    "Technische Hochschule Lübeck"@de, "Technische Hochschule Lübeck"@en ;
-    skos:altLabel     "Lübeck TH"@de, "Lübeck TH"@en ;
+    skos:prefLabel "Technische Hochschule Lübeck"@de, "Lübeck University of Applied Sciences"@en ;
+    skos:altLabel  "TH Lübeck"@de, "TH Lübeck"@en ;
     skos:topConceptOf <> .
 
 <170>
     a                 skos:Concept ;
     skos:prefLabel    "Musikhochschule Lübeck"@de, "Musikhochschule Lübeck"@en ;
-    skos:altLabel     "Lübeck HfM"@de, "Lübeck HfM"@en ;
+    skos:altLabel "MH Lübeck"@de, "MH Lübeck"@en ;
     skos:topConceptOf <> .
 
 <171>
     a                 skos:Concept ;
-    skos:prefLabel    "Leuphana Universität Lüneburg"@de, "Leuphana Universität Lüneburg"@en ;
-    skos:altLabel     "Lüneburg U"@de, "Lüneburg U"@en ;
+    skos:prefLabel "Leuphana Universität Lüneburg"@de, "Leuphana University Lüneburg"@en ;
+    skos:altLabel  "UNI Lüneburg"@de, "UNI Lüneburg"@en ;
     skos:topConceptOf <> .
 
 <172>
     a                 skos:Concept ;
-    skos:prefLabel    "Otto-von-Guericke-Universität Magdeburg"@de, "Otto-von-Guericke-Universität Magdeburg"@en ;
-    skos:altLabel     "Magdeburg U"@de, "Magdeburg U"@en ;
+    skos:prefLabel "Otto-von-Guericke-Universität Magdeburg"@de, "Otto-von-Guericke-University Magdeburg"@en ;
+    skos:altLabel  "UNI Magdeburg"@de, "UNI Magdeburg"@en ;
     skos:topConceptOf <> .
 
 <173>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Magdeburg-Stendal"@de, "Hochschule Magdeburg-Stendal"@en ;
-    skos:altLabel     "Magdeburg-Stendal H"@de, "Magdeburg-Stendal H"@en ;
+    skos:prefLabel "Hochschule Magdeburg-Stendal"@de, "Magdeburg-Stendal Univeristy of Applied Sciences"@en ;
+    skos:altLabel  "HS Magdeburg-Stendal"@de, "HS Magdeburg-Stendal"@en ;
     skos:topConceptOf <> .
 
 <174>
     a                 skos:Concept ;
-    skos:prefLabel    "Johannes Gutenberg-Universität Mainz"@de, "Johannes Gutenberg-Universität Mainz"@en ;
-    skos:altLabel     "Mainz U"@de, "Mainz U"@en ;
+    skos:prefLabel "Johannes Gutenberg-Universität Mainz"@de, "Johannes Gutenberg-University Mainz"@en ;
+    skos:altLabel  "UNI Mainz"@de, "UNI Mainz"@en ;
     skos:topConceptOf <> .
 
 <175>
     a                 skos:Concept ;
     skos:prefLabel    "Katholische Hochschule Mainz Catholic University of Applied Sciences"@de,
                       "Katholische Hochschule Mainz Catholic University of Applied Sciences"@en ;
-    skos:altLabel     "Mainz KathH"@de, "Mainz KathH"@en ;
+    skos:altLabel "KathH Mainz"@de, "KathH Mainz"@en ;
     skos:topConceptOf <> .
 
 <176>
     a                 skos:Concept ;
-    skos:prefLabel    "Universität Mannheim"@de, "Universität Mannheim"@en ;
-    skos:altLabel     "Mannheim U"@de, "Mannheim U"@en ;
+    skos:prefLabel "Universität Mannheim"@de, "University Mannheim"@en ;
+    skos:altLabel  "UNI Mannheim"@de, "UNI Mannheim"@en ;
     skos:topConceptOf <> .
 
 <177>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschule Mannheim"@de, "Hochschule Mannheim"@en ;
-    skos:altLabel     "Mannheim H"@de, "Mannheim H"@en ;
+    skos:prefLabel "Hochschule Mannheim"@de, "University of Applied Sciences Mannheim"@en ;
+    skos:altLabel  "HS Mannheim"@de, "HS Mannheim"@en ;
     skos:topConceptOf <> .
 
 <179>

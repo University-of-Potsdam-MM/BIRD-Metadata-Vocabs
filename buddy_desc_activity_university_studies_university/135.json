@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/135",
   "type": "Concept",
   "prefLabel": {
-    "en": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau",
+    "en": "Rheinland-Pfälzische Technology University Kaiserslautern-Landau",
     "de": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau"
   },
   "altLabel": {
     "en": [
-      "Kaiserslautern-Landau RPTU"
+      "RPTU Kaiserslautern-Landau"
     ],
     "de": [
-      "Kaiserslautern-Landau RPTU"
+      "RPTU Kaiserslautern-Landau"
     ]
   },
   "inScheme": [

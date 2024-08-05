@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/82",
   "type": "Concept",
   "prefLabel": {
-    "en": "Philosophisch-Theologische Hochschule Sankt Georgen Frankfurt am Main",
+    "en": "Graduate School of Philosophy and Theology sankt Georgen Frankfurt am Main",
     "de": "Philosophisch-Theologische Hochschule Sankt Georgen Frankfurt am Main"
   },
   "altLabel": {
     "en": [
-      "Frankfurt am Main PhThH"
+      "PhThH Frankfurt am Main"
     ],
     "de": [
-      "Frankfurt am Main PhThH"
+      "PhThH Frankfurt am Main"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/107",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Angewandte Wissenschaften Hamburg",
+    "en": "University of Applied Sciences Hamburg",
     "de": "Hochschule für Angewandte Wissenschaften Hamburg"
   },
   "altLabel": {
     "en": [
-      "Hamburg HAW"
+      "HAW Hamburg"
     ],
     "de": [
-      "Hamburg HAW"
+      "HAW Hamburg"
     ]
   },
   "inScheme": [

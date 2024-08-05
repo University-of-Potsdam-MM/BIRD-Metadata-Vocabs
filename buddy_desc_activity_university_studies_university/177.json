@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/177",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Mannheim",
+    "en": "University of Applied Sciences Mannheim",
     "de": "Hochschule Mannheim"
   },
   "altLabel": {
     "en": [
-      "Mannheim H"
+      "HS Mannheim"
     ],
     "de": [
-      "Mannheim H"
+      "HS Mannheim"
     ]
   },
   "inScheme": [

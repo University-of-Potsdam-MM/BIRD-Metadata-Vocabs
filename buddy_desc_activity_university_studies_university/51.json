@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/51",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Universität Dortmund",
+    "en": "Dortmund University",
     "de": "Technische Universität Dortmund"
   },
   "altLabel": {
     "en": [
-      "Dortmund TU"
+      "TU Dortmund"
     ],
     "de": [
-      "Dortmund TU"
+      "TU Dortmund"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/143",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für angewandte Wissenschaften Kempten",
+    "en": "Kempten University of Applied Sciences",
     "de": "Hochschule für angewandte Wissenschaften Kempten"
   },
   "altLabel": {
     "en": [
-      "Kempten H"
+      "HS Kempten"
     ],
     "de": [
-      "Kempten H"
+      "HS Kempten"
     ]
   },
   "inScheme": [

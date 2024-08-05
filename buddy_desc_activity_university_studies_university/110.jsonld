@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/110",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Musik und Theater Hamburg",
+    "en": "University of Music and Theatre Hamburg",
     "de": "Hochschule für Musik und Theater Hamburg"
   },
   "altLabel": {
     "en": [
-      "Hamburg HfM"
+      "HfMT Hamburg"
     ],
     "de": [
-      "Hamburg HfM"
+      "HfMT Hamburg"
     ]
   },
   "inScheme": [

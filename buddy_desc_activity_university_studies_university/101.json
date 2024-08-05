@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/101",
   "type": "Concept",
   "prefLabel": {
-    "en": "Martin-Luther-Universität Halle-Wittenberg",
+    "en": "Martin-Luther-University Halle-Wittenberg",
     "de": "Martin-Luther-Universität Halle-Wittenberg"
   },
   "altLabel": {
     "en": [
-      "Halle-Wittenberg U"
+      "UNI Halle-Wittenberg"
     ],
     "de": [
-      "Halle-Wittenberg U"
+      "UNI Halle-Wittenberg U"
     ]
   },
   "inScheme": [

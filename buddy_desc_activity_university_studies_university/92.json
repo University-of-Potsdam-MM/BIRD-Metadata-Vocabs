@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/92",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Fulda - University of Applied Sciences",
-    "de": "Hochschule Fulda - University of Applied Sciences"
+    "en": "Fulda University of Applied Sciences",
+    "de": "Hochschule Fulda"
   },
   "altLabel": {
     "en": [
-      "Fulda H"
+      "HS Fulda"
     ],
     "de": [
-      "Fulda H"
+      "HS Fulda"
     ]
   },
   "inScheme": [

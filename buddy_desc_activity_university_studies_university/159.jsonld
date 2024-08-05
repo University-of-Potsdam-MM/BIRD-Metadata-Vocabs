@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/159",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Leipzig",
+    "en": "University Leipzig",
     "de": "Universität Leipzig"
   },
   "altLabel": {
     "en": [
-      "Leipzig U"
+      "UNI Leipzig"
     ],
     "de": [
-      "Leipzig U"
+      "UNI Leipzig"
     ]
   },
   "inScheme": [

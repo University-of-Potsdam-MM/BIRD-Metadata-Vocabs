@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/153",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Musik und Tanz Köln",
+    "en": "Cologne University of Music and Dance",
     "de": "Hochschule für Musik und Tanz Köln"
   },
   "altLabel": {
     "en": [
-      "Köln HfMT"
+      "HfMT Köln"
     ],
     "de": [
-      "Köln HfMT"
+      "HfMT Köln"
     ]
   },
   "inScheme": [

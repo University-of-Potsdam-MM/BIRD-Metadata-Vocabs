@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/65",
   "type": "Concept",
   "prefLabel": {
-    "en": "Katholische Universität Eichstätt - Ingolstadt",
+    "en": "Catholic University Eichstaett - Ingolstadt",
     "de": "Katholische Universität Eichstätt - Ingolstadt"
   },
   "altLabel": {
     "en": [
-      "Eichstätt - Ingolstadt U"
+      "KU Eichstätt - Ingolstadt"
     ],
     "de": [
-      "Eichstätt - Ingolstadt U"
+      "KU Eichstätt - Ingolstadt"
     ]
   },
   "inScheme": [

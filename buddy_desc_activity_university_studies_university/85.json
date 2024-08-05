@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/85",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Universität Bergakademie Freiberg",
+    "en": "Technology University Bergakademie Freiberg",
     "de": "Technische Universität Bergakademie Freiberg"
   },
   "altLabel": {
     "en": [
-      "Freiberg TUBergAk"
+      "TU Freiberg"
     ],
     "de": [
-      "Freiberg TUBergAk"
+      "TU Freiberg"
     ]
   },
   "inScheme": [

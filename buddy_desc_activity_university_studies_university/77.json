@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/77",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Flensburg",
+    "en": "Flensburg University of Applied Sciences",
     "de": "Hochschule Flensburg"
   },
   "altLabel": {
     "en": [
-      "Flensburg H"
+      "HS Flensburg"
     ],
     "de": [
-      "Flensburg H"
+      "HS Flensburg"
     ]
   },
   "inScheme": [

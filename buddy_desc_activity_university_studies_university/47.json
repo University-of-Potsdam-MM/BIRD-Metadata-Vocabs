@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/47",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Darmstadt",
+    "en": "University of Applied Sciences Darmstadt",
     "de": "Hochschule Darmstadt"
   },
   "altLabel": {
     "en": [
-      "Darmstadt H"
+      "H Darmstadt"
     ],
     "de": [
-      "Darmstadt H"
+      "H Darmstadt"
     ]
   },
   "inScheme": [

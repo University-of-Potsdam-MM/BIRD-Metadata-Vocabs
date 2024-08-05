@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/165",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Hochschule Ostwestfalen-Lippe",
+    "en": "University of Applied Sciences and Arts",
     "de": "Technische Hochschule Ostwestfalen-Lippe"
   },
   "altLabel": {
     "en": [
-      "Ostwestfalen-Lippe TH"
+      "TH Ostwestfalen-Lippe"
     ],
     "de": [
-      "Ostwestfalen-Lippe TH"
+      "TH Ostwestfalen-Lippe"
     ]
   },
   "inScheme": [

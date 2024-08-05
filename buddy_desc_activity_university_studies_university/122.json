@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/122",
   "type": "Concept",
   "prefLabel": {
-    "en": "SRH Hochschule Heidelberg - Staatlich anerkannte Fachhochschule",
+    "en": "SRH University Heidelberg - Staatlich anerkannte Fachhochschule",
     "de": "SRH Hochschule Heidelberg - Staatlich anerkannte Fachhochschule"
   },
   "altLabel": {
     "en": [
-      "Heidelberg H"
+      "SRH Heidelberg"
     ],
     "de": [
-      "Heidelberg H"
+      "SRH Heidelberg"
     ]
   },
   "inScheme": [

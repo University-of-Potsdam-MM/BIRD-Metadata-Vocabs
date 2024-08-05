@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/95",
   "type": "Concept",
   "prefLabel": {
-    "en": "Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen",
+    "en": "University of Applied Sciences Gelsenkirchen, Bocholt, Recklinghausen",
     "de": "Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen"
   },
   "altLabel": {
     "en": [
-      "Westfälische H"
+      "HS Westfälische"
     ],
     "de": [
-      "Westfälische H"
+      "HS Westfälische"
     ]
   },
   "inScheme": [

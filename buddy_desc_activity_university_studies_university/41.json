@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/41",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Bremerhaven",
+    "en": "Bremerhaven University of Applied Sciences",
     "de": "Hochschule Bremerhaven"
   },
   "altLabel": {
     "en": [
-      "Bremerhaven H"
+      "HS Bremerhaven"
     ],
     "de": [
-      "Bremerhaven H"
+      "HS Bremerhaven"
     ]
   },
   "inScheme": [

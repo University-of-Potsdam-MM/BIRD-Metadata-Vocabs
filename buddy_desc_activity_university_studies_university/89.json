@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/89",
   "type": "Concept",
   "prefLabel": {
-    "en": "Evangelische Hochschule Freiburg, staatlich anerkannte Hochschule der Evangelischen Landeskirche in Baden",
+    "en": "Protestant University of Apllied Sciences Freiburg, staatlich anerkannte Hochschule der Evangelischen Landeskirche in Baden",
     "de": "Evangelische Hochschule Freiburg, staatlich anerkannte Hochschule der Evangelischen Landeskirche in Baden"
   },
   "altLabel": {
     "en": [
-      "Freiburg EvHS"
+      "EvHS Freiburg"
     ],
     "de": [
-      "Freiburg EvHS"
+      "EvHS Freiburg"
     ]
   },
   "inScheme": [

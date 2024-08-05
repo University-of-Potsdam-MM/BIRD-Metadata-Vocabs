@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/40",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Bremen",
+    "en": "City University of Applied Sciences Bremen",
     "de": "Hochschule Bremen"
   },
   "altLabel": {
     "en": [
-      "Bremen H"
+      "HS Bremen"
     ],
     "de": [
-      "Bremen H"
+      "HS Bremen"
     ]
   },
   "inScheme": [

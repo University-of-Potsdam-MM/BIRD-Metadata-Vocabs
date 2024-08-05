@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/113",
   "type": "Concept",
   "prefLabel": {
-    "en": "Stiftung Tierärztliche Hochschule Hannover",
+    "en": "University of Veterinary Medicine Hannover",
     "de": "Stiftung Tierärztliche Hochschule Hannover"
   },
   "altLabel": {
     "en": [
-      "Hannover TiHo"
+      "TiHo Hannover"
     ],
     "de": [
-      "Hannover TiHo"
+      "TiHo Hannover"
     ]
   },
   "inScheme": [

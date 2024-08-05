@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/43",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Universität Clausthal",
+    "en": "Clausthal University of Technology",
     "de": "Technische Universität Clausthal"
   },
   "altLabel": {
     "en": [
-      "Clausthal TU"
+      "TU Clausthal"
     ],
     "de": [
-      "Clausthal TU"
+      "TU Clausthal"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/37",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Bildende Künste Braunschweig",
+    "en": "Braunschweig University of Arts",
     "de": "Hochschule für Bildende Künste Braunschweig"
   },
   "altLabel": {
     "en": [
-      "Braunschweig HBK"
+      "HBK Braunschweig"
     ],
     "de": [
-      "Braunschweig HBK"
+      "HBK Braunschweig"
     ]
   },
   "inScheme": [

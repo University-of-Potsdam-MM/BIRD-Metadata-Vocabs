@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/117",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Musik, Theater und Medien Hannover",
+    "en": "Hannover University of Music, Drama and Media",
     "de": "Hochschule für Musik, Theater und Medien Hannover"
   },
   "altLabel": {
     "en": [
-      "Hannover HfMTM"
+      "HMTM Hannover"
     ],
     "de": [
-      "Hannover HfMTM"
+      "HMTM Hannover"
     ]
   },
   "inScheme": [

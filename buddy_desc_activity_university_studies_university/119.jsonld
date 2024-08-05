@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/119",
   "type": "Concept",
   "prefLabel": {
-    "en": "Ruprecht-Karls-Universität Heidelberg",
+    "en": "Ruprecht-Karls-University Heidelberg",
     "de": "Ruprecht-Karls-Universität Heidelberg"
   },
   "altLabel": {
     "en": [
-      "Heidelberg U"
+      "UNI Heidelberg"
     ],
     "de": [
-      "Heidelberg U"
+      "UNI Heidelberg"
     ]
   },
   "inScheme": [

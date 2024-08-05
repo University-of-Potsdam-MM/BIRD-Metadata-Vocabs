@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/121",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Jüdische Studien Heidelberg",
+    "en": "Heidelberg University of Jewish Studies",
     "de": "Hochschule für Jüdische Studien Heidelberg"
   },
   "altLabel": {
     "en": [
-      "Heidelberg HfJS"
+      "HfJS Heidelberg"
     ],
     "de": [
-      "Heidelberg HfJS"
+      "HfJS Heidelberg"
     ]
   },
   "inScheme": [

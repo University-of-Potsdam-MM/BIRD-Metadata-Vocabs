@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/73",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Esslingen",
+    "en": "University of Applied Sciences Esslingen",
     "de": "Hochschule Esslingen"
   },
   "altLabel": {
     "en": [
-      "Esslingen H"
+      "HS Esslingen"
     ],
     "de": [
-      "Esslingen H"
+      "HS Esslingen"
     ]
   },
   "inScheme": [

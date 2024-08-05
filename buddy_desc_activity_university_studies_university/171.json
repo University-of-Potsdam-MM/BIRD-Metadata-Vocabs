@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/171",
   "type": "Concept",
   "prefLabel": {
-    "en": "Leuphana Universität Lüneburg",
+    "en": "Leuphana University Lüneburg",
     "de": "Leuphana Universität Lüneburg"
   },
   "altLabel": {
     "en": [
-      "Lüneburg U"
+      "UNI Lüneburg"
     ],
     "de": [
-      "Lüneburg U"
+      "UNI Lüneburg"
     ]
   },
   "inScheme": [

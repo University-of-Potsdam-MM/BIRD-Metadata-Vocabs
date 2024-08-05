@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/160",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+    "en": "Leipzig University of Applied Sciences",
     "de": "Hochschule für Technik, Wirtschaft und Kultur Leipzig"
   },
   "altLabel": {
     "en": [
-      "Leipzig HTWK"
+      "HTWK Leipzig"
     ],
     "de": [
-      "Leipzig HTWK"
+      "HTWK Leipzig"
     ]
   },
   "inScheme": [

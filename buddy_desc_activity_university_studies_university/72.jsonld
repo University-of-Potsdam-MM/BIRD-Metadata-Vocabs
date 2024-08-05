@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/72",
   "type": "Concept",
   "prefLabel": {
-    "en": "Folkwang Universität der Künste",
+    "en": "Folkwang University of Arts",
     "de": "Folkwang Universität der Künste"
   },
   "altLabel": {
     "en": [
-      "Essen UdK"
+      "UdK Essen"
     ],
     "de": [
-      "Essen UdK"
+      "UdK Essen"
     ]
   },
   "inScheme": [

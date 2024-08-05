@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/84",
   "type": "Concept",
   "prefLabel": {
-    "en": "Europa-Universität Viadrina Frankfurt (Oder)",
+    "en": "Europa-University Viadrina Frankfurt (Oder)",
     "de": "Europa-Universität Viadrina Frankfurt (Oder)"
   },
   "altLabel": {
     "en": [
-      "Frankfurt (Oder) U"
+      "UNI Frankfurt (Oder)"
     ],
     "de": [
-      "Frankfurt (Oder) U"
+      "UNI Frankfurt (Oder)"
     ]
   },
   "inScheme": [

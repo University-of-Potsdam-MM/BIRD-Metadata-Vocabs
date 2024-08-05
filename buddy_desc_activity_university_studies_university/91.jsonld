@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/91",
   "type": "Concept",
   "prefLabel": {
-    "en": "Theologische Hochschule Friedensau",
+    "en": "Friedensau Adventist University",
     "de": "Theologische Hochschule Friedensau"
   },
   "altLabel": {
     "en": [
-      "Friedensau ThH"
+      "ThH Friedensau"
     ],
     "de": [
-      "Friedensau ThH"
+      "ThH Friedensau"
     ]
   },
   "inScheme": [

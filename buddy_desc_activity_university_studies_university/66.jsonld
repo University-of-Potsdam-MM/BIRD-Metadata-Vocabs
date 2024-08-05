@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/66",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Erfurt",
+    "en": "University of Erfurt",
     "de": "Universität Erfurt"
   },
   "altLabel": {
     "en": [
-      "Erfurt U"
+      "UNI Erfurt"
     ],
     "de": [
-      "Erfurt U"
+      "UNI Erfurt"
     ]
   },
   "inScheme": [

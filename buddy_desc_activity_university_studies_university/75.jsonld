@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/75",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg",
-    "de": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg"
+    "en": "Tübingen University of Church Music",
+    "de": "Hochschule für Kirchenmusik Tübingen"
   },
   "altLabel": {
     "en": [
-      "Tübingen HfKiM"
+      "HKM Tübingen"
     ],
     "de": [
-      "Tübingen HfKiM"
+      "HKM Tübingen"
     ]
   },
   "inScheme": [

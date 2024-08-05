@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/94",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Furtwangen - Informatik, Technik, Wirtschaft, Medien, Gesundheit",
-    "de": "Hochschule Furtwangen - Informatik, Technik, Wirtschaft, Medien, Gesundheit"
+    "en": "Furtwagen University",
+    "de": "Hochschule Furtwangen"
   },
   "altLabel": {
     "en": [
-      "Furtwangen H"
+      "H Furtwangen"
     ],
     "de": [
-      "Furtwangen H"
+      "H Furtwangen"
     ]
   },
   "inScheme": [

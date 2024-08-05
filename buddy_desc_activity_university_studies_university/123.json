@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/123",
   "type": "Concept",
   "prefLabel": {
-    "en": "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim",
+    "en": "University of Music and Performing Arts Mannheim",
     "de": "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim"
   },
   "altLabel": {
     "en": [
-      "Mannheim HfM"
+      "MuHo Mannheim"
     ],
     "de": [
-      "Mannheim HfM"
+      "MuHo Mannheim"
     ]
   },
   "inScheme": [

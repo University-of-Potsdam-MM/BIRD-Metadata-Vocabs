@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/127",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Hildesheim",
+    "en": "University Hildesheim",
     "de": "Universität Hildesheim"
   },
   "altLabel": {
     "en": [
-      "Hildesheim U"
+      "UNI Hildesheim"
     ],
     "de": [
-      "Hildesheim U"
+      "UNI Hildesheim"
     ]
   },
   "inScheme": [

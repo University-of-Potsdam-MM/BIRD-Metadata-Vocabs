@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/57",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Musik Carl Maria von Weber Dresden",
+    "en": "Carl Maria von Weber College of Music Dresden",
     "de": "Hochschule für Musik Carl Maria von Weber Dresden"
   },
   "altLabel": {
     "en": [
-      "Dresden HfM"
+      "HfMD Dresden"
     ],
     "de": [
-      "Dresden HfM"
+      "HfMD Dresden"
     ]
   },
   "inScheme": [

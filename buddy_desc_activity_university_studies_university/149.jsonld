@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/149",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Hochschule Köln",
+    "en": "Köln University of Applied Sciences",
     "de": "Technische Hochschule Köln"
   },
   "altLabel": {
     "en": [
-      "Köln TH"
+      "TH Köln"
     ],
     "de": [
-      "Köln TH"
+      "TH Köln"
     ]
   },
   "inScheme": [

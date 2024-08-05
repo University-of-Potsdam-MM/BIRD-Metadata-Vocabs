@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/105",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Universität Hamburg",
+    "en": "Hamburg University of Technology",
     "de": "Technische Universität Hamburg"
   },
   "altLabel": {
     "en": [
-      "Hamburg TU"
+      "TUH Hamburg"
     ],
     "de": [
-      "Hamburg TU"
+      "TUH Hamburg"
     ]
   },
   "inScheme": [

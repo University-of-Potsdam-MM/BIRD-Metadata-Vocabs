@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/129",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Hohenheim",
+    "en": "University Hohenheim",
     "de": "Universität Hohenheim"
   },
   "altLabel": {
     "en": [
-      "Hohenheim U"
+      "UNI Hohenheim"
     ],
     "de": [
-      "Hohenheim U"
+      "UNI Hohenheim"
     ]
   },
   "inScheme": [

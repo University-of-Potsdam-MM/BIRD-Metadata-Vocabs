@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/176",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Mannheim",
+    "en": "University Mannheim",
     "de": "Universität Mannheim"
   },
   "altLabel": {
     "en": [
-      "Mannheim U"
+      "UNI Mannheim"
     ],
     "de": [
-      "Mannheim U"
+      "UNI Mannheim"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/76",
   "type": "Concept",
   "prefLabel": {
-    "en": "Europa-Universität Flensburg",
+    "en": "Europa-University Flensburg",
     "de": "Europa-Universität Flensburg"
   },
   "altLabel": {
     "en": [
-      "Flensburg U"
+      "UNI Flensburg"
     ],
     "de": [
-      "Flensburg U"
+      "UNI Flensburg"
     ]
   },
   "inScheme": [

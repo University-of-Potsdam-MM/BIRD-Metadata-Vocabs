@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/48",
   "type": "Concept",
   "prefLabel": {
-    "en": "Evangelische Hochschule Darmstadt (staatlich anerkannt) – Kirchliche Körperschaft des öffentlichen Rechts",
+    "en": "Protestant University Darmstadt (staatlich anerkannt) – Church corporation under public law",
     "de": "Evangelische Hochschule Darmstadt (staatlich anerkannt) – Kirchliche Körperschaft des öffentlichen Rechts"
   },
   "altLabel": {
     "en": [
-      "Darmstadt EvH"
+      "EvH Darmstadt"
     ],
     "de": [
-      "Darmstadt EvH"
+      "EvH Darmstadt"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/97",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Hochschule Mittelhessen - THM",
-    "de": "Technische Hochschule Mittelhessen - THM"
+    "en": "University of Applied Sciences Mittelhessen",
+    "de": "Technische Hochschule Mittelhessen"
   },
   "altLabel": {
     "en": [
-      "Mittelhessen THM"
+      "TH Mittelhessen"
     ],
     "de": [
-      "Mittelhessen THM"
+      "TH Mittelhessen"
     ]
   },
   "inScheme": [

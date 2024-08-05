@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/96",
   "type": "Concept",
   "prefLabel": {
-    "en": "Justus-Liebig-Universität Gießen",
+    "en": "Justus-Liebig-University Gießen",
     "de": "Justus-Liebig-Universität Gießen"
   },
   "altLabel": {
     "en": [
-      "Giessen U"
+      "UNI Giessen"
     ],
     "de": [
-      "Giessen U"
+      "UNI Giessen"
     ]
   },
   "inScheme": [

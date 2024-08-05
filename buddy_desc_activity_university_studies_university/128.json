@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/128",
   "type": "Concept",
   "prefLabel": {
-    "en": "HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen",
+    "en": "HAWK University of Applied Sciences and Arts Hildesheim/Holzminden/Göttingen",
     "de": "HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen"
   },
   "altLabel": {
     "en": [
-      "Hildesh./Holzm./Göttingen H"
+      "HAWK Hildesh./Holzm./Göttingen"
     ],
     "de": [
-      "Hildesh./Holzm./Göttingen H"
+      "HAWK Hildesh./Holzm./Göttingen"
     ]
   },
   "inScheme": [

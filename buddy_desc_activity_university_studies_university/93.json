@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/93",
   "type": "Concept",
   "prefLabel": {
-    "en": "Theologische Fakultät Fulda",
+    "en": "Faculty of Theology Fulda",
     "de": "Theologische Fakultät Fulda"
   },
   "altLabel": {
     "en": [
-      "Fulda ThFak"
+      "ThFak Fulda"
     ],
     "de": [
-      "Fulda ThFak"
+      "ThFak Fulda"
     ]
   },
   "inScheme": [

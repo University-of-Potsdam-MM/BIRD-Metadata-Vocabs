@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/67",
   "type": "Concept",
   "prefLabel": {
-    "en": "Fachhochschule Erfurt",
+    "en": "Erfurt University of Applied Sciences",
     "de": "Fachhochschule Erfurt"
   },
   "altLabel": {
     "en": [
-      "Erfurt FH"
+      "FH Erfurt"
     ],
     "de": [
-      "Erfurt FH"
+      "FH Erfurt"
     ]
   },
   "inScheme": [

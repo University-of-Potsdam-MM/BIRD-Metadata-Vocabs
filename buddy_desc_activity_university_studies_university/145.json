@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/145",
   "type": "Concept",
   "prefLabel": {
-    "en": "Fachhochschule Kiel",
+    "en": "Kiel University of Applied Sciences",
     "de": "Fachhochschule Kiel"
   },
   "altLabel": {
     "en": [
-      "Kiel FH"
+      "FH Kiel"
     ],
     "de": [
-      "Kiel FH"
+      "FH Kiel"
     ]
   },
   "inScheme": [

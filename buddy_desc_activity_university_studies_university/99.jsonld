@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/99",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Greifswald",
+    "en": "University of Greifswald",
     "de": "Universität Greifswald"
   },
   "altLabel": {
     "en": [
-      "Greifswald U"
+      "UNI Greifswald"
     ],
     "de": [
-      "Greifswald U"
+      "UNI Greifswald"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/136",
   "type": "Concept",
   "prefLabel": {
-    "en": "Karlsruher Institut für Technologie",
+    "en": "Karlsruher Institute of Technology",
     "de": "Karlsruher Institut für Technologie"
   },
   "altLabel": {
     "en": [
-      "Karlsruhe U KIT"
+      "KIT Karlsruhe"
     ],
     "de": [
-      "Karlsruhe U KIT"
+      "KIT Karlsruhe"
     ]
   },
   "inScheme": [

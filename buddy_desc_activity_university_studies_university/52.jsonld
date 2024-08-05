@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/52",
   "type": "Concept",
   "prefLabel": {
-    "en": "Fachhochschule Dortmund",
+    "en": "University of Applied Sciences and Arts Dortmund",
     "de": "Fachhochschule Dortmund"
   },
   "altLabel": {
     "en": [
-      "Dortmund FH"
+      "FH Dortmund"
     ],
     "de": [
-      "Dortmund FH"
+      "FH Dortmund"
     ]
   },
   "inScheme": [

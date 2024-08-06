@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/260",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Hochschule Ulm",
+    "en": "Ulm University of Applied Sciences",
     "de": "Technische Hochschule Ulm"
   },
   "altLabel": {
     "en": [
-      "Ulm TH"
+      "TH Ulm"
     ],
     "de": [
-      "Ulm TH"
+      "TH Ulm"
     ]
   },
   "inScheme": [

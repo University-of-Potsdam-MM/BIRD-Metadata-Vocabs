@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/243",
   "type": "Concept",
   "prefLabel": {
-    "en": "Pädagogische Hochschule Schwäbisch Gmünd",
+    "en": "Schwäbisch Gmünd University of Education",
     "de": "Pädagogische Hochschule Schwäbisch Gmünd"
   },
   "altLabel": {
     "en": [
-      "Schwäbisch Gmünd PH"
+      "PH Schwäbisch Gmünd"
     ],
     "de": [
-      "Schwäbisch Gmünd PH"
+      "PH Schwäbisch Gmünd"
     ]
   },
   "inScheme": [

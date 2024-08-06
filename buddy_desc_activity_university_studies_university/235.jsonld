@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/235",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität des Saarlandes",
+    "en": "University Saarland",
     "de": "Universität des Saarlandes"
   },
   "altLabel": {
     "en": [
-      "Saarbrücken U"
+      "UNI Saarbrücken"
     ],
     "de": [
-      "Saarbrücken U"
+      "UNI Saarbrücken"
     ]
   },
   "inScheme": [

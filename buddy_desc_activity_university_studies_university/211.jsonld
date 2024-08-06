@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/211",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Osnabrück",
+    "en": "University Osnabrück",
     "de": "Universität Osnabrück"
   },
   "altLabel": {
     "en": [
-      "Osnabrück U"
+      "UNI Osnabrück"
     ],
     "de": [
-      "Osnabrück U"
+      "UNI Osnabrück"
     ]
   },
   "inScheme": [

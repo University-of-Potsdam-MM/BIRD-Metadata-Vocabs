@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/294",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Bonn-Rhein-Sieg, University of Applied Sciences",
-    "de": "Hochschule Bonn-Rhein-Sieg, University of Applied Sciences"
+    "en": "Bonn-Rhein-Sieg University of Applied Sciences",
+    "de": "Hochschule Bonn-Rhein-Sieg"
   },
   "altLabel": {
     "en": [
-      "Bonn-Rhein-Sieg H"
+      "H Bonn-Rhein-Sieg"
     ],
     "de": [
-      "Bonn-Rhein-Sieg H"
+      "H Bonn-Rhein-Sieg"
     ]
   },
   "inScheme": [

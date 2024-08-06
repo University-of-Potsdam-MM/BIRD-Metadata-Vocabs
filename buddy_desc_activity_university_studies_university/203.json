@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/203",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen",
+    "en": "University of economics and Enviroment Nürtingen-Geislingen",
     "de": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen"
   },
   "altLabel": {
     "en": [
-      "Nürtingen-Geislingen H"
+      "HfWU Nürtingen-Geislingen"
     ],
     "de": [
-      "Nürtingen-Geislingen H"
+      "HfWU Nürtingen-Geislingen"
     ]
   },
   "inScheme": [

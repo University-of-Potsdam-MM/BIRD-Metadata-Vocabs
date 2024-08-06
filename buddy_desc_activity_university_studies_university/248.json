@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/248",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Stuttgart",
+    "en": "University of Stuttgart",
     "de": "Universität Stuttgart"
   },
   "altLabel": {
     "en": [
-      "Stuttgart U"
+      "UNI Stuttgart"
     ],
     "de": [
-      "Stuttgart U"
+      "UNI Stuttgart"
     ]
   },
   "inScheme": [

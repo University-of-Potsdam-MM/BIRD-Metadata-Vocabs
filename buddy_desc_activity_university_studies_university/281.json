@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/281",
   "type": "Concept",
   "prefLabel": {
-    "en": "Kirchliche Hochschule Wuppertal",
+    "en": "Protestant University Wuppertal",
     "de": "Kirchliche Hochschule Wuppertal"
   },
   "altLabel": {
     "en": [
-      "Wuppertal KiH"
+      "KiHo Wuppertal"
     ],
     "de": [
-      "Wuppertal KiH"
+      "KiHo Wuppertal"
     ]
   },
   "inScheme": [

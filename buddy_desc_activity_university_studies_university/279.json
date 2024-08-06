@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/279",
   "type": "Concept",
   "prefLabel": {
-    "en": "Bergische Universität Wuppertal",
+    "en": "Bergische University of Wuppertal",
     "de": "Bergische Universität Wuppertal"
   },
   "altLabel": {
     "en": [
-      "Wuppertal U"
+      "UNI Wuppertal"
     ],
     "de": [
-      "Wuppertal U"
+      "UNI Wuppertal"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/287",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für angewandte Wissenschaften Hof",
+    "en": "Hof University of Applied Sciences",
     "de": "Hochschule für angewandte Wissenschaften Hof"
   },
   "altLabel": {
     "en": [
-      "Hof H"
+      "HS Hof"
     ],
     "de": [
-      "Hof H"
+      "HS Hof"
     ]
   },
   "inScheme": [

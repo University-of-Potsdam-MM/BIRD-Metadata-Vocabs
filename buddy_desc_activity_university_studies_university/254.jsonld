@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/254",
   "type": "Concept",
   "prefLabel": {
-    "en": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+    "en": "State University of Music and the Performing Arts Stuttgart",
     "de": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart"
   },
   "altLabel": {
     "en": [
-      "Stuttgart HfM"
+      "HMDK Stuttgart"
     ],
     "de": [
-      "Stuttgart HfM"
+      "HMDK Stuttgart"
     ]
   },
   "inScheme": [

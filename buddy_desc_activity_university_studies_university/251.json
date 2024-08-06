@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/251",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Technik Stuttgart",
+    "en": "Stuttgart University of Applied Sciences",
     "de": "Hochschule für Technik Stuttgart"
   },
   "altLabel": {
     "en": [
-      "Stuttgart H"
+      "HfT Stuttgart"
     ],
     "de": [
-      "Stuttgart H"
+      "HfT Stuttgart"
     ]
   },
   "inScheme": [

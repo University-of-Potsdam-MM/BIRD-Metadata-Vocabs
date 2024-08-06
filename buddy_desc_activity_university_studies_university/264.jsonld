@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/264",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für angewandte Wissenschaften Weihenstephan-Triesdorf",
+    "en": "Weihenstephan-Triesdorf University of Applied Sciences",
     "de": "Hochschule für angewandte Wissenschaften Weihenstephan-Triesdorf"
   },
   "altLabel": {
     "en": [
-      "Weihenstephan-Triesdorf H"
+      "HS Weihenstephan-Triesdorf"
     ],
     "de": [
-      "Weihenstephan-Triesdorf H"
+      "HS Weihenstephan-Triesdorf"
     ]
   },
   "inScheme": [

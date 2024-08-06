@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/255",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Trier",
+    "en": "University Trier",
     "de": "Universität Trier"
   },
   "altLabel": {
     "en": [
-      "Trier U"
+      "UNI Trier"
     ],
     "de": [
-      "Trier U"
+      "UNI Trier"
     ]
   },
   "inScheme": [

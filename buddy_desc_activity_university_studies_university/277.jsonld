@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/277",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Hochschule Würzburg-Schweinfurt",
+    "en": "Technical University of Applied Sciences Würzburg-Schweinfurt",
     "de": "Technische Hochschule Würzburg-Schweinfurt"
   },
   "altLabel": {
     "en": [
-      "Würzburg-Schweinfurt TH"
+      "TH Würzburg-Schweinfurt"
     ],
     "de": [
-      "Würzburg-Schweinfurt TH"
+      "TH Würzburg-Schweinfurt"
     ]
   },
   "inScheme": [

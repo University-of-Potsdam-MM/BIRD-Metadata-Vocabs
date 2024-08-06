@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/247",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Stralsund",
+    "en": "University of Applied Sciences Stralsund",
     "de": "Hochschule Stralsund"
   },
   "altLabel": {
     "en": [
-      "Stralsund H"
+      "HO Stralsund"
     ],
     "de": [
-      "Stralsund H"
+      "HO Stralsund"
     ]
   },
   "inScheme": [

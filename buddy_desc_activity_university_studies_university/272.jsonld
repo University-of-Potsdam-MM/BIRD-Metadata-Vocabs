@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/272",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Hochschule Wildau",
+    "en": "Technical University of Applied Sciences Wildau",
     "de": "Technische Hochschule Wildau"
   },
   "altLabel": {
     "en": [
-      "Wildau TH"
+      "TH Wildau"
     ],
     "de": [
-      "Wildau TH"
+      "TH Wildau"
     ]
   },
   "inScheme": [

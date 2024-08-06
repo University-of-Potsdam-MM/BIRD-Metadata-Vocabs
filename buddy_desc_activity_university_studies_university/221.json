@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/221",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Potsdam",
+    "en": "University of Potsdam",
     "de": "Universität Potsdam"
   },
   "altLabel": {
     "en": [
-      "Potsdam U"
+      "UNI Potsdam"
     ],
     "de": [
-      "Potsdam U"
+      "UNI Potsdam"
     ]
   },
   "inScheme": [

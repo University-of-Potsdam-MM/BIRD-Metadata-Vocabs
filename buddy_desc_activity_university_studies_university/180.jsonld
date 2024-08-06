@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/180",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Merseburg",
+    "en": "Merseburg University of Applied Sciences",
     "de": "Hochschule Merseburg"
   },
   "altLabel": {
     "en": [
-      "Merseburg H"
+      "HS Merseburg"
     ],
     "de": [
-      "Merseburg H"
+      "HS Merseburg"
     ]
   },
   "inScheme": [

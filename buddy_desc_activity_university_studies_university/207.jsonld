@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/207",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Gestaltung Offenbach",
+    "en": "University of Art and Design Offenbach",
     "de": "Hochschule für Gestaltung Offenbach"
   },
   "altLabel": {
     "en": [
-      "Offenbach HfGest"
+      "HfG Offenbach"
     ],
     "de": [
-      "Offenbach HfGest"
+      "HfG Offenbach"
     ]
   },
   "inScheme": [

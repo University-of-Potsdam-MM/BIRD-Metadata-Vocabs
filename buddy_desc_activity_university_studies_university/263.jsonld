@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/263",
   "type": "Concept",
   "prefLabel": {
-    "en": "Fachhochschule Wedel",
+    "en": "Wedel University of Applied Sciences",
     "de": "Fachhochschule Wedel"
   },
   "altLabel": {
     "en": [
-      "Wedel FH"
+      "FH Wedel"
     ],
     "de": [
-      "Wedel FH"
+      "FH Wedel"
     ]
   },
   "inScheme": [

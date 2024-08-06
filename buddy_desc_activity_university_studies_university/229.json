@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/229",
   "type": "Concept",
   "prefLabel": {
-    "en": "Evangelische Hochschule Ludwigsburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik - staatlich anerkannte Fachhochschule der Evangelischen Landeskirche Württemberg",
-    "de": "Evangelische Hochschule Ludwigsburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik - staatlich anerkannte Fachhochschule der Evangelischen Landeskirche Württemberg"
+    "en": "Ludwigsburg Protestant University of Applied Sciences",
+    "de": "Evangelische Hochschule Ludwigsburg"
   },
   "altLabel": {
     "en": [
-      "Ludwigsburg EvH"
+      "EH Ludwigsburg"
     ],
     "de": [
-      "Ludwigsburg EvH"
+      "EH Ludwigsburg"
     ]
   },
   "inScheme": [

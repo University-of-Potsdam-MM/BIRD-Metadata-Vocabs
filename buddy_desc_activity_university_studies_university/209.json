@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/209",
   "type": "Concept",
   "prefLabel": {
-    "en": "Carl von Ossietzky Universität Oldenburg",
+    "en": "Carl von Ossietzky University Oldenburg",
     "de": "Carl von Ossietzky Universität Oldenburg"
   },
   "altLabel": {
     "en": [
-      "Oldenburg U"
+      "UNI Oldenburg"
     ],
     "de": [
-      "Oldenburg U"
+      "UNI Oldenburg"
     ]
   },
   "inScheme": [

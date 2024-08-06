@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/236",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Technik und Wirtschaft des Saarlandes",
+    "en": "Saarland University of Applied Sciences",
     "de": "Hochschule für Technik und Wirtschaft des Saarlandes"
   },
   "altLabel": {
     "en": [
-      "Saarbrücken HTW"
+      "HTW Saar"
     ],
     "de": [
-      "Saarbrücken HTW"
+      "HTW Saar"
     ]
   },
   "inScheme": [

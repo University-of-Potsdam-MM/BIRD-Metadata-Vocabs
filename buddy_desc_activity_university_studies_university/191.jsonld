@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/191",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Münster",
+    "en": "University Münster",
     "de": "Universität Münster"
   },
   "altLabel": {
     "en": [
-      "Münster U"
+      "UNI Münster"
     ],
     "de": [
-      "Münster U"
+      "UNI Münster"
     ]
   },
   "inScheme": [

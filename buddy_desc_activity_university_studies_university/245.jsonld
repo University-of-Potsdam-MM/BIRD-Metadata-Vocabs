@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/245",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Siegen",
+    "en": "University of Siegen",
     "de": "Universität Siegen"
   },
   "altLabel": {
     "en": [
-      "Siegen U"
+      "UNI Siegen"
     ],
     "de": [
-      "Siegen U"
+      "UNI Siegen"
     ]
   },
   "inScheme": [

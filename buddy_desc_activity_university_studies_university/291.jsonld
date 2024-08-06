@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/291",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für angewandte Wissenschaften München",
+    "en": "München University of Applied Sciences",
     "de": "Hochschule für angewandte Wissenschaften München"
   },
   "altLabel": {
     "en": [
-      "München HAW"
+      "HAW München"
     ],
     "de": [
-      "München HAW"
+      "HAW München"
     ]
   },
   "inScheme": [

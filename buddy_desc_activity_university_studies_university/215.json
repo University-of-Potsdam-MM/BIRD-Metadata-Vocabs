@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/215",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Paderborn",
+    "en": "University Paderborn",
     "de": "Universität Paderborn"
   },
   "altLabel": {
     "en": [
-      "Paderborn U"
+      "UNi Paderborn"
     ],
     "de": [
-      "Paderborn U"
+      "UNI Paderborn"
     ]
   },
   "inScheme": [

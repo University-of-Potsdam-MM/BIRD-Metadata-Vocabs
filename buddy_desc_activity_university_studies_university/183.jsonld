@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/183",
   "type": "Concept",
   "prefLabel": {
-    "en": "Ludwig-Maximilians-Universität München",
+    "en": "Ludwig-Maximilians-University München",
     "de": "Ludwig-Maximilians-Universität München"
   },
   "altLabel": {
     "en": [
-      "München U"
+      "UNI München"
     ],
     "de": [
-      "München U"
+      "UNI München"
     ]
   },
   "inScheme": [

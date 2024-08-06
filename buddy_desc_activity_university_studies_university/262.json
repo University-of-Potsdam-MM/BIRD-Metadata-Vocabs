@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/262",
   "type": "Concept",
   "prefLabel": {
-    "en": "Vinzenz Pallotti University - kirchlich und staatlich anerkannte wissenschaftliche Hochschule in freier Trägerschaft",
-    "de": "Vinzenz Pallotti University - kirchlich und staatlich anerkannte wissenschaftliche Hochschule in freier Trägerschaft"
+    "en": "Vinzenz Pallotti University",
+    "de": "Vinzenz Pallotti University"
   },
   "altLabel": {
     "en": [
-      "Vallendar VP-Uni"
+      "VP-UNI Vallendar"
     ],
     "de": [
-      "Vallendar VP-Uni"
+      "VP-UNI Vallendar"
     ]
   },
   "inScheme": [

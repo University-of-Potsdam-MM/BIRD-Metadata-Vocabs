@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/186",
   "type": "Concept",
   "prefLabel": {
-    "en": "Katholische    Stiftungshochschule für   angewandte Wissenschaften München - Hochschule der Kirchlichen Stiftung des öffentlichen Rechts Katholische Bildungsstätten für Sozialberufe in Bayern",
-    "de": "Katholische    Stiftungshochschule für   angewandte Wissenschaften München - Hochschule der Kirchlichen Stiftung des öffentlichen Rechts Katholische Bildungsstätten für Sozialberufe in Bayern"
+    "en": "Katholische Stiftungshochschule München - University of Applied Sciences",
+    "de": "Katholische Stiftungshochschule München"
   },
   "altLabel": {
     "en": [
-      "München KathH"
+      "KSh München"
     ],
     "de": [
-      "München KathH"
+      "KSh München"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/214",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Osnabrück",
+    "en": "Osnabrück University of Applied Sciences",
     "de": "Hochschule Osnabrück"
   },
   "altLabel": {
     "en": [
-      "Osnabrück H"
+      "HS Osnabrück"
     ],
     "de": [
-      "Osnabrück H"
+      "HS Osnabrück"
     ]
   },
   "inScheme": [

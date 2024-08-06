@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/224",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Ravensburg-Weingarten",
+    "en": "University of Applied Sciences Ravensburg-Weingarten",
     "de": "Hochschule Ravensburg-Weingarten"
   },
   "altLabel": {
     "en": [
-      "Ravensburg-Weingarten H"
+      "HS Ravensburg-Weingarten"
     ],
     "de": [
-      "Ravensburg-Weingarten H"
+      "HS Ravensburg-Weingarten"
     ]
   },
   "inScheme": [

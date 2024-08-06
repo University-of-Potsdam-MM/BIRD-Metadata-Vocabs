@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/258",
   "type": "Concept",
   "prefLabel": {
-    "en": "Eberhard Karls Universität Tübingen",
+    "en": "Eberhard Karls University Tübingen",
     "de": "Eberhard Karls Universität Tübingen"
   },
   "altLabel": {
     "en": [
-      "Tübingen U"
+      "UNI Tübingen"
     ],
     "de": [
-      "Tübingen U"
+      "UNI Tübingen"
     ]
   },
   "inScheme": [

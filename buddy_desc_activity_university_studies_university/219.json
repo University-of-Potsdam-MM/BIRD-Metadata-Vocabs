@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/219",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Pforzheim - Gestaltung, Technik, Wirtschaft und Recht",
-    "de": "Hochschule Pforzheim - Gestaltung, Technik, Wirtschaft und Recht"
+    "en": "Pforzheim University",
+    "de": "Hochschule Pforzheim"
   },
   "altLabel": {
     "en": [
-      "Pforzheim H"
+      "HS Pforzheim"
     ],
     "de": [
-      "Pforzheim H"
+      "HS Pforzheim"
     ]
   },
   "inScheme": [

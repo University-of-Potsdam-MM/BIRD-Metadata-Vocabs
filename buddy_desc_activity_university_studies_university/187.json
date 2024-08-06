@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/187",
   "type": "Concept",
   "prefLabel": {
-    "en": "Akademie der Bildenden Künste München",
+    "en": "Academy of Fine Arts Munich",
     "de": "Akademie der Bildenden Künste München"
   },
   "altLabel": {
     "en": [
-      "München AkdBK"
+      "AdBK München"
     ],
     "de": [
-      "München AkdBK"
+      "AdBK München"
     ]
   },
   "inScheme": [

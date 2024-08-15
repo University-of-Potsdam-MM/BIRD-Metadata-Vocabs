@@ -70,7 +70,7 @@
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel "Geographie"@de, "Geografie"@de, "Erdkunde"@de, "geography"@en ;
+    skos:prefLabel "Geographie; Geografie; Erdkunde"@de, "geography"@en ;
     skos:topConceptOf <> .
 
 <13>

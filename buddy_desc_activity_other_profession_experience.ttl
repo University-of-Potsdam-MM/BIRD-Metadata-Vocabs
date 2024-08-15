@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel "Erste-Berufserfahrung; Anfänger"@de, "initial-professional-experience; Beginner"@en ;
+    skos:prefLabel "Erste-Berufserfahrung; Anfänger"@de, "initial-professional-experience; beginner"@en ;
     skos:topConceptOf <> .
 
 <2>

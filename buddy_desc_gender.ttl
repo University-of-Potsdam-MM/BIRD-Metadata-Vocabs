@@ -14,20 +14,20 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "diverse"@de, "diverse"@en ;
+    skos:prefLabel    "divers"@de, "diverse"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "male"@de, "male"@en ;
+    skos:prefLabel    "Männlich"@de, "male"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "female"@de, "female"@en ;
+    skos:prefLabel    "Weiblich"@de, "female"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "no-disclosure"@de, "no-disclosure"@en ;
+    skos:prefLabel    "Keine Angabe"@de, "no-disclosure"@en ;
     skos:topConceptOf <> .

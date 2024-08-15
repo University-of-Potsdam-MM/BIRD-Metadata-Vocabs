@@ -14,45 +14,45 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "youth-voluntary-service"@de, "youth-voluntary-service"@en ;
+    skos:prefLabel    "Jugend-Freiwilligendienst"@de, "youth-voluntary-service"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "voluntary-social-year"@de, "voluntary-social-year"@en ;
+    skos:prefLabel    "freiwilliges-soziales-Jahr"@de, "voluntary-social-year"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "voluntary-ecological-year"@de, "voluntary-ecological-year"@en ;
+    skos:prefLabel    "freiwilliges-ökologisches-jahr"@de, "voluntary-ecological-year"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "youth-in-action"@de, "youth-in-action"@en ;
+    skos:prefLabel    "Jugend in Aktion"@de, "youth-in-action"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "international-youth-voluntary-service"@de, "international-youth-voluntary-service"@en ;
+    skos:prefLabel    "internationaler-jugend-freiwilligendienst"@de, "international-youth-voluntary-service"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "developmental-volunteer-service-weltwärts"@de, "developmental-volunteer-service-weltwärts"@en ;
+    skos:prefLabel    "entwicklungspolitischer-freiwilligendienst-weltwärts"@de, "developmental-volunteer-service-weltwärts"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "voluntary-services-for-all-generations"@de, "voluntary-services-for-all-generations"@en ;
+    skos:prefLabel    "freiwillige dienste für alle generationen"@de, "voluntary-services-for-all-generations"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "federal-voluntary-service"@de, "federal-voluntary-service"@en ;
+    skos:prefLabel    "Bundesfreiwilligendienst"@de, "federal-voluntary-service"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "voluntary-military-service"@de, "voluntary-military-service"@en ;
+    skos:prefLabel    "Freiwilliger Wehrdienst"@de, "voluntary-military-service"@en ;
     skos:topConceptOf <> .

@@ -19,5 +19,5 @@
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "in-person"@de, "in-person"@en ;
+    skos:prefLabel    "in-persona"@de, "in-person"@en ;
     skos:topConceptOf <> .

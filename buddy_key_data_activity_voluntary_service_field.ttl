@@ -14,30 +14,30 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "social-sector"@de, "social-sector"@en ;
+    skos:prefLabel    "Sozialbereich"@de, "social-sector"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "sports"@de, "sports"@en ;
+    skos:prefLabel    "Sport"@de, "sports"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "culture"@de, "culture"@en ;
+    skos:prefLabel    "Kultur"@de, "culture"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "education"@de, "education"@en ;
+    skos:prefLabel    "Bildung"@de, "education"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "environmental-nature-protection"@de, "environmental-nature-protection"@en ;
+    skos:prefLabel    "Umwelt-Naturschutz"@de, "environmental-nature-protection"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "integration"@de, "integration"@en ;
+    skos:prefLabel    "Integration"@de, "integration"@en ;
     skos:topConceptOf <> .

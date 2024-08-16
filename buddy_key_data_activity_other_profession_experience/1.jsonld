@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_other_profession_experience/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "initial-professional-experience",
+    "en": "initial-professional-experience; beginner",
     "de": "Erste-Berufserfahrung; Anfänger"
   },
   "inScheme": [

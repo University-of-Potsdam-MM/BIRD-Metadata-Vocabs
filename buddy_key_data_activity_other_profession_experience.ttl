@@ -14,15 +14,15 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Erste-Berufserfahrung; Anfänger"@de, "initial-professional-experience"@en ;
+    skos:prefLabel "Erste-Berufserfahrung; Anfänger"@de, "initial-professional-experience; beginner"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Fortgeschrittene-Berufserfahrung; Erfahrener"@de, "relevant-professional-experience"@en ;
+    skos:prefLabel "Fortgeschrittene-Berufserfahrung; Erfahrener"@de, "relevant-professional-experience; advanced"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Umfangreiche-Berufserfahrung; Experte"@de, "extensive-professional-experience"@en ;
+    skos:prefLabel "Umfangreiche-Berufserfahrung; Experte"@de, "extensive-professional-experience; expert"@en ;
     skos:topConceptOf <> .

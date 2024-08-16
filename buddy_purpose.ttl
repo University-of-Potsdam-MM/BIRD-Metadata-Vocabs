@@ -18,17 +18,17 @@
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "exam-preparation"@de, "exam-preparation"@en ;
+    skos:prefLabel    "Prüfungsvorbereitung"@de, "exam-preparation"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "homework-help"@de, "homework-help"@en ;
+    skos:prefLabel    "Hausaufgabenhilfe"@de, "homework-help"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "proofreading"@de, "proofreading"@en ;
+    skos:prefLabel    "Korrekturlesen"@de, "proofreading"@en ;
     skos:topConceptOf <> .
 
 <5>
@@ -38,40 +38,40 @@
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "learning-partner"@de, "learning-partner"@en ;
+    skos:prefLabel    "Lernpartner"@de, "learning-partner"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "study-or-project-group"@de, "study-or-project-group"@en ;
+    skos:prefLabel    "Studien- oder Projektgruppe"@de, "study-or-project-group"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "professional-exchange"@de, "professional-exchange"@en ;
+    skos:prefLabel    "Fachaustausch"@de, "professional-exchange"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "counseling-coaching"@de, "counseling-coaching"@en ;
+    skos:prefLabel    "Beratung/Coaching"@de, "counseling-coaching"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel    "experience-sharing"@de, "experience-sharing"@en ;
+    skos:prefLabel    "Erfahrungsaustausch"@de, "experience-sharing"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel    "motivation-encouragement"@de, "motivation-encouragement"@en ;
+    skos:prefLabel    "Motivation - Förderung"@de, "motivation-encouragement"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel    "material-exchange"@de, "material-exchange"@en ;
+    skos:prefLabel    "Materialtausch"@de, "material-exchange"@en ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel    "organizational-support-in-studies"@de, "organizational-support-in-studies"@en ;
+    skos:prefLabel    "organisatorische-unterstützung-in-studien"@de, "organizational-support-in-studies"@en ;
     skos:topConceptOf <> .

@@ -44,5 +44,5 @@
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschullehrkraft"@de, "university-professor"@en ;
+    skos:prefLabel    "Hochschullehre"@de, "University"@en ;
     skos:topConceptOf <> .

@@ -1,0 +1,65 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_professor_study_area/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_desc_activity_university_professor_study_area"@en,
+                       "Vokabular von buddy_desc_activity_university_professor_study_area"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel "Agrar- und Forstwissenschaften"@de, "Agricultural and forestry sciences"@en ;
+    skos:topConceptOf <> .
+
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel "Gesellschafts- und Sozialwissenschaften"@de, "social and societal sciences"@en ;
+    skos:topConceptOf <> .
+
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel "Ingenieurwissenschaften"@de, "engineering sciences"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel "Kunst, Musik, Design"@de, "Art, music, design"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel "Lehramt"@de, "teaching degree"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel "Mathematik, Naturwissenschaften"@de, "Mathematics, natural sciences"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel "Medizin, Gesundheitswissenschaften"@de, "Medicine, health sciences"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel "Öffentliche Verwaltung"@de, "public administration"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel "Sprach- und Kulturwissenschaften"@de, "linguistics and cultural studies"@en ;
+    skos:topConceptOf <> .
+
+<10>
+    a                 skos:Concept ;
+    skos:prefLabel    "Wirtschaftswissenschaften, Rechtswissenschaften"@de, "economic sciences, law sciences"@en ;
+    skos:topConceptOf <> .

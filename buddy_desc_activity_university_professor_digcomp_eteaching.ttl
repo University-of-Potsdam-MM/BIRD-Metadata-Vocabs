@@ -14,15 +14,15 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel "wenig Erfahrung in digitaler Lehre; Anfänger"@de, "initial-digital-experience; Beginner"@en ;
+    skos:prefLabel "wenig Erfahrung in digitaler Lehre; Anfänger"@de, "initial-eteaching-experience; beginner"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel "etwas Erfahrung in digitaler Lehre; Erfahrener"@de, "relevant-digital-experience; advanced"@en ;
+    skos:prefLabel "etwas Erfahrung in digitaler Lehre; Erfahrener"@de, "relevant-eteaching-experience; advanced"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel "umfangreiche Erfahrung in digitaler Lehre; Experte"@de, "extensive-digital-experience; expert"@en ;
+    skos:prefLabel "umfangreiche Erfahrung in digitaler Lehre; Experte"@de, "extensive-eteaching-experience; expert"@en ;
     skos:topConceptOf <> .

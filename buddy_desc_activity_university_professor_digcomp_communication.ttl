@@ -1,0 +1,28 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_professor_digcomp_communication/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_desc_activity_university_professor_digcomp_communication"@en,
+                       "Vokabular von buddy_desc_activity_university_professor_digcomp_communication"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel "wenig Erfahrung in digitaler Kommunikation/Kollaboration; Anfänger"@de, "initial-digital communication/collaboration-experience; beginner"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel "etwas Erfahrung in digitaler Kommunikation/Kollaboration; Erfahrener"@de, "relevant-digital communication/collaboration-experience; advanced"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel "umfangreiche Erfahrung in digitaler Kommunikation/Kollaboration; Experte"@de, "extensive-digital communication/collaboration-experience; expert"@en ;
+    skos:topConceptOf <> .

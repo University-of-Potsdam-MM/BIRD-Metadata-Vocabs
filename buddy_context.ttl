@@ -44,5 +44,5 @@
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschullehre"@de, "University"@en ;
+    skos:prefLabel    "digitale Lehrmethoden/Hochschule"@de, "digital teaching methods/university"@en ;
     skos:topConceptOf <> .

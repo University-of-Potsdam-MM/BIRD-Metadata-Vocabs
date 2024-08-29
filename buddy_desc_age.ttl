@@ -1,0 +1,513 @@
+@base <https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_age/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+    a                  skos:ConceptScheme ;
+    dct:title          "Vocabulary of buddy_desc_age"@en,
+                       "Vokabular von buddy_desc_age"@de ;
+    dct:creator        "BIRD"@de ;
+    dct:created        "2024-06-05"^^xsd:date ;
+    dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10>, <11>, <12>, <13>, <14>, <15>, <16>, <17>, <18>, <19>, <20>, <21>, <22>, <23>, <24>, <25>, <26>, <27>, <28>, <29>, <30>, <31>, <32>, <33>, <34>, <35>, <36>, <37>, <38>, <39>, <40>, <41>, <42>, <43>, <44>, <45>, <46>, <47>, <48>, <49>, <50>, <51>, <52>, <53>, <54>, <55>, <56>, <57>, <58>, <59>, <60>, <61>, <62>, <63>, <64>, <65>, <66>, <67>, <68>, <69>, <70>, <71>, <72>, <73>, <74>, <75>, <76>, <77>, <78>, <79>, <80>, <81>, <82>, <83>, <84>, <85>, <86>, <87>, <88>, <89>, <90>, <91>, <92>, <93>, <94>, <95>, <96>, <97>, <98>, <99>, <100> .
+
+<1>
+    a                 skos:Concept ;
+    skos:prefLabel    "1"@de, "1"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a                 skos:Concept ;
+    skos:prefLabel    "2"@de, "2"@en ;
+    skos:topConceptOf <> .
+
+<3>
+    a                 skos:Concept ;
+    skos:prefLabel    "3"@de, "3"@en ;
+    skos:topConceptOf <> .
+
+<4>
+    a                 skos:Concept ;
+    skos:prefLabel    "4"@de, "4"@en ;
+    skos:topConceptOf <> .
+
+<5>
+    a                 skos:Concept ;
+    skos:prefLabel    "5"@de, "5"@en ;
+    skos:topConceptOf <> .
+
+<6>
+    a                 skos:Concept ;
+    skos:prefLabel    "6"@de, "6"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "7"@de, "7"@en ;
+    skos:topConceptOf <> .
+
+<8>
+    a                 skos:Concept ;
+    skos:prefLabel    "8"@de, "8"@en ;
+    skos:topConceptOf <> .
+
+<9>
+    a                 skos:Concept ;
+    skos:prefLabel    "9"@de, "9"@en ;
+    skos:topConceptOf <> .
+
+<10>
+    a                 skos:Concept ;
+    skos:prefLabel    "10"@de, "10"@en ;
+    skos:topConceptOf <> .
+
+<11>
+    a                 skos:Concept ;
+    skos:prefLabel    "11"@de, "11"@en ;
+    skos:topConceptOf <> .
+
+<12>
+    a                 skos:Concept ;
+    skos:prefLabel    "12"@de, "12"@en ;
+    skos:topConceptOf <> .
+
+<13>
+    a                 skos:Concept ;
+    skos:prefLabel    "13"@de, "13"@en ;
+    skos:topConceptOf <> .
+
+<14>
+    a                 skos:Concept ;
+    skos:prefLabel    "14"@de, "14"@en ;
+    skos:topConceptOf <> .
+
+<15>
+    a                 skos:Concept ;
+    skos:prefLabel    "15"@de, "15"@en ;
+    skos:topConceptOf <> .
+
+<16>
+    a                 skos:Concept ;
+    skos:prefLabel    "16"@de, "16"@en ;
+    skos:topConceptOf <> .
+
+<17>
+    a                 skos:Concept ;
+    skos:prefLabel    "17"@de, "17"@en ;
+    skos:topConceptOf <> .
+
+<18>
+    a                 skos:Concept ;
+    skos:prefLabel    "18"@de, "18"@en ;
+    skos:topConceptOf <> .
+
+<19>
+    a                 skos:Concept ;
+    skos:prefLabel    "19"@de, "19"@en ;
+    skos:topConceptOf <> .
+
+<20>
+    a                 skos:Concept ;
+    skos:prefLabel    "20"@de, "20"@en ;
+    skos:topConceptOf <> .
+
+<21>
+    a                 skos:Concept ;
+    skos:prefLabel    "21"@de, "21"@en ;
+    skos:topConceptOf <> .
+
+<22>
+    a                 skos:Concept ;
+    skos:prefLabel    "22"@de, "22"@en ;
+    skos:topConceptOf <> .
+
+<23>
+    a                 skos:Concept ;
+    skos:prefLabel    "23"@de, "23"@en ;
+    skos:topConceptOf <> .
+
+<24>
+    a                 skos:Concept ;
+    skos:prefLabel    "24"@de, "24"@en ;
+    skos:topConceptOf <> .
+
+<25>
+    a                 skos:Concept ;
+    skos:prefLabel    "25"@de, "25"@en ;
+    skos:topConceptOf <> .
+
+<26>
+    a                 skos:Concept ;
+    skos:prefLabel    "26"@de, "26"@en ;
+    skos:topConceptOf <> .
+
+<27>
+    a                 skos:Concept ;
+    skos:prefLabel    "27"@de, "27"@en ;
+    skos:topConceptOf <> .
+
+<28>
+    a                 skos:Concept ;
+    skos:prefLabel    "28"@de, "28"@en ;
+    skos:topConceptOf <> .
+
+<29>
+    a                 skos:Concept ;
+    skos:prefLabel    "29"@de, "29"@en ;
+    skos:topConceptOf <> .
+
+<30>
+    a                 skos:Concept ;
+    skos:prefLabel    "30"@de, "30"@en ;
+    skos:topConceptOf <> .
+
+<31>
+    a                 skos:Concept ;
+    skos:prefLabel    "31"@de, "31"@en ;
+    skos:topConceptOf <> .
+
+<32>
+    a                 skos:Concept ;
+    skos:prefLabel    "32"@de, "32"@en ;
+    skos:topConceptOf <> .
+
+<33>
+    a                 skos:Concept ;
+    skos:prefLabel    "33"@de, "33"@en ;
+    skos:topConceptOf <> .
+
+<34>
+    a                 skos:Concept ;
+    skos:prefLabel    "34"@de, "34"@en ;
+    skos:topConceptOf <> .
+
+<35>
+    a                 skos:Concept ;
+    skos:prefLabel    "35"@de, "35"@en ;
+    skos:topConceptOf <> .
+
+<36>
+    a                 skos:Concept ;
+    skos:prefLabel    "36"@de, "36"@en ;
+    skos:topConceptOf <> .
+
+<37>
+    a                 skos:Concept ;
+    skos:prefLabel    "37"@de, "37"@en ;
+    skos:topConceptOf <> .
+
+<38>
+    a                 skos:Concept ;
+    skos:prefLabel    "38"@de, "38"@en ;
+    skos:topConceptOf <> .
+
+<39>
+    a                 skos:Concept ;
+    skos:prefLabel    "39"@de, "39"@en ;
+    skos:topConceptOf <> .
+
+<40>
+    a                 skos:Concept ;
+    skos:prefLabel    "40"@de, "40"@en ;
+    skos:topConceptOf <> .
+
+<41>
+    a                 skos:Concept ;
+    skos:prefLabel    "41"@de, "41"@en ;
+    skos:topConceptOf <> .
+
+<42>
+    a                 skos:Concept ;
+    skos:prefLabel    "42"@de, "42"@en ;
+    skos:topConceptOf <> .
+
+<43>
+    a                 skos:Concept ;
+    skos:prefLabel    "43"@de, "43"@en ;
+    skos:topConceptOf <> .
+
+<44>
+    a                 skos:Concept ;
+    skos:prefLabel    "44"@de, "44"@en ;
+    skos:topConceptOf <> .
+
+<45>
+    a                 skos:Concept ;
+    skos:prefLabel    "45"@de, "45"@en ;
+    skos:topConceptOf <> .
+
+<46>
+    a                 skos:Concept ;
+    skos:prefLabel    "46"@de, "46"@en ;
+    skos:topConceptOf <> .
+
+<47>
+    a                 skos:Concept ;
+    skos:prefLabel    "47"@de, "47"@en ;
+    skos:topConceptOf <> .
+
+<48>
+    a                 skos:Concept ;
+    skos:prefLabel    "48"@de, "48"@en ;
+    skos:topConceptOf <> .
+
+<49>
+    a                 skos:Concept ;
+    skos:prefLabel    "49"@de, "49"@en ;
+    skos:topConceptOf <> .
+
+<50>
+    a                 skos:Concept ;
+    skos:prefLabel    "50"@de, "50"@en ;
+    skos:topConceptOf <> .
+
+<51>
+    a                 skos:Concept ;
+    skos:prefLabel    "51"@de, "51"@en ;
+    skos:topConceptOf <> .
+
+<52>
+    a                 skos:Concept ;
+    skos:prefLabel    "52"@de, "52"@en ;
+    skos:topConceptOf <> .
+
+<53>
+    a                 skos:Concept ;
+    skos:prefLabel    "53"@de, "53"@en ;
+    skos:topConceptOf <> .
+
+<54>
+    a                 skos:Concept ;
+    skos:prefLabel    "54"@de, "54"@en ;
+    skos:topConceptOf <> .
+
+<55>
+    a                 skos:Concept ;
+    skos:prefLabel    "55"@de, "55"@en ;
+    skos:topConceptOf <> .
+
+<56>
+    a                 skos:Concept ;
+    skos:prefLabel    "56"@de, "56"@en ;
+    skos:topConceptOf <> .
+
+<57>
+    a                 skos:Concept ;
+    skos:prefLabel    "57"@de, "57"@en ;
+    skos:topConceptOf <> .
+
+<58>
+    a                 skos:Concept ;
+    skos:prefLabel    "58"@de, "58"@en ;
+    skos:topConceptOf <> .
+
+<59>
+    a                 skos:Concept ;
+    skos:prefLabel    "59"@de, "59"@en ;
+    skos:topConceptOf <> .
+
+<60>
+    a                 skos:Concept ;
+    skos:prefLabel    "60"@de, "60"@en ;
+    skos:topConceptOf <> .
+
+<61>
+    a                 skos:Concept ;
+    skos:prefLabel    "61"@de, "61"@en ;
+    skos:topConceptOf <> .
+
+<62>
+    a                 skos:Concept ;
+    skos:prefLabel    "62"@de, "62"@en ;
+    skos:topConceptOf <> .
+
+<63>
+    a                 skos:Concept ;
+    skos:prefLabel    "63"@de, "63"@en ;
+    skos:topConceptOf <> .
+
+<64>
+    a                 skos:Concept ;
+    skos:prefLabel    "64"@de, "64"@en ;
+    skos:topConceptOf <> .
+
+<65>
+    a                 skos:Concept ;
+    skos:prefLabel    "65"@de, "65"@en ;
+    skos:topConceptOf <> .
+
+<66>
+    a                 skos:Concept ;
+    skos:prefLabel    "66"@de, "66"@en ;
+    skos:topConceptOf <> .
+
+<67>
+    a                 skos:Concept ;
+    skos:prefLabel    "67"@de, "67"@en ;
+    skos:topConceptOf <> .
+
+<68>
+    a                 skos:Concept ;
+    skos:prefLabel    "68"@de, "68"@en ;
+    skos:topConceptOf <> .
+
+<69>
+    a                 skos:Concept ;
+    skos:prefLabel    "69"@de, "69"@en ;
+    skos:topConceptOf <> .
+
+<70>
+    a                 skos:Concept ;
+    skos:prefLabel    "70"@de, "70"@en ;
+    skos:topConceptOf <> .
+
+<71>
+    a                 skos:Concept ;
+    skos:prefLabel    "71"@de, "71"@en ;
+    skos:topConceptOf <> .
+
+<72>
+    a                 skos:Concept ;
+    skos:prefLabel    "72"@de, "72"@en ;
+    skos:topConceptOf <> .
+
+<73>
+    a                 skos:Concept ;
+    skos:prefLabel    "73"@de, "73"@en ;
+    skos:topConceptOf <> .
+
+<74>
+    a                 skos:Concept ;
+    skos:prefLabel    "74"@de, "74"@en ;
+    skos:topConceptOf <> .
+
+<75>
+    a                 skos:Concept ;
+    skos:prefLabel    "75"@de, "75"@en ;
+    skos:topConceptOf <> .
+
+<76>
+    a                 skos:Concept ;
+    skos:prefLabel    "76"@de, "76"@en ;
+    skos:topConceptOf <> .
+
+<77>
+    a                 skos:Concept ;
+    skos:prefLabel    "77"@de, "77"@en ;
+    skos:topConceptOf <> .
+
+<78>
+    a                 skos:Concept ;
+    skos:prefLabel    "78"@de, "78"@en ;
+    skos:topConceptOf <> .
+
+<79>
+    a                 skos:Concept ;
+    skos:prefLabel    "79"@de, "79"@en ;
+    skos:topConceptOf <> .
+
+<80>
+    a                 skos:Concept ;
+    skos:prefLabel    "80"@de, "80"@en ;
+    skos:topConceptOf <> .
+
+<81>
+    a                 skos:Concept ;
+    skos:prefLabel    "81"@de, "81"@en ;
+    skos:topConceptOf <> .
+
+<82>
+    a                 skos:Concept ;
+    skos:prefLabel    "82"@de, "82"@en ;
+    skos:topConceptOf <> .
+
+<83>
+    a                 skos:Concept ;
+    skos:prefLabel    "83"@de, "83"@en ;
+    skos:topConceptOf <> .
+
+<84>
+    a                 skos:Concept ;
+    skos:prefLabel    "84"@de, "84"@en ;
+    skos:topConceptOf <> .
+
+<85>
+    a                 skos:Concept ;
+    skos:prefLabel    "85"@de, "85"@en ;
+    skos:topConceptOf <> .
+
+<86>
+    a                 skos:Concept ;
+    skos:prefLabel    "86"@de, "86"@en ;
+    skos:topConceptOf <> .
+
+<87>
+    a                 skos:Concept ;
+    skos:prefLabel    "87"@de, "87"@en ;
+    skos:topConceptOf <> .
+
+<88>
+    a                 skos:Concept ;
+    skos:prefLabel    "88"@de, "88"@en ;
+    skos:topConceptOf <> .
+
+<89>
+    a                 skos:Concept ;
+    skos:prefLabel    "89"@de, "89"@en ;
+    skos:topConceptOf <> .
+
+<90>
+    a                 skos:Concept ;
+    skos:prefLabel    "90"@de, "90"@en ;
+    skos:topConceptOf <> .
+
+<91>
+    a                 skos:Concept ;
+    skos:prefLabel    "91"@de, "91"@en ;
+    skos:topConceptOf <> .
+
+<92>
+    a                 skos:Concept ;
+    skos:prefLabel    "92"@de, "92"@en ;
+    skos:topConceptOf <> .
+
+<93>
+    a                 skos:Concept ;
+    skos:prefLabel    "93"@de, "93"@en ;
+    skos:topConceptOf <> .
+
+<94>
+    a                 skos:Concept ;
+    skos:prefLabel    "94"@de, "94"@en ;
+    skos:topConceptOf <> .
+
+<95>
+    a                 skos:Concept ;
+    skos:prefLabel    "95"@de, "95"@en ;
+    skos:topConceptOf <> .
+
+<96>
+    a                 skos:Concept ;
+    skos:prefLabel    "96"@de, "96"@en ;
+    skos:topConceptOf <> .
+
+<97>
+    a                 skos:Concept ;
+    skos:prefLabel    "97"@de, "97"@en ;
+    skos:topConceptOf <> .
+
+<98>
+    a                 skos:Concept ;
+    skos:prefLabel    "98"@de, "98"@en ;
+    skos:topConceptOf <> .
+
+<99>
+    a                 skos:Concept ;
+    skos:prefLabel    "99"@de, "99"@en ;
+    skos:topConceptOf <> .
+
+<100>
+    a                 skos:Concept ;
+    skos:prefLabel    "100"@de, "100"@en ;
+    skos:topConceptOf <> .

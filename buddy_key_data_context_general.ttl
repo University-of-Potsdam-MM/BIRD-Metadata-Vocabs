@@ -10,7 +10,7 @@
     dct:creator        "BIRD"@de ;
     dct:created        "2024-06-05"^^xsd:date ;
     dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6> .
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7> .
 
 <1>
     a                 skos:Concept ;
@@ -40,4 +40,9 @@
 <6>
     a                 skos:Concept ;
     skos:prefLabel    "Beruf"@de, "Occupation"@en ;
+    skos:topConceptOf <> .
+
+<7>
+    a                 skos:Concept ;
+    skos:prefLabel    "Hochschullehre"@de, "University"@en ;
     skos:topConceptOf <> .

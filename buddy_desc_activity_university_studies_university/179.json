@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/179",
   "type": "Concept",
   "prefLabel": {
-    "en": "Philipps-University Marburg",
+    "en": "University of Marburg",
     "de": "Philipps-Universität Marburg"
   },
   "altLabel": {
     "en": [
-      "UNI Marburg"
+      "Marburg U"
     ],
     "de": [
-      "UNI Marburg"
+      "Marburg U"
     ]
   },
   "inScheme": [

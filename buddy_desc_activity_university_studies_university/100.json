@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/100",
   "type": "Concept",
   "prefLabel": {
-    "en": "Distance-Learning University Hagen",
+    "en": "Hagen Correspondence University",
     "de": "FernUniversität in Hagen"
   },
   "altLabel": {
     "en": [
-      "FernU Hagen"
+      "Hagen FernU"
     ],
     "de": [
-      "FernU Hagen"
+      "Hagen FernU"
     ]
   },
   "inScheme": [

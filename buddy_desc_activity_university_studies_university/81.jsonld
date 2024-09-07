@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/81",
   "type": "Concept",
   "prefLabel": {
-    "en": "Frankfurt am Main University of Music and Performing Arts",
+    "en": "College of Music and Dramatic Art, Frankfurt am Main",
     "de": "Hochschule für Musik und Darstellende Kunst Frankfurt am Main"
   },
   "altLabel": {
     "en": [
-      "HfMDK Frankfurt am Main"
+      "Frankfurt am Main HfM"
     ],
     "de": [
-      "HfMDK Frankfurt am Main"
+      "Frankfurt am Main HfM"
     ]
   },
   "inScheme": [

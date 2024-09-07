@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/59",
   "type": "Concept",
   "prefLabel": {
-    "en": "Heinrich-Heine-University Düsseldorf",
+    "en": "University of Düsseldorf",
     "de": "Heinrich-Heine-Universität Düsseldorf"
   },
   "altLabel": {
     "en": [
-      "HHU Düsseldorf"
+      "Düsseldorf U"
     ],
     "de": [
-      "HHU Düsseldorf"
+      "Düsseldorf U"
     ]
   },
   "inScheme": [

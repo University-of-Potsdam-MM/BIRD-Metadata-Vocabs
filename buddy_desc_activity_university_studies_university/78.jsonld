@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/78",
   "type": "Concept",
   "prefLabel": {
-    "en": "Johann Wolfgang Goethe-University, Frankfurt am Main",
+    "en": "Frankfurt University",
     "de": "Johann Wolfgang Goethe-Universität, Frankfurt am Main"
   },
   "altLabel": {
     "en": [
-      "UNI Frankfurt am Main"
+      "Frankfurt am Main U"
     ],
     "de": [
-      "UNI Frankfurt am Main"
+      "Frankfurt am Main U"
     ]
   },
   "inScheme": [

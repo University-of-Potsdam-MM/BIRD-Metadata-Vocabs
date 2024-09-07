@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/253",
   "type": "Concept",
   "prefLabel": {
-    "en": "Stuttgart State Academy of Art and Design",
+    "en": "Art Academy of Stuttgart",
     "de": "Staatliche Akademie der Bildenden Künste Stuttgart"
   },
   "altLabel": {
     "en": [
-      "ABK Stuttgart "
+      "Stuttgart AkdBK"
     ],
     "de": [
-      "ABK Stuttgart"
+      "Stuttgart AkdBK"
     ]
   },
   "inScheme": [

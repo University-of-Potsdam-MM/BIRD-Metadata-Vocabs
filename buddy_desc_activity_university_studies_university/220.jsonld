@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/220",
   "type": "Concept",
   "prefLabel": {
-    "en": "NORDAKADEMIE Elmshorn - University of economics",
-    "de": "NORDAKADEMIE Elmshorn - Hochschule der Wirtschaft"
+    "en": "NORDAKADEMIE University of Applied Sciences of the Industry",
+    "de": "NORDAKADEMIE Hochschule der Wirtschaft"
   },
   "altLabel": {
     "en": [
-      "Nordakademie Elmshorn "
+      "Elmshorn FH Nordakademie"
     ],
     "de": [
-      "Nordakademie Elmshorn"
+      "Elmshorn FH Nordakademie"
     ]
   },
   "inScheme": [

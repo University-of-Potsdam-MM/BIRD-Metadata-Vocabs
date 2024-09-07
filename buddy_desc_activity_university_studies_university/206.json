@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/206",
   "type": "Concept",
   "prefLabel": {
-    "en": "EBS Universität für Wirtschaft und Recht",
+    "en": "EBS University of Business and Law",
     "de": "EBS Universität für Wirtschaft und Recht"
   },
   "altLabel": {
     "en": [
-      "EBS Wiesbaden"
+      "Wiesbaden EBS"
     ],
     "de": [
-      "EBS Wiesbaden"
+      "Wiesbaden EBS"
     ]
   },
   "inScheme": [

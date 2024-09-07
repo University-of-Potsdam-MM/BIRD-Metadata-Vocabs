@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/205",
   "type": "Concept",
   "prefLabel": {
-    "en": "Lutherische Theologische Hochschule Oberursel",
+    "en": "Lutheran College of Theology, Oberursel",
     "de": "Lutherische Theologische Hochschule Oberursel"
   },
   "altLabel": {
     "en": [
-      "LThH Oberursel"
+      "Oberursel LuthThH"
     ],
     "de": [
-      "LThH Oberursel"
+      "Oberursel LuthThH"
     ]
   },
   "inScheme": [

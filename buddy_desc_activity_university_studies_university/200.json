@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/200",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technische Hochschule Nürnberg Georg Simon Ohm",
+    "en": "Georg Simon Ohm University of Applied Sciences Nuremberg",
     "de": "Technische Hochschule Nürnberg Georg Simon Ohm"
   },
   "altLabel": {
     "en": [
-      "TH Nürnberg; OHM Nürnberg"
+      "Nürnberg TH"
     ],
     "de": [
-      "TH Nürnberg; OHM Nürnberg"
+      "Nürnberg TH"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/56",
   "type": "Concept",
   "prefLabel": {
-    "en": "Academy of Fine Arts Dresden",
+    "en": "College of Fine Arts, Dresden",
     "de": "Hochschule für Bildende Künste Dresden"
   },
   "altLabel": {
     "en": [
-      "HfBK Dresden"
+      "Dresden HfBK"
     ],
     "de": [
-      "HfBK Dresden"
+      "Dresden HfBK"
     ]
   },
   "inScheme": [

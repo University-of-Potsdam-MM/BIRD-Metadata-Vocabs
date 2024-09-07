@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/217",
   "type": "Concept",
   "prefLabel": {
-    "en": "Theologische Fakultät Paderborn",
+    "en": "Faculty of Theology, Paderborn",
     "de": "Theologische Fakultät Paderborn"
   },
   "altLabel": {
     "en": [
-      "ThF Paderborn"
+      "Paderborn ThFak"
     ],
     "de": [
-      "ThF Paderborn"
+      "Paderborn ThFak"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/103",
   "type": "Concept",
   "prefLabel": {
-    "en": "Protestant University for Church Music Halle",
-    "de": "Evangelische Hochschule für Kirchenmusik Halle"
+    "en": "Protestant College of Church Music",
+    "de": "Evangelische Hochschule für Kirchenmusik"
   },
   "altLabel": {
     "en": [
-      "HfKiM Halle"
+      "Halle HfKiM"
     ],
     "de": [
-      "HfKiM Halle"
+      "Halle HfKiM"
     ]
   },
   "inScheme": [

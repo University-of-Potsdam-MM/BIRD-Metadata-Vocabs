@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/223",
   "type": "Concept",
   "prefLabel": {
-    "en": "Film University Babelsberg Konrad Wolf",
+    "en": "Filmuniversität Babelsberg Konrad Wolf",
     "de": "Filmuniversität Babelsberg Konrad Wolf"
   },
   "altLabel": {
     "en": [
-      "FilmU Potsdam-Babelsberg"
+      "Potsdam-Babelsberg FilmU"
     ],
     "de": [
-      "FilmU Potsdam-Babelsberg"
+      "Potsdam-Babelsberg FilmU"
     ]
   },
   "inScheme": [

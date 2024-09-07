@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/169",
   "type": "Concept",
   "prefLabel": {
-    "en": "Lübeck University of Applied Sciences",
+    "en": "Technische Hochschule Lübeck",
     "de": "Technische Hochschule Lübeck"
   },
   "altLabel": {
     "en": [
-      "TH Lübeck"
+      "Lübeck TH"
     ],
     "de": [
-      "TH Lübeck"
+      "Lübeck TH"
     ]
   },
   "inScheme": [

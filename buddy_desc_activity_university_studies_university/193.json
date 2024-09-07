@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/193",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Fine Arts Münster",
+    "en": "Münster Art Academy University of Fine Arts",
     "de": "Kunstakademie Münster, Hochschule für Bildende Künste"
   },
   "altLabel": {
     "en": [
-      "KuAk Münster"
+      "Münster KuAk"
     ],
     "de": [
-      "KuAk Münster"
+      "Münster KuAk"
     ]
   },
   "inScheme": [

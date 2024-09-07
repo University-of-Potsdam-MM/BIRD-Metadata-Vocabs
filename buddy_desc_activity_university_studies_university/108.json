@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/108",
   "type": "Concept",
   "prefLabel": {
-    "en": "Protestant University for social Work & social Welfare Hamburg",
-    "de": "Evangelische Hochschule für Soziale Arbeit & Diakonie Hamburg"
+    "en": "Evangelische Hochschule für Soziale Arbeit & Diakonie (Protestant University for Social & Welfare Work)",
+    "de": "Evangelische Hochschule für Soziale Arbeit & Diakonie"
   },
   "altLabel": {
     "en": [
-      "EvH Hamburg"
+      "Hamburg EvH"
     ],
     "de": [
-      "EvH Hamburg"
+      "Hamburg EvH"
     ]
   },
   "inScheme": [

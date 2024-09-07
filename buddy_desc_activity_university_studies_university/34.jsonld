@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/34",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Applied Sciences Brandenburg",
+    "en": "Technische Hochschule Brandenburg",
     "de": "Technische Hochschule Brandenburg"
   },
   "altLabel": {
     "en": [
-      "TH Brandenburg"
+      "Brandenburg TH"
     ],
     "de": [
-      "TH Brandenburg"
+      "Brandenburg TH"
     ]
   },
   "inScheme": [

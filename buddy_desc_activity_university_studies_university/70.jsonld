@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/70",
   "type": "Concept",
   "prefLabel": {
-    "en": "Friedrich-Alexander-University Erlangen-Nuremberg",
+    "en": "University of Erlangen-Nuremberg",
     "de": "Friedrich-Alexander-Universität Erlangen-Nürnberg"
   },
   "altLabel": {
     "en": [
-      "FAU Erlangen-Nuremberg"
+      "Erlangen-Nürnberg U"
     ],
     "de": [
-      "FAU Erlangen-Nürnberg"
+      "Erlangen-Nürnberg U"
     ]
   },
   "inScheme": [

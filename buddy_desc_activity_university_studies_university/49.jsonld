@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/49",
   "type": "Concept",
   "prefLabel": {
-    "en": "Detmold University of Music",
+    "en": "College of Music, Detmold",
     "de": "Hochschule für Musik Detmold"
   },
   "altLabel": {
     "en": [
-      "HfM Detmold"
+      "Detmold HfM"
     ],
     "de": [
-      "HfM Detmold"
+      "Detmold HfM"
     ]
   },
   "inScheme": [

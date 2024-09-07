@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/420",
   "type": "Concept",
   "prefLabel": {
-    "en": "HMKW Hochschule für Medien, Kommunikation und Wirtschaft",
-    "de": "HMKW Hochschule für Medien, Kommunikation und Wirtschaft"
+    "en": "HMKW University of Applied Sciences for Media, Communication and Business",
+    "de": "MU Media University of Applied Sciences"
   },
   "altLabel": {
     "en": [
-      "Berlin HMKW"
+      "Berlin MU"
     ],
     "de": [
-      "Berlin HMKW"
+      "Berlin MU"
     ]
   },
   "inScheme": [

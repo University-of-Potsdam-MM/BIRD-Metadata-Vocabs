@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/240",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Musik Saar",
+    "en": "Saarland College of Music and Dramatic Art",
     "de": "Hochschule für Musik Saar"
   },
   "altLabel": {
     "en": [
-      "HfM Saar"
+      "Saarbrücken HfM"
     ],
     "de": [
-      "HfM Saar"
+      "Saarbrücken HfM"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/271",
   "type": "Concept",
   "prefLabel": {
-    "en": "Fresenius University of Applied Sciences",
+    "en": "University of Applied Sciences Fresenius",
     "de": "Hochschule Fresenius"
   },
   "altLabel": {
     "en": [
-      "HS Fresenius"
+      "Idstein HFresen"
     ],
     "de": [
-      "Hs fresenius"
+      "Idstein HFresen"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/188",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Music and Theatre Munich",
+    "en": "Munich College of Music and Theatre",
     "de": "Hochschule für Musik und Theater München"
   },
   "altLabel": {
     "en": [
-      "HMT München"
+      "München HMT"
     ],
     "de": [
-      "HMT München"
+      "München HMT"
     ]
   },
   "inScheme": [

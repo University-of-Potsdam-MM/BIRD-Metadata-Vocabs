@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/172",
   "type": "Concept",
   "prefLabel": {
-    "en": "Otto-von-Guericke-University Magdeburg",
+    "en": "University of Magdeburg",
     "de": "Otto-von-Guericke-Universität Magdeburg"
   },
   "altLabel": {
     "en": [
-      "UNI Magdeburg"
+      "Magdeburg U"
     ],
     "de": [
-      "UNI Magdeburg"
+      "Magdeburg U"
     ]
   },
   "inScheme": [

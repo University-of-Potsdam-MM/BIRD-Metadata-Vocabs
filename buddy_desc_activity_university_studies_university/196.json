@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/196",
   "type": "Concept",
   "prefLabel": {
-    "en": "Augustana-Hochschule Neuendettelsau",
+    "en": "Augustana College of Neuendettelsau",
     "de": "Augustana-Hochschule Neuendettelsau"
   },
   "altLabel": {
     "en": [
-      "KiH Neuendettelsau"
+      "Neuendettelsau KiH"
     ],
     "de": [
-      "KiH Neuendettelsau"
+      "Neuendettelsau KiH"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/189",
   "type": "Concept",
   "prefLabel": {
-    "en": "Munich School of Philosophy",
-    "de": "Hochschule für Philosophie München"
+    "en": "University of Philosophy",
+    "de": "Hochschule für Philosophie"
   },
   "altLabel": {
     "en": [
-      "HFPH München"
+      "München HPhil"
     ],
     "de": [
-      "HFPH München"
+      "München HPhil"
     ]
   },
   "inScheme": [

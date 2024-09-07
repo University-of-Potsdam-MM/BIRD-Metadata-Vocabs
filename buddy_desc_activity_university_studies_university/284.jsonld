@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/284",
   "type": "Concept",
   "prefLabel": {
-    "en": "Deggendorf Institute of Technology",
+    "en": "Technische Hochschule Deggendorf",
     "de": "Technische Hochschule Deggendorf"
   },
   "altLabel": {
     "en": [
-      "TH Deggendorf"
+      "Deggendorf TH"
     ],
     "de": [
-      "TH Deggendorf"
+      "Deggendorf TH"
     ]
   },
   "inScheme": [

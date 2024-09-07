@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/241",
   "type": "Concept",
   "prefLabel": {
-    "en": "Kölner Hochschule für Katholische Theologie (KHKT)",
+    "en": "Cologne University of Catholic Theology (KHKT)",
     "de": "Kölner Hochschule für Katholische Theologie (KHKT)"
   },
   "altLabel": {
     "en": [
-      "KHKT Köln"
+      "Köln KHKT"
     ],
     "de": [
-      "KHKT Köln"
+      "Köln KHKT"
     ]
   },
   "inScheme": [

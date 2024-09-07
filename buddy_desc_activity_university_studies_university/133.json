@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/133",
   "type": "Concept",
   "prefLabel": {
-    "en": "Friedrich-Schiller-University Jena",
+    "en": "University of Jena",
     "de": "Friedrich-Schiller-Universität Jena"
   },
   "altLabel": {
     "en": [
-      "UNI Jena"
+      "Jena U"
     ],
     "de": [
-      "UNI Jena"
+      "Jena U"
     ]
   },
   "inScheme": [

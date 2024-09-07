@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/32",
   "type": "Concept",
   "prefLabel": {
-    "en": "Rhenish Friedrich-Wilhelm-University of Bonn",
+    "en": "University of Bonn",
     "de": "Rheinische Friedrich-Wilhelms-Universität Bonn"
   },
   "altLabel": {
     "en": [
-      "UNI Bonn"
+      "Bonn U"
     ],
     "de": [
-      "UNI Bonn"
+      "Bonn U"
     ]
   },
   "inScheme": [

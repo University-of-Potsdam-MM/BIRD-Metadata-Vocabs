@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/120",
   "type": "Concept",
   "prefLabel": {
-    "en": "Heidelberg University of Education",
+    "en": "University of Education, Heidelberg",
     "de": "Pädagogische Hochschule Heidelberg"
   },
   "altLabel": {
     "en": [
-      "PH Heidelberg"
+      "Heidelberg PH"
     ],
     "de": [
-      "PH Heidelberg"
+      "Heidelberg PH"
     ]
   },
   "inScheme": [

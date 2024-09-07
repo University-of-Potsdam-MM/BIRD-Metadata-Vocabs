@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/31",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technical University Georg Agricola",
+    "en": "Technische Hochschule Georg Agricola",
     "de": "Technische Hochschule Georg Agricola"
   },
   "altLabel": {
     "en": [
-      "THGA Bochum"
+      "Bochum TH"
     ],
     "de": [
-      "THGA Bochum"
+      "Bochum TH"
     ]
   },
   "inScheme": [

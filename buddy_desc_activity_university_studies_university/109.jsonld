@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/109",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Fine Arts Hamburg",
+    "en": "College of Fine Arts, Hamburg",
     "de": "Hochschule für Bildende Künste Hamburg"
   },
   "altLabel": {
     "en": [
-      "HfBK Hamburg"
+      "Hamburg HfBK"
     ],
     "de": [
-      "HfBK Hamburg"
+      "Hamburg HfBK"
     ]
   },
   "inScheme": [

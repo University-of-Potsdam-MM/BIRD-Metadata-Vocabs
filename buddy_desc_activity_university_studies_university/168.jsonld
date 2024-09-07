@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/168",
   "type": "Concept",
   "prefLabel": {
-    "en": "University zu Lübeck",
+    "en": "Lübeck University",
     "de": "Universität zu Lübeck"
   },
   "altLabel": {
     "en": [
-      "UNI Lübeck"
+      "Lübeck U"
     ],
     "de": [
-      "UNI Lübeck"
+      "Lübeck U"
     ]
   },
   "inScheme": [

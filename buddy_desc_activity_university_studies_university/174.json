@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/174",
   "type": "Concept",
   "prefLabel": {
-    "en": "Johannes Gutenberg-University Mainz",
+    "en": "Mainz University",
     "de": "Johannes Gutenberg-Universität Mainz"
   },
   "altLabel": {
     "en": [
-      "UNI Mainz"
+      "Mainz U"
     ],
     "de": [
-      "UNI Mainz"
+      "Mainz U"
     ]
   },
   "inScheme": [

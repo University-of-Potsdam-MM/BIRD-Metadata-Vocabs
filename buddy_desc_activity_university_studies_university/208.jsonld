@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/208",
   "type": "Concept",
   "prefLabel": {
-    "en": "Offenburg University of Applied Sciences",
+    "en": "University of Applied Sciences Offenburg",
     "de": "Hochschule für Technik, Wirtschaft und Medien Offenburg"
   },
   "altLabel": {
     "en": [
-      "HS Offenburg"
+      "Offenburg H"
     ],
     "de": [
-      "HS Offenburg"
+      "Offenburg H"
     ]
   },
   "inScheme": [

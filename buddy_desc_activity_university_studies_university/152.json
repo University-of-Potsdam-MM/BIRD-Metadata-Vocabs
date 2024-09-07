@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/152",
   "type": "Concept",
   "prefLabel": {
-    "en": "Academy of Media Arts Cologne",
+    "en": "College of Arts and Media, Cologne",
     "de": "Kunsthochschule für Medien Köln"
   },
   "altLabel": {
     "en": [
-      "KhM Köln"
+      "Köln KuHMedien"
     ],
     "de": [
-      "KhM Köln"
+      "Köln KuHMedien"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/185",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of the Bundeswehr Munich",
+    "en": "Bundeswehr University Munich",
     "de": "Universität der Bundeswehr München"
   },
   "altLabel": {
     "en": [
-      "UBw München"
+      "München UBw"
     ],
     "de": [
-      "UBw München"
+      "München UBw"
     ]
   },
   "inScheme": [

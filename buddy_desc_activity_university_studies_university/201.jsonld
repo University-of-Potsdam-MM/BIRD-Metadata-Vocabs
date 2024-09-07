@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/201",
   "type": "Concept",
   "prefLabel": {
-    "en": "Nürnberg Lutheran University of Applied Sciences ",
+    "en": "Protestant University of Applied Science Berlin - Protestant University of Applied Science Nuremberg",
     "de": "Evangelische Hochschule für angewandte Wissenschaften - Evangelische Fachhochschule Nürnberg"
   },
   "altLabel": {
     "en": [
-      "EvH Nürnberg"
+      "Nürnberg EvH"
     ],
     "de": [
-      "EvH Nürnberg"
+      "Nürnberg EvH"
     ]
   },
   "inScheme": [

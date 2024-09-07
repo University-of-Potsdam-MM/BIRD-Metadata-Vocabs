@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/140",
   "type": "Concept",
   "prefLabel": {
-    "en": "Karlsruhe University of Arts and Design",
+    "en": "College of Design, Karlsruhe",
     "de": "Staatliche Hochschule für Gestaltung Karlsruhe"
   },
   "altLabel": {
     "en": [
-      "HfG Karlsruhe"
+      "Karlsruhe HfGest"
     ],
     "de": [
-      "HfG Karlsruhe"
+      "Karlsruhe HfGest"
     ]
   },
   "inScheme": [

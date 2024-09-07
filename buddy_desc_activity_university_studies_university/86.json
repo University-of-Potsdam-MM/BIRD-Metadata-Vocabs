@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/86",
   "type": "Concept",
   "prefLabel": {
-    "en": "Albert-Ludwigs-University Freiburg im Breisgau",
+    "en": "University of Freiburg",
     "de": "Albert-Ludwigs-Universität Freiburg im Breisgau"
   },
   "altLabel": {
     "en": [
-      "UNI Freiburg"
+      "Freiburg U"
     ],
     "de": [
-      "UNI Freiburg"
+      "Freiburg U"
     ]
   },
   "inScheme": [

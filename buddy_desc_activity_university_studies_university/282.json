@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/282",
   "type": "Concept",
   "prefLabel": {
-    "en": "Zittau/Görlitz University of Applied Sciences",
+    "en": "Zittau-Görlitz University of Applied Sciences",
     "de": "Hochschule Zittau/Görlitz"
   },
   "altLabel": {
     "en": [
-      "HS Zittau/ Görlitz"
+      "Zittau/ Görlitz H"
     ],
     "de": [
-      "HS Zittau/ Görlitz"
+      "Zittau/ Görlitz H"
     ]
   },
   "inScheme": [

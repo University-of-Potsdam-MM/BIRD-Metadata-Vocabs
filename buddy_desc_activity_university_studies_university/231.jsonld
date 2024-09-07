@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/231",
   "type": "Concept",
   "prefLabel": {
-    "en": "Rheinland-Westfalen-Lippe Protestant University of Applied Sciences",
+    "en": "Protestant University of Applied Sciences Rhineland-Westphalia-Lippe",
     "de": "Evangelische Hochschule Rheinland-Westfalen-Lippe"
   },
   "altLabel": {
     "en": [
-      "EvH Bochum Rheinland-Westfalen-Lippe"
+      "Bochum Rheinland-Westfalen-Lippe EvH"
     ],
     "de": [
-      "EvH Bochum Rheinland-Westfalen-Lippe"
+      "Bochum Rheinland-Westfalen-Lippe EvH"
     ]
   },
   "inScheme": [

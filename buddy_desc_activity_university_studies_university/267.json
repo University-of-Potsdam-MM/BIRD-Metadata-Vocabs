@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/267",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Music Franz Liszt Weimar",
+    "en": "Franz Liszt College of Music, Weimar",
     "de": "Hochschule für Musik Franz Liszt Weimar"
   },
   "altLabel": {
     "en": [
-      "HfM Weimar"
+      "Weimar HfM"
     ],
     "de": [
-      "HfM Weimar"
+      "Weimar HfM"
     ]
   },
   "inScheme": [

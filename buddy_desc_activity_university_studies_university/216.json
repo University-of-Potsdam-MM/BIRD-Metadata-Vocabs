@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/216",
   "type": "Concept",
   "prefLabel": {
-    "en": "Fachhochschule der Wirtschaft Paderborn",
-    "de": "Fachhochschule der Wirtschaft Paderborn"
+    "en": "University of Business Studies Paderborn",
+    "de": "Fachhochschule der Wirtschaft"
   },
   "altLabel": {
     "en": [
-      "FHDW Paderborn"
+      "Paderborn FHDW"
     ],
     "de": [
-      "FHDW Paderborn"
+      "Paderborn FHDW"
     ]
   },
   "inScheme": [

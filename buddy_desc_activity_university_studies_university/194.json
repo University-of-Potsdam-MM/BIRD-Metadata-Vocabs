@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/194",
   "type": "Concept",
   "prefLabel": {
-    "en": "Philosophisch-Theologische Hochschule Münster",
-    "de": "Philosophisch-Theologische Hochschule Münster"
+    "en": "PTH Münster (Philosophical-theological University)- Church and state approved university operated by the PTH Philosophisch-Theologische Hochschule Münster gemeinnützige GmbH",
+    "de": "Philosophisch-Theologische Hochschule Münster - Kirchlich und staatlich anerkannte Hochschule in Trägerschaft der PTH Philosophisch-Theologische Hochschule Münster gemeinnützige GmbH"
   },
   "altLabel": {
     "en": [
-      "PTH Münster"
+      "Münster PhThH"
     ],
     "de": [
-      "PTH Münster"
+      "Münster PhThH"
     ]
   },
   "inScheme": [

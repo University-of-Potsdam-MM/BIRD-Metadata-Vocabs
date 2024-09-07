@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/252",
   "type": "Concept",
   "prefLabel": {
-    "en": "Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart - Staatlich anerkannt",
+    "en": "Merz Akademie University of Art, Design and Media, Stuttgart - state recognised",
     "de": "Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart - Staatlich anerkannt"
   },
   "altLabel": {
     "en": [
-      "MerzAk Stuttgart"
+      "Stuttgart MerzAk"
     ],
     "de": [
-      "MerzAk Stuttgart"
+      "Stuttgart MerzAk"
     ]
   },
   "inScheme": [

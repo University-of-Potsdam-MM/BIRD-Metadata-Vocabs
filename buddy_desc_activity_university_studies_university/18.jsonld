@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/18",
   "type": "Concept",
   "prefLabel": {
-    "en": "Alice Salomon University Berlin",
+    "en": "Alice Salomon University of Applied Sciences Berlin",
     "de": "Alice Salomon Hochschule Berlin"
   },
   "altLabel": {
     "en": [
-      "ASH Berlin"
+      "Berlin ASH"
     ],
     "de": [
-      "ASH Berlin"
+      "Berlin ASH"
     ]
   },
   "inScheme": [

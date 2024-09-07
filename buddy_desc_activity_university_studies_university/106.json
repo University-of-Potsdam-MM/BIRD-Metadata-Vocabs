@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/106",
   "type": "Concept",
   "prefLabel": {
-    "en": "Helmut-Schmidt-University/University der Bundeswehr Hamburg",
+    "en": "Hamburg University of the Federal Armed Forces",
     "de": "Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg"
   },
   "altLabel": {
     "en": [
-      "HSU Hamburg"
+      "Hamburg UBw"
     ],
     "de": [
-      "HSU Hamburg"
+      "Hamburg UBw"
     ]
   },
   "inScheme": [

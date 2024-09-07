@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/22",
   "type": "Concept",
   "prefLabel": {
-    "en": "weißensee academy of art Berlin",
+    "en": "Weißensee Kunsthochschule Berlin",
     "de": "weißensee kunsthochschule berlin"
   },
   "altLabel": {
     "en": [
-      "KHB Berlin-Weißensee"
+      "Berlin-Weißensee KHB"
     ],
     "de": [
-      "KHB Berlin-Weißensee"
+      "Berlin-Weißensee KHB"
     ]
   },
   "inScheme": [

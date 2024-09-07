@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/270",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule RheinMain",
+    "en": "RhineMain University of Applied Sciences Wiesbaden, Rüsselsheim",
     "de": "Hochschule RheinMain"
   },
   "altLabel": {
     "en": [
-      "HS RheinMain"
+      "RheinMain H"
     ],
     "de": [
-      "HS RheinMain"
+      "RheinMain H"
     ]
   },
   "inScheme": [

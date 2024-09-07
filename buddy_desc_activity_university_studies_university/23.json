@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/23",
   "type": "Concept",
   "prefLabel": {
-    "en": "Ernst Busch University of Theatre Arts Berlin",
+    "en": "Ernst Busch University of Dramatic Arts",
     "de": "Hochschule für Schauspielkunst Ernst Busch"
   },
   "altLabel": {
     "en": [
-      "HfS Ernst Busch"
+      "Berlin HfS"
     ],
     "de": [
-      "Hfs Ernst Busch"
+      "Berlin HfS"
     ]
   },
   "inScheme": [

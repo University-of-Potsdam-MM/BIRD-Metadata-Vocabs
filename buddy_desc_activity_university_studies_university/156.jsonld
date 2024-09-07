@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/156",
   "type": "Concept",
   "prefLabel": {
-    "en": "AKAD University Stuttgart - staatlich anerkannt",
+    "en": "AKAD University of Applied Sciences in Stuttgart - state accredited",
     "de": "AKAD Hochschule Stuttgart - staatlich anerkannt"
   },
   "altLabel": {
     "en": [
-      "AKAD Stuttgart"
+      "Stuttgart AKAD"
     ],
     "de": [
-      "AKAD Stuttgart"
+      "Stuttgart AKAD"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/173",
   "type": "Concept",
   "prefLabel": {
-    "en": "Magdeburg-Stendal Univeristy of Applied Sciences",
+    "en": "Magdeburg-Stendal University of Applied Sciences",
     "de": "Hochschule Magdeburg-Stendal"
   },
   "altLabel": {
     "en": [
-      "HS Magdeburg-Stendal"
+      "Magdeburg-Stendal H"
     ],
     "de": [
-      "HS Magdeburg-Stendal"
+      "Magdeburg-Stendal H"
     ]
   },
   "inScheme": [

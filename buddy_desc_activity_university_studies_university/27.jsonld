@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/27",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Bielefeld",
+    "en": "Bielefeld University",
     "de": "Universität Bielefeld"
   },
   "altLabel": {
     "en": [
-      "UNI Bielefeld"
+      "Bielefeld U"
     ],
     "de": [
-      "UNI Bielefeld"
+      "Bielefeld U"
     ]
   },
   "inScheme": [

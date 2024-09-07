@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/225",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Regensburg",
+    "en": "University of Regensburg",
     "de": "Universität Regensburg"
   },
   "altLabel": {
     "en": [
-      "UNI Regensburg"
+      "Regensburg U"
     ],
     "de": [
-      "UNI Regensburg"
+      "Regensburg U"
     ]
   },
   "inScheme": [

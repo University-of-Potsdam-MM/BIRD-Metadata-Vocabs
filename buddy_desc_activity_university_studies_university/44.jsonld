@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/44",
   "type": "Concept",
   "prefLabel": {
-    "en": "Coburg University of applied schiences and arts",
+    "en": "Hochschule für angewandte Wissenschaften Coburg",
     "de": "Hochschule für angewandte Wissenschaften Coburg"
   },
   "altLabel": {
     "en": [
-      "HS Coburg"
+      "Coburg H"
     ],
     "de": [
-      "HS Coburg"
+      "Coburg H"
     ]
   },
   "inScheme": [

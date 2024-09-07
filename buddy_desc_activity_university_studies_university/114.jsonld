@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/114",
   "type": "Concept",
   "prefLabel": {
-    "en": "Gottfried Wilhelm Leibniz University Hannover",
+    "en": "University of Hannover",
     "de": "Gottfried Wilhelm Leibniz Universität Hannover"
   },
   "altLabel": {
     "en": [
-      "UNI Hannover"
+      "Hannover U"
     ],
     "de": [
-      "UNI Hannover"
+      "Hannover U"
     ]
   },
   "inScheme": [

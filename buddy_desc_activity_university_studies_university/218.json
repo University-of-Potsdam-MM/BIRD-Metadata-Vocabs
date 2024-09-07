@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/218",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Passau",
+    "en": "University of Passau",
     "de": "Universität Passau"
   },
   "altLabel": {
     "en": [
-      "UNI Passau"
+      "Passau U"
     ],
     "de": [
-      "UNI Passau"
+      "Passau U"
     ]
   },
   "inScheme": [

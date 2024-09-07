@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/150",
   "type": "Concept",
   "prefLabel": {
-    "en": "Rheinische Hochschule Köln",
+    "en": "Cologne University of Applied Sciences",
     "de": "Rheinische Hochschule Köln"
   },
   "altLabel": {
     "en": [
-      "RH Köln"
+      "Köln RheinH"
     ],
     "de": [
-      "RH Köln"
+      "Köln RheinH"
     ]
   },
   "inScheme": [

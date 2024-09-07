@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/45",
   "type": "Concept",
   "prefLabel": {
-    "en": "Brandenburg University of Technology Cottbus-Senftenberg",
+    "en": "Brandenburgische Technische Universität Cottbus-Senftenberg",
     "de": "Brandenburgische Technische Universität Cottbus-Senftenberg"
   },
   "altLabel": {
     "en": [
-      "BTU Cottbus-Senftenberg"
+      "Cottbus-Senftenberg TU"
     ],
     "de": [
-      "BTU Cottbus-Senftenberg"
+      "Cottbus-Senftenberg TU"
     ]
   },
   "inScheme": [

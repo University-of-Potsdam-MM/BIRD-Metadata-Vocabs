@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/164",
   "type": "Concept",
   "prefLabel": {
-    "en": "Academy of Fine Arts Leipzig",
+    "en": "College of Graphic and Book Arts, Leipzig",
     "de": "Hochschule für Grafik und Buchkunst Leipzig"
   },
   "altLabel": {
     "en": [
-      "HGB Leipzig"
+      "Leipzig HfGuB"
     ],
     "de": [
-      "HGB Leipzig"
+      "Leipzig HfGuB"
     ]
   },
   "inScheme": [

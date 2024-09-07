@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/54",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Applied Sciences Dresden",
-    "de": "Hochschule für Technik und Wirtschaft Dresden"
+    "en": "Hochschule für Technik und Wirtschaft – University of Applied Sciences",
+    "de": "Hochschule für Technik und Wirtschaft Dresden - University of Applied Sciences"
   },
   "altLabel": {
     "en": [
-      "HTW Dresden"
+      "Dresden HTW"
     ],
     "de": [
-      "HTW Dresden"
+      "Dresden HTW"
     ]
   },
   "inScheme": [

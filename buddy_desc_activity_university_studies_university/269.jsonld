@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/269",
   "type": "Concept",
   "prefLabel": {
-    "en": "Westküste University of Applied Sciences",
-    "de": "Fachhochschule Westküste, Wirtschaft und Technik"
+    "en": "Westcoast University of Applied Sciences",
+    "de": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik"
   },
   "altLabel": {
     "en": [
-      "FH Westküste"
+      "Westküste FH"
     ],
     "de": [
-      "FH Westküste"
+      "Westküste FH"
     ]
   },
   "inScheme": [

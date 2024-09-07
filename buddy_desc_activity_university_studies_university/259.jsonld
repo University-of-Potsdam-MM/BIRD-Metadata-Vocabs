@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/259",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Ulm",
+    "en": "University of Ulm",
     "de": "Universität Ulm"
   },
   "altLabel": {
     "en": [
-      "UNI Ulm"
+      "Ulm U"
     ],
     "de": [
-      "UNI Ulm"
+      "Ulm U"
     ]
   },
   "inScheme": [

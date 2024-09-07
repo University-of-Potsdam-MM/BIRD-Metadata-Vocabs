@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/234",
   "type": "Concept",
   "prefLabel": {
-    "en": "Rostock University of Music and Drama",
+    "en": "College of Music and Dramatic Art, Rostock",
     "de": "Hochschule für Musik und Theater Rostock"
   },
   "altLabel": {
     "en": [
-      "HMT Rostock"
+      "Rostock HMT"
     ],
     "de": [
-      "HMT Rostock"
+      "Rostock HMT"
     ]
   },
   "inScheme": [

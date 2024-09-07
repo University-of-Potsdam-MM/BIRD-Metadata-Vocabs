@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/39",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of the Arts Bremen",
+    "en": "College of Arts, Bremen",
     "de": "Hochschule für Künste Bremen"
   },
   "altLabel": {
     "en": [
-      "HFK Bremen"
+      "Bremen HfK"
     ],
     "de": [
-      "HfK Bremen"
+      "Bremen HfK"
     ]
   },
   "inScheme": [

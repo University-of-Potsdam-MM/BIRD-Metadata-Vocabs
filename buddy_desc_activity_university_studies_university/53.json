@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/53",
   "type": "Concept",
   "prefLabel": {
-    "en": "Dresden University of Technology",
+    "en": "Technische Universität Dresden",
     "de": "Technische Universität Dresden"
   },
   "altLabel": {
     "en": [
-      "TU Dresden"
+      "Dresden TU"
     ],
     "de": [
-      "TU Dresden"
+      "Dresden TU"
     ]
   },
   "inScheme": [

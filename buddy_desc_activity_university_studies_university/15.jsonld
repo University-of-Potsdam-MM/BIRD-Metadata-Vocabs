@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/15",
   "type": "Concept",
   "prefLabel": {
-    "en": "Berlin University for technology",
+    "en": "Berlin University of Applied Sciences",
     "de": "Berliner Hochschule für Technik"
   },
   "altLabel": {
     "en": [
-      "BHT Berlin"
+      "Berlin BHT"
     ],
     "de": [
-      "BHT Berlin"
+      "Berlin BHT"
     ]
   },
   "inScheme": [

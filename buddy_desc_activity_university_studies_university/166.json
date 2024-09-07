@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/166",
   "type": "Concept",
   "prefLabel": {
-    "en": "Ludwigsburg University of Education",
+    "en": "University of Education, Ludwigsburg",
     "de": "Pädagogische Hochschule Ludwigsburg"
   },
   "altLabel": {
     "en": [
-      "PH Ludwigsburg"
+      "Ludwigsburg PH"
     ],
     "de": [
-      "PH Ludwigsburg"
+      "Ludwigsburg PH"
     ]
   },
   "inScheme": [

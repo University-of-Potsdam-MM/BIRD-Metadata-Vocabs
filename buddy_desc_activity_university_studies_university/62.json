@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/62",
   "type": "Concept",
   "prefLabel": {
-    "en": "Robert-Schumann-University Düsseldorf",
+    "en": "Robert Schumann University in Düsseldorf",
     "de": "Robert-Schumann-Hochschule Düsseldorf"
   },
   "altLabel": {
     "en": [
-      "RSH Düsseldorf"
+      "Düsseldorf HfM"
     ],
     "de": [
-      "RSH Düsseldorf"
+      "Düsseldorf HfM"
     ]
   },
   "inScheme": [

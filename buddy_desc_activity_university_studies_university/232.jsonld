@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/232",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technical University of Applied Sciences Rosenheim",
+    "en": "University of Applied Sciences Rosenheim",
     "de": "Technische Hochschule Rosenheim"
   },
   "altLabel": {
     "en": [
-      "TH Rosenheim"
+      "Rosenheim TH"
     ],
     "de": [
-      "TH Rosenheim"
+      "Rosenheim TH"
     ]
   },
   "inScheme": [

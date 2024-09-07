@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/283",
   "type": "Concept",
   "prefLabel": {
-    "en": "Zwickau University of Applied Sciences",
+    "en": "West Saxon University of Applied Sciences of Zwickau",
     "de": "Westsächsische Hochschule Zwickau"
   },
   "altLabel": {
     "en": [
-      "FH Zwickau"
+      "Zwickau H"
     ],
     "de": [
-      "FH Zwickau"
+      "Zwickau H"
     ]
   },
   "inScheme": [

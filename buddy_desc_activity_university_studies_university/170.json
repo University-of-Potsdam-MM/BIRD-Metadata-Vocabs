@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/170",
   "type": "Concept",
   "prefLabel": {
-    "en": "Musikhochschule Lübeck",
+    "en": "University of Music Lübeck",
     "de": "Musikhochschule Lübeck"
   },
   "altLabel": {
     "en": [
-      "MH Lübeck"
+      "Lübeck HfM"
     ],
     "de": [
-      "MH Lübeck"
+      "Lübeck HfM"
     ]
   },
   "inScheme": [

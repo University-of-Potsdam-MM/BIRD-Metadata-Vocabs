@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/16",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Applied Sciences Berlin",
+    "en": "Berlin School of Applied Sciences (HTW)",
     "de": "Hochschule für Technik und Wirtschaft Berlin"
   },
   "altLabel": {
     "en": [
-      "HTW Berlin"
+      "Berlin HTW"
     ],
     "de": [
-      "HTW Berlin"
+      "Berlin HTW"
     ]
   },
   "inScheme": [

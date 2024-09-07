@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/24",
   "type": "Concept",
   "prefLabel": {
-    "en": "Catholic University of Applied Sciences Berlin",
-    "de": "Katholische Hochschule für Sozialwesen Berlin"
+    "en": "Catholic University of Applied Social Sciences Berlin (KHSB) - state-accredited university of applied sciences for social services",
+    "de": "Katholische Hochschule für Sozialwesen Berlin (KHSB) - Staatlich anerkannte Fachhochschule für Sozialwesen"
   },
   "altLabel": {
     "en": [
-      "KHS Berlin"
+      "Berlin KHS"
     ],
     "de": [
-      "KHS Berlin"
+      "Berlin KHS"
     ]
   },
   "inScheme": [

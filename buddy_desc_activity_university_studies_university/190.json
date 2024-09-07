@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/190",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule für Fernsehen und Film München",
+    "en": "University of Television and Film Munich",
     "de": "Hochschule für Fernsehen und Film München"
   },
   "altLabel": {
     "en": [
-      "HFF München"
+      "München HFF"
     ],
     "de": [
-      "HFF München"
+      "München HFF"
     ]
   },
   "inScheme": [

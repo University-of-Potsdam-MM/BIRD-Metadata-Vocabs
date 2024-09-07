@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/71",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Duisburg-Essen",
+    "en": "University of Duisburg-Essen",
     "de": "Universität Duisburg-Essen"
   },
   "altLabel": {
     "en": [
-      "UNI Duisburg-Essen"
+      "Duisburg-Essen U"
     ],
     "de": [
-      "UNI Duisburg-Essen"
+      "Duisburg-Essen U"
     ]
   },
   "inScheme": [

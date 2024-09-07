@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/141",
   "type": "Concept",
   "prefLabel": {
-    "en": "Karlsruhe University of Music",
+    "en": "College of Music, Karlsruhe",
     "de": "Hochschule für Musik Karlsruhe"
   },
   "altLabel": {
     "en": [
-      "HfM Karlsruhe"
+      "Karlsruhe HfM"
     ],
     "de": [
-      "HfM Karlsruhe"
+      "Karlsruhe HfM"
     ]
   },
   "inScheme": [

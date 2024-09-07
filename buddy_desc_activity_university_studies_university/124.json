@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/124",
   "type": "Concept",
   "prefLabel": {
-    "en": "University for Church Music of the Protestant Church in Baden",
+    "en": "University of Church Music of the Protestant Regional Church in Baden",
     "de": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Baden"
   },
   "altLabel": {
     "en": [
-      "HfK Heidelberg"
+      "Heidelberg HfKiM"
     ],
     "de": [
-      "HfK Heidelberg"
+      "Heidelberg HfKiM"
     ]
   },
   "inScheme": [

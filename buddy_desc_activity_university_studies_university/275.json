@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/275",
   "type": "Concept",
   "prefLabel": {
-    "en": "Universität Witten/Herdecke",
+    "en": "Private University Witten/Herdecke gGmbH",
     "de": "Universität Witten/Herdecke"
   },
   "altLabel": {
     "en": [
-      "UNI Witten/ Herdecke"
+      "Witten/Herdecke U"
     ],
     "de": [
-      "UNI Witten/ Herdecke"
+      "Witten/Herdecke U"
     ]
   },
   "inScheme": [

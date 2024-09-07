@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/257",
   "type": "Concept",
   "prefLabel": {
-    "en": "Trossingen University of Music",
+    "en": "College of Music, Trossingen",
     "de": "Staatliche Hochschule für Musik Trossingen"
   },
   "altLabel": {
     "en": [
-      "HM Trossingen"
+      "Trossingen HfM"
     ],
     "de": [
-      "HM Trossingen"
+      "Trossingen HfM"
     ]
   },
   "inScheme": [

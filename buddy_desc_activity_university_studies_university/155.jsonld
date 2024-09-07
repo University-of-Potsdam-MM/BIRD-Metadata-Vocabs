@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/155",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Konstanz University of Applied Sciences",
+    "en": "HTWG Konstanz University of Applied Sciences",
     "de": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung"
   },
   "altLabel": {
     "en": [
-      "HTWG Konstanz"
+      "Konstanz H"
     ],
     "de": [
-      "HTWG Konstanz"
+      "Konstanz H"
     ]
   },
   "inScheme": [

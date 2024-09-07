@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/125",
   "type": "Concept",
   "prefLabel": {
-    "en": "Heilbronn University of Applied Sciences, Technology, economics, computer science",
+    "en": "Heilbronn University",
     "de": "Hochschule Heilbronn, Technik, Wirtschaft, Informatik"
   },
   "altLabel": {
     "en": [
-      "HS Heilbronn"
+      "Heilbronn H"
     ],
     "de": [
-      "HS Heilbronn"
+      "Heilbronn H"
     ]
   },
   "inScheme": [

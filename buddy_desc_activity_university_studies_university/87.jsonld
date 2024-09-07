@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/87",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Education Freiburg",
+    "en": "Universities of Education, Freiburg",
     "de": "Pädagogische Hochschule Freiburg"
   },
   "altLabel": {
     "en": [
-      "PH Freiburg"
+      "Freiburg PH"
     ],
     "de": [
-      "PH Freiburg"
+      "Freiburg PH"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/148",
   "type": "Concept",
   "prefLabel": {
-    "en": "German Sport Univeristy Cologne",
+    "en": "Sports University of Cologne",
     "de": "Deutsche Sporthochschule Köln"
   },
   "altLabel": {
     "en": [
-      "DSHS Köln"
+      "Köln DSHS"
     ],
     "de": [
-      "DSHS Köln"
+      "Köln DSHS"
     ]
   },
   "inScheme": [

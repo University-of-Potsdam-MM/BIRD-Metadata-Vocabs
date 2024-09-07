@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/88",
   "type": "Concept",
   "prefLabel": {
-    "en": "Catholic University of Applied Sciences",
-    "de": "Katholische Hochschule Freiburg, staatlich anerkannte Hochschule"
+    "en": "Catholic University of Applied Sciences Freiburg, state-recognised university",
+    "de": "Katholische Hochschule Freiburg, staatlich anerkannte Hochschule - Catholic University of Applied Sciences"
   },
   "altLabel": {
     "en": [
-      "KH Freiburg"
+      "Freiburg KathHS"
     ],
     "de": [
-      "KH Freiburg"
+      "Freiburg KathHS"
     ]
   },
   "inScheme": [

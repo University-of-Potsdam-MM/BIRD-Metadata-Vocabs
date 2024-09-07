@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/151",
   "type": "Concept",
   "prefLabel": {
-    "en": "Catholic University of Applied Sciences",
-    "de": "Katholische Hochschule Nordrhein-Westfalen"
+    "en": "Catholic University of Applied Sciences North-Rhine Westphalia",
+    "de": "Katholische Hochschule Nordrhein-Westfalen - Catholic University of Applied Sciences"
   },
   "altLabel": {
     "en": [
-      "Katho Nordrhein-Westfalen"
+      "Nordrhein-Westfalen KathH"
     ],
     "de": [
-      "Katho Nordrhein-Westfalen"
+      "Nordrhein-Westfalen KathH"
     ]
   },
   "inScheme": [

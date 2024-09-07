@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/268",
   "type": "Concept",
   "prefLabel": {
-    "en": "Weingarten University of Education",
+    "en": "University of Education, Weingarten",
     "de": "Pädagogische Hochschule Weingarten"
   },
   "altLabel": {
     "en": [
-      "PH Weingarten"
+      "Weingarten PH"
     ],
     "de": [
-      "PH Weingarten"
+      "Weingarten PH"
     ]
   },
   "inScheme": [

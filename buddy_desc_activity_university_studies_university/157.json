@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/157",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Applied Sciences Landshut",
+    "en": "Landshut - University of Applied Sciences",
     "de": "Hochschule Landshut - Hochschule für angewandte Wissenschaften"
   },
   "altLabel": {
     "en": [
-      "HAW Landshut"
+      "Landshut H"
     ],
     "de": [
-      "HAW Landshut"
+      "Landshut H"
     ]
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/35",
   "type": "Concept",
   "prefLabel": {
-    "en": "Technical University Carolo-Wilhelmina of Braunschweig",
-    "de": "Technische Universität Carolo-Wilhelmina zu Braunschweig"
+    "en": "Technische Universität Braunschweig",
+    "de": "Technische Universität Braunschweig"
   },
   "altLabel": {
     "en": [
-      "TU Braunschweig"
+      "Braunschweig TU"
     ],
     "de": [
-      "TU Braunschweig"
+      "Braunschweig TU"
     ]
   },
   "inScheme": [

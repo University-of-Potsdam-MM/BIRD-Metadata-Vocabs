@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/60",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Applied Sciences Düsseldorf",
+    "en": "Hochschule Düsseldorf",
     "de": "Hochschule Düsseldorf"
   },
   "altLabel": {
     "en": [
-      "HS Düsseldorf"
+      "Düsseldorf H"
     ],
     "de": [
-      "HS Düsseldorf"
+      "Düsseldorf H"
     ]
   },
   "inScheme": [

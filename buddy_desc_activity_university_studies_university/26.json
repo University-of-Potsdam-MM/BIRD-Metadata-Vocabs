@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/26",
   "type": "Concept",
   "prefLabel": {
-    "en": "Biberach University of Applied Sciences",
-    "de": "Hochschule Biberach"
+    "en": "Biberach University of Applied Sciences – Architecture and Building and Construction, Business Administration and Biotechnology",
+    "de": "Hochschule Biberach - Architektur und Bauwesen, Betriebswirtschaft und Biotechnologie"
   },
   "altLabel": {
     "en": [
-      "HBC Biberach"
+      "Biberach H"
     ],
     "de": [
-      "HBC Biberach"
+      "Biberach H"
     ]
   },
   "inScheme": [

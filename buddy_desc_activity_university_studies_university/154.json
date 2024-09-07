@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/154",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Konstanz",
+    "en": "University of Konstanz",
     "de": "Universität Konstanz"
   },
   "altLabel": {
     "en": [
-      "UNI Konstanz"
+      "Konstanz U"
     ],
     "de": [
-      "UNI Konstanz"
+      "Konstanz U"
     ]
   },
   "inScheme": [

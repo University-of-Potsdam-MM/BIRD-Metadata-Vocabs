@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/36",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Braunschweig/Wolfenbüttel, Ostfalia University of Applied Sciences",
+    "en": "Ostfalia University of Applied Sciences (Braunschweig/Wolfenbüttel campuses)",
     "de": "Hochschule Braunschweig/Wolfenbüttel, Ostfalia Hochschule für angewandte Wissenschaften"
   },
   "altLabel": {
     "en": [
-      "H Ostfalia"
+      "Ostfalia H"
     ],
     "de": [
-      "H Ostfalia"
+      "Ostfalia H"
     ]
   },
   "inScheme": [

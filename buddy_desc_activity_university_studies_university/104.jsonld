@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/104",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Hamburg",
+    "en": "University of Hamburg",
     "de": "Universität Hamburg"
   },
   "altLabel": {
     "en": [
-      "UHH Hamburg"
+      "Hamburg U"
     ],
     "de": [
-      "UHH Hamburg"
+      "Hamburg U"
     ]
   },
   "inScheme": [

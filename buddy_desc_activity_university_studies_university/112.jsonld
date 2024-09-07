@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/112",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hanover Medical School",
-    "de": "Medizinische Hochschule Hannover"
+    "en": "Hannover Medical School",
+    "de": "Medizinische Hochschule Hannover (MHH)"
   },
   "altLabel": {
     "en": [
-      "MH Hannover"
+      "Hannover MedH"
     ],
     "de": [
-      "MH Hannover"
+      "Hannover MedH"
     ]
   },
   "inScheme": [

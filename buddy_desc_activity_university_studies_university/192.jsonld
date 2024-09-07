@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/192",
   "type": "Concept",
   "prefLabel": {
-    "en": "Münster University of Applied Sciences",
-    "de": "Fachhochschule Münster"
+    "en": "FH Münster University of Applied Sciences",
+    "de": "FH Münster University of Applied Sciences"
   },
   "altLabel": {
     "en": [
-      "FH Münster"
+      "Münster FH"
     ],
     "de": [
-      "FH Münster"
+      "Münster FH"
     ]
   },
   "inScheme": [

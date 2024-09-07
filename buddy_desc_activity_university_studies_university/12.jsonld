@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/12",
   "type": "Concept",
   "prefLabel": {
-    "en": "Humboldt-University of Berlin",
+    "en": "Humboldt University Berlin",
     "de": "Humboldt-Universität zu Berlin"
   },
   "altLabel": {
     "en": [
-      "HU Berlin"
+      "Berlin HU"
     ],
     "de": [
-      "HU Berlin"
+      "Berlin HU"
     ]
   },
   "inScheme": [

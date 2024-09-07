@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/139",
   "type": "Concept",
   "prefLabel": {
-    "en": "Staatliche Akademie der Bildenden Künste Karlsruhe",
+    "en": "Art Academy of Karlsruhe",
     "de": "Staatliche Akademie der Bildenden Künste Karlsruhe"
   },
   "altLabel": {
     "en": [
-      "AkdBK Karlsruhe"
+      "Karlsruhe AkdBK"
     ],
     "de": [
-      "AkdBK Karlsruhe"
+      "Karlsruhe AkdBK"
     ]
   },
   "inScheme": [

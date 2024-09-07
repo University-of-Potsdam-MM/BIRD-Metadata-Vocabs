@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/142",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Kassel",
+    "en": "University of Kassel",
     "de": "Universität Kassel"
   },
   "altLabel": {
     "en": [
-      "UNI Kassel"
+      "Kassel U"
     ],
     "de": [
-      "UNI Kassel"
+      "Kassel U"
     ]
   },
   "inScheme": [

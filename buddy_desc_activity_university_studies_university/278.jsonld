@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/278",
   "type": "Concept",
   "prefLabel": {
-    "en": "University of Music Würzburg",
+    "en": "College of Music, Würzburg",
     "de": "Hochschule für Musik Würzburg"
   },
   "altLabel": {
     "en": [
-      "HfM Würzburg"
+      "Würzburg HfM"
     ],
     "de": [
-      "HfM Würzburg"
+      "Würzburg HfM"
     ]
   },
   "inScheme": [

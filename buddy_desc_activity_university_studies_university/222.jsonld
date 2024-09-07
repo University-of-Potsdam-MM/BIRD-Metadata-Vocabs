@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/222",
   "type": "Concept",
   "prefLabel": {
-    "en": "Potsdam University of Applied Sciences",
+    "en": "University of Applied Sciences Potsdam",
     "de": "Fachhochschule Potsdam"
   },
   "altLabel": {
     "en": [
-      "FH Potsdam"
+      "Potsdam FH"
     ],
     "de": [
-      "FH Potsdam"
+      "Potsdam FH"
     ]
   },
   "inScheme": [

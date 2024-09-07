@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/144",
   "type": "Concept",
   "prefLabel": {
-    "en": "Christian-Albrechts-University zu Kiel",
+    "en": "Kiel University",
     "de": "Christian-Albrechts-Universität zu Kiel"
   },
   "altLabel": {
     "en": [
-      "UNI Kiel"
+      "Kiel U"
     ],
     "de": [
-      "UNI Kiel"
+      "Kiel U"
     ]
   },
   "inScheme": [

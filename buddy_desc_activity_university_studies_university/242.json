@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/242",
   "type": "Concept",
   "prefLabel": {
-    "en": "Schmalkalden University of Applied sciences",
+    "en": "Hochschule Schmalkalden",
     "de": "Hochschule Schmalkalden"
   },
   "altLabel": {
     "en": [
-      "HS Schmalkalden"
+      "Schmalkalden H"
     ],
     "de": [
-      "HS Schmalkalden"
+      "Schmalkalden H"
     ]
   },
   "inScheme": [

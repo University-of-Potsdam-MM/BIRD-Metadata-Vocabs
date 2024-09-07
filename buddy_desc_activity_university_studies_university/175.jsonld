@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/175",
   "type": "Concept",
   "prefLabel": {
-    "en": "Katholische Hochschule Mainz Catholic University of Applied Sciences",
+    "en": "Catholic University of Applied Sciences Mainz",
     "de": "Katholische Hochschule Mainz Catholic University of Applied Sciences"
   },
   "altLabel": {
     "en": [
-      "KathH Mainz"
+      "Mainz KathH"
     ],
     "de": [
-      "KathH Mainz"
+      "Mainz KathH"
     ]
   },
   "inScheme": [

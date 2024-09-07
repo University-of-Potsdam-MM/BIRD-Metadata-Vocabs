@@ -2,15 +2,15 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_university/4",
   "type": "Concept",
   "prefLabel": {
-    "en": "Albstadt-Sigmaringen University of Applied Sciences",
+    "en": "Albstadt-Sigmaringen University - University of Engineering and Economics",
     "de": "Hochschule Albstadt-Sigmaringen"
   },
   "altLabel": {
     "en": [
-      "HS AlbSig"
+      "Albstadt-Sigmaringen H"
     ],
     "de": [
-      "HS AlbSig"
+      "Albstadt-Sigmaringen H"
     ]
   },
   "inScheme": [

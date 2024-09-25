@@ -2,23 +2,23 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/5",
   "type": "Concept",
   "prefLabel": {
-    "en": "University Anhalt - Anhalt University of Applied Sciences",
+    "en": "Anhalt University of Applied Sciences",
     "de": "Hochschule Anhalt - Anhalt University of Applied Sciences"
   },
   "altLabel": {
     "en": [
-      "HS Anhalt"
+      "Anhalt H"
     ],
     "de": [
-      "HS Anhalt"
+      "Anhalt H"
     ]
   },
   "inScheme": [
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],
@@ -31,8 +31,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],

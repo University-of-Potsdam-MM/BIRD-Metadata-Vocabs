@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/194",
   "type": "Concept",
   "prefLabel": {
-    "en": "Philosophisch-Theologische Hochschule Münster - Kirchlich und staatlich anerkannte Hochschule in Trägerschaft der PTH Philosophisch-Theologische Hochschule Münster gemeinnützige GmbH",
+    "en": "PTH Münster (Philosophical-theological University)- Church and state approved university operated by the PTH Philosophisch-Theologische Hochschule Münster gemeinnützige GmbH",
     "de": "Philosophisch-Theologische Hochschule Münster - Kirchlich und staatlich anerkannte Hochschule in Trägerschaft der PTH Philosophisch-Theologische Hochschule Münster gemeinnützige GmbH"
   },
   "altLabel": {
@@ -17,8 +17,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],
@@ -31,8 +31,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],

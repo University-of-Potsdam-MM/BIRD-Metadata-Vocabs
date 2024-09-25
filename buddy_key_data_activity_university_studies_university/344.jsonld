@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/344",
   "type": "Concept",
   "prefLabel": {
-    "en": "Europäische Fachhochschule Rhein/Erft, european university of applied sciences",
+    "en": "European University of Applied Sciences in Rhein/Erft",
     "de": "Europäische Fachhochschule Rhein/Erft, european university of applied sciences"
   },
   "altLabel": {
@@ -17,8 +17,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],
@@ -31,8 +31,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],

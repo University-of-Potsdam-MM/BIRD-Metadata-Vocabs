@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/229",
   "type": "Concept",
   "prefLabel": {
-    "en": "Evangelische Hochschule Ludwigsburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik - staatlich anerkannte Fachhochschule der Evangelischen Landeskirche Württemberg",
+    "en": "Protestant University of Applied Sciences Ludwigsburg, University for Social Work, Church Work and Religious Education - State Recognised University of Applied Sciences of the Protestant State Church of Württemberg",
     "de": "Evangelische Hochschule Ludwigsburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik - staatlich anerkannte Fachhochschule der Evangelischen Landeskirche Württemberg"
   },
   "altLabel": {
@@ -17,8 +17,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],
@@ -31,8 +31,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],

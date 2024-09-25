@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/366",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Macromedia - staatlich anerkannte Hochschule für angewandte Wissenschaften der Macromedia GmbH mit Sitz in Stuttgart",
+    "en": "Macromedia University - accredited University of Applied Sciences of Macromedia GmbH based in Stuttgart",
     "de": "Hochschule Macromedia - staatlich anerkannte Hochschule für angewandte Wissenschaften der Macromedia GmbH mit Sitz in Stuttgart"
   },
   "altLabel": {
@@ -17,8 +17,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],
@@ -31,8 +31,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],

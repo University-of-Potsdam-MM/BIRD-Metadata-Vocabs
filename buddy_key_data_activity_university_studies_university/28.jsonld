@@ -2,23 +2,23 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/28",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hochschule Bielefeld - University of Applied Sciences and Arts",
-    "de": "Hochschule Bielefeld - Universität für angewandte Wissenschaften und Künste"
+    "en": "Bielefeld University of Applied Sciences and Arts (HSBI)",
+    "de": "Hochschule Bielefeld - University of Applied Sciences and Arts (HSBI)"
   },
   "altLabel": {
     "en": [
-      "HS Bielefeld"
+      "Bielefeld H"
     ],
     "de": [
-      "HS Bielefeld"
+      "Bielefeld H"
     ]
   },
   "inScheme": [
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],
@@ -31,8 +31,8 @@
     {
       "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_university_studies_university/",
       "title": {
-        "en": "Vocabulary of buddy_key_data_activity_university_studies_university",
-        "de": "Vokabular von buddy_key_data_activity_university_studies_university"
+        "en": "Vocabulary of buddy_desc_activity_university_studies_university",
+        "de": "Vokabular von buddy_desc_activity_university_studies_university"
       }
     }
   ],

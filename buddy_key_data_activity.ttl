@@ -48,7 +48,7 @@
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "karrierepause"@de, "career-break"@en ;
+    skos:prefLabel    "Karrierepause"@de, "career-break"@en ;
     skos:topConceptOf <> .
 
 <9>

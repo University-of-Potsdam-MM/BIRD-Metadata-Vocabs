@@ -19,12 +19,12 @@
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "freiwilliges-soziales-Jahr"@de, "voluntary-social-year"@en ;
+    skos:prefLabel    "Freiwilliges-soziales-Jahr"@de, "voluntary-social-year"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "freiwilliges-ökologisches-jahr"@de, "voluntary-ecological-year"@en ;
+    skos:prefLabel    "Freiwilliges-ökologisches-Jahr"@de, "voluntary-ecological-year"@en ;
     skos:topConceptOf <> .
 
 <4>
@@ -34,17 +34,17 @@
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "internationaler-jugend-freiwilligendienst"@de, "international-youth-voluntary-service"@en ;
+    skos:prefLabel    "Internationaler-Jugend-Freiwilligendienst"@de, "international-youth-voluntary-service"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "entwicklungspolitischer-freiwilligendienst-weltwärts"@de, "developmental-volunteer-service-weltwärts"@en ;
+    skos:prefLabel    "Entwicklungspolitischer-Freiwilligendienst-weltwärts"@de, "developmental-volunteer-service-weltwärts"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "freiwillige dienste für alle generationen"@de, "voluntary-services-for-all-generations"@en ;
+    skos:prefLabel    "Freiwillige Dienste für alle Generationen"@de, "voluntary-services-for-all-generations"@en ;
     skos:topConceptOf <> .
 
 <8>

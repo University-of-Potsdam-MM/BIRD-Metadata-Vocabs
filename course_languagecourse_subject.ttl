@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "allgemeinsprachlich"@de, "common language"@en ;
+    skos:prefLabel    "Allgemeinsprachlich"@de, "common language"@en ;
     skos:topConceptOf <> .
 
 <2>
@@ -29,5 +29,5 @@
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "spezielle sprachliche Fertigkeiten"@de, "specific language skills"@en ;
+    skos:prefLabel    "Spezielle sprachliche Fertigkeiten"@de, "specific language skills"@en ;
     skos:topConceptOf <> .

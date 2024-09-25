@@ -13,10 +13,10 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "kostenlos"@de, "Free of charge"@en ;
+    skos:prefLabel    "Kostenlos"@de, "Free of charge"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "kostenpflichtig"@de, "Fee required"@en ;
+    skos:prefLabel    "Kostenpflichtig"@de, "Fee required"@en ;
     skos:topConceptOf <> .

@@ -13,7 +13,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "tutoring"@de, "tutoring"@en ;
+    skos:prefLabel    "Nachhilfe"@de, "tutoring"@en ;
     skos:topConceptOf <> .
 
 <2>
@@ -33,7 +33,7 @@
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "feedback"@de, "feedback"@en ;
+    skos:prefLabel    "Feedback"@de, "feedback"@en ;
     skos:topConceptOf <> .
 
 <6>
@@ -73,5 +73,5 @@
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel    "organisatorische-unterstützung-in-studien"@de, "organizational-support-in-studies"@en ;
+    skos:prefLabel    "Organisatorische-unterstützung-in-studien"@de, "organizational-support-in-studies"@en ;
     skos:topConceptOf <> .

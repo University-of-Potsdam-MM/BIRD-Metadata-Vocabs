@@ -23,5 +23,5 @@
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "kein Leistungsnachweis"@de, "No certificate"@en ;
+    skos:prefLabel    "Kein Leistungsnachweis"@de, "No certificate"@en ;
     skos:topConceptOf <> .

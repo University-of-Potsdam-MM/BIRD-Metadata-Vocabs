@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "divers"@de, "diverse"@en ;
+    skos:prefLabel    "Divers"@de, "diverse"@en ;
     skos:topConceptOf <> .
 
 <2>

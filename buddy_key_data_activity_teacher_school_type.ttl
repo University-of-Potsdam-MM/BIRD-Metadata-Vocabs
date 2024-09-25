@@ -64,25 +64,25 @@
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel "berufsschule"@de, "vocational School"@en ;
+    skos:prefLabel "Berufsschule"@de, "vocational School"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel "fachoberschule"@de, "technical college"@en ;
+    skos:prefLabel "Fachoberschule"@de, "technical college"@en ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel "berufliches-gymnasium"@de, "vocational grammar school"@en ;
+    skos:prefLabel "Berufliches-Gymnasium"@de, "vocational grammar school"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel "privat-und-ersatzschule"@de, "private-and-substituteschool"@en ;
+    skos:prefLabel "Privat-und-Ersatzschule"@de, "private-and-substituteschool"@en ;
     skos:topConceptOf <> .
 
 <15>
     a                 skos:Concept ;
-    skos:prefLabel "abendgymnasium"@de, "evening grammar school"@en ;
+    skos:prefLabel "Abendgymnasium"@de, "evening grammar school"@en ;
     skos:topConceptOf <> .

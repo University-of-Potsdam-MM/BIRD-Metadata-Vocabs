@@ -14,80 +14,80 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "baden-wuerttemberg"@de, "baden-wuerttemberg"@en ;
+    skos:prefLabel    "Baden-wuerttemberg"@de, "Baden-wuerttemberg"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel "bayern"@de, "bavaria"@en ;
+    skos:prefLabel "Bayern"@de, "Bavaria"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "berlin"@de, "berlin"@en ;
+    skos:prefLabel    "Berlin"@de, "Berlin"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "brandenburg"@de, "brandenburg"@en ;
+    skos:prefLabel    "Brandenburg"@de, "Brandenburg"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "bremen"@de, "bremen"@en ;
+    skos:prefLabel    "Bremen"@de, "Bremen"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "hamburg"@de, "hamburg"@en ;
+    skos:prefLabel    "Hamburg"@de, "Hamburg"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel "hessen"@de, "hesse"@en ;
+    skos:prefLabel "Hessen"@de, "Hesse"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel "mecklenburg-vorpommern"@de, "mecklenburg-Western Pomerania"@en ;
+    skos:prefLabel "Mecklenburg-Vorpommern"@de, "Mecklenburg-Western Pomerania"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel "niedersachsen"@de, "Lower Saxony"@en ;
+    skos:prefLabel "Niedersachsen"@de, "Lower Saxony"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel "nordrhein-westfalen"@de, "north rhine-Westphalia"@en ;
+    skos:prefLabel "Nordrhein-westfalen"@de, "North Rhine-Westphalia"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel "rheinland-pfalz"@de, "rhineland-Palatinate"@en ;
+    skos:prefLabel "Rheinland-pfalz"@de, "Rhineland-Palatinate"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel    "saarland"@de, "saarland"@en ;
+    skos:prefLabel    "Saarland"@de, "Saarland"@en ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel "sachsen"@de, "saxony"@en ;
+    skos:prefLabel "Sachsen"@de, "Saxony"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel "sachsen-anhalt"@de, "saxony-anhalt"@en ;
+    skos:prefLabel "Sachsen-anhalt"@de, "Saxony-anhalt"@en ;
     skos:topConceptOf <> .
 
 <15>
     a                 skos:Concept ;
-    skos:prefLabel    "schleswig-holstein"@de, "schleswig-holstein"@en ;
+    skos:prefLabel    "Schleswig-holstein"@de, "Schleswig-holstein"@en ;
     skos:topConceptOf <> .
 
 <16>
     a                 skos:Concept ;
-    skos:prefLabel "thueringen"@de, "thuringia"@en ;
+    skos:prefLabel "Thueringen"@de, "Thuringia"@en ;
     skos:topConceptOf <> .

@@ -74,7 +74,7 @@
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel "Berufliches-gymnasium"@de, "vocational grammar school"@en ;
+    skos:prefLabel "Berufliches-Gymnasium"@de, "vocational grammar school"@en ;
     skos:topConceptOf <> .
 
 <14>

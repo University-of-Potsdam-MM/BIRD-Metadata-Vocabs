@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "keine Voraussetzung"@de, "no requirement"@en ;
+    skos:prefLabel    "Keine Voraussetzung"@de, "no requirement"@en ;
     skos:topConceptOf <> .
 
 <2>

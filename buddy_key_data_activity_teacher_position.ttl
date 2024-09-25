@@ -19,7 +19,7 @@
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel "stellvertretende Schulleitung"@de, "deputy-school-leadership"@en ;
+    skos:prefLabel "Stellvertretende Schulleitung"@de, "deputy-school-leadership"@en ;
     skos:topConceptOf <> .
 
 <3>

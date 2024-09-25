@@ -80,7 +80,7 @@
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel "technisches Arbeiten"@de, "technology-works"@en ;
+    skos:prefLabel "Technisches Arbeiten"@de, "technology-works"@en ;
     skos:topConceptOf <> .
 
 <15>
@@ -115,7 +115,7 @@
 
 <21>
     a                 skos:Concept ;
-    skos:prefLabel "darstellende Künste"@de, "performing-arts"@en ;
+    skos:prefLabel "Darstellende Künste"@de, "performing-arts"@en ;
     skos:topConceptOf <> .
 
 <22>

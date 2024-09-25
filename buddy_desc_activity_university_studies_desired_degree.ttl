@@ -14,17 +14,17 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "bachelor"@de, "bachelor"@en ;
+    skos:prefLabel    "Bachelor"@de, "bachelor"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "master"@de, "master"@en ;
+    skos:prefLabel    "Master"@de, "master"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "magister-discontinued"@de, "magister-discontinued"@en ;
+    skos:prefLabel    "Magister-auslaufend"@de, "magister-discontinued"@en ;
     skos:topConceptOf <> .
 
 <4>

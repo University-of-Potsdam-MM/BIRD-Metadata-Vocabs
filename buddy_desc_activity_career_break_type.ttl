@@ -44,7 +44,7 @@
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "job-sharing"@de, "job-sharing"@en ;
+    skos:prefLabel    "Arbeitsplatzteilung"@de, "job-sharing"@en ;
     skos:topConceptOf <> .
 
 <8>
@@ -55,5 +55,5 @@
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "religioese-Gründe"@de, "religious-reasons"@en ;
+    skos:prefLabel    "Religioese-Gründe"@de, "religious-reasons"@en ;
     skos:topConceptOf <> .

@@ -34,7 +34,7 @@
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "IT-Comuter"@de, "it-computer"@en ;
+    skos:prefLabel    "IT-Computer"@de, "it-computer"@en ;
     skos:topConceptOf <> .
 
 <6>

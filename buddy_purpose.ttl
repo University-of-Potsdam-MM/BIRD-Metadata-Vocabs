@@ -73,5 +73,5 @@
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel    "Organisatorische-unterstützung-in-studien"@de, "organizational-support-in-studies"@en ;
+    skos:prefLabel    "Organisatorische-Unterstützung-in-Studien"@de, "organizational-support-in-studies"@en ;
     skos:topConceptOf <> .

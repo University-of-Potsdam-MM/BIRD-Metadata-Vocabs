@@ -33,7 +33,7 @@
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Schul Lehrkraft"@de, "school-teacher"@en ;
+    skos:prefLabel    "Lehrkraft"@de, "school-teacher"@en ;
     skos:topConceptOf <> .
 
 <6>

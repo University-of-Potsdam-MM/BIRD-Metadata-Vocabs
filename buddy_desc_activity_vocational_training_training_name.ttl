@@ -42,1766 +42,1766 @@
 <2>
     a                 skos:Concept ;
     skos:prefLabel    "Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik/Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik"@de,
-                      "Plant mechanic for sanitary, heating and air-conditioning technology"@en ;
+                      "plant mechanic for sanitary, heating and air-conditioning technology"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Anlagenmechaniker/Anlagenmechanikerin"@de, "Plant mechanic"@en ;
+    skos:prefLabel    "Anlagenmechaniker/Anlagenmechanikerin"@de, "plant mechanic"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Asphaltbauer/Asphaltbauerin"@de, "Skilled Asphalt Worker"@en ;
+    skos:prefLabel    "Asphaltbauer/Asphaltbauerin"@de, "skilled asphalt worker"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
     skos:prefLabel    "Aufbereitungsmechaniker/Aufbereitungsmechanikerin"@de,
-                      "Processing Technician"@en ;
+                      "processing technician"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Augenoptiker/Augenoptikerin"@de, "Ophthalmic optician"@en ;
+    skos:prefLabel    "Augenoptiker/Augenoptikerin"@de, "ophthalmic optician"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Ausbaufacharbeiter/Ausbaufacharbeiterin"@de, "Skilled Interior Construction Worker"@en ;
+    skos:prefLabel    "Ausbaufacharbeiter/Ausbaufacharbeiterin"@de, "skilled interior construction worker"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "Automatenfachmann/Automatenfachfrau"@de, "Vending Machine Expert"@en ;
+    skos:prefLabel    "Automatenfachmann/Automatenfachfrau"@de, "vending machine expert"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "Automobilkaufmann/Automobilkauffrau"@de, "Automotive Management Assistant"@en ;
+    skos:prefLabel    "Automobilkaufmann/Automobilkauffrau"@de, "automotive management assistant"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel    "Bäcker/Bäckerin"@de, "Baker"@en ;
+    skos:prefLabel    "Bäcker/Bäckerin"@de, "baker"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel    "Bankkaufmann/Bankkauffrau"@de, "Banking Professional"@en ;
+    skos:prefLabel    "Bankkaufmann/Bankkauffrau"@de, "banking professional"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel    "Baugeräteführer/Baugeräteführerin"@de, "Construction Equipment Operator"@en ;
+    skos:prefLabel    "Baugeräteführer/Baugeräteführerin"@de, "construction equipment operator"@en ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel    "Baustoffprüfer/Baustoffprüferin"@de, "Building Materials Tester"@en ;
+    skos:prefLabel    "Baustoffprüfer/Baustoffprüferin"@de, "building materials tester"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel    "Bauwerksabdichter/Bauwerksabdichterin"@de, "Waterproofer"@en ;
+    skos:prefLabel    "Bauwerksabdichter/Bauwerksabdichterin"@de, "waterproofer"@en ;
     skos:topConceptOf <> .
 
 <15>
     a                 skos:Concept ;
     skos:prefLabel    "Bauwerksmechaniker für Abbruch und Betontrenntechnik/Bauwerksmechanikerin für Abbruch und Betontrenntechnik"@de,
-                      "Building Mechanic for Demolition and Concrete Cutting"@en ;
+                      "building mechanic for demolition and concrete cutting"@en ;
     skos:topConceptOf <> .
 
 <16>
     a                 skos:Concept ;
-    skos:prefLabel    "Bauzeichner/Bauzeichnerin"@de, "Draftsman"@en ;
+    skos:prefLabel    "Bauzeichner/Bauzeichnerin"@de, "draftsman"@en ;
     skos:topConceptOf <> .
 
 <17>
     a                 skos:Concept ;
     skos:prefLabel    "Behälter- und Apparatebauer/Behälter- und Apparatebauerin"@de,
-                      "Tank and apparatus builder"@en ;
+                      "tank and apparatus builder"@en ;
     skos:topConceptOf <> .
 
 <18>
     a                 skos:Concept ;
     skos:prefLabel    "Berg- und Maschinenmann/Berg- und Maschinenfrau"@de,
-                      "Miner and Mining Machine Operator"@en ;
+                      "miner and mining machine operator"@en ;
     skos:topConceptOf <> .
 
 <19>
     a                 skos:Concept ;
-    skos:prefLabel    "Bergbautechnologe/Bergbautechnologin"@de, "Mining Technician"@en ;
+    skos:prefLabel    "Bergbautechnologe/Bergbautechnologin"@de, "mining technician"@en ;
     skos:topConceptOf <> .
 
 <20>
     a                 skos:Concept ;
-    skos:prefLabel    "Berufskraftfahrer/Berufskraftfahrerin"@de, "Driver/Driver Focus: Road Haulage/Driver Focus: Passenger Transportation"@en ;
+    skos:prefLabel    "Berufskraftfahrer/Berufskraftfahrerin"@de, "driver focus: road haulage/driver focus: passenger transportation"@en ;
     skos:topConceptOf <> .
 
 <21>
     a                 skos:Concept ;
-    skos:prefLabel    "Bestattungsfachkraft"@de, "Undertaker"@en ;
+    skos:prefLabel    "Bestattungsfachkraft"@de, "undertaker"@en ;
     skos:topConceptOf <> .
 
 <22>
     a                 skos:Concept ;
     skos:prefLabel    "Beton- und Stahlbetonbauer/Beton- und Stahlbetonbauerin"@de,
-                      "Concretor"@en ;
+                      "concretor"@en ;
     skos:topConceptOf <> .
 
 <23>
     a                 skos:Concept ;
     skos:prefLabel    "Betonfertigteilbauer/Betonfertigteilbauerin"@de,
-                      "Precast Concrete Parts Worker"@en ;
+                      "precast concrete parts worker"@en ;
     skos:topConceptOf <> .
 
 <24>
     a                 skos:Concept ;
-    skos:prefLabel    "Binnenschiffer/Binnenschifferin"@de, "Skipper - Inland Water Navigation"@en ;
+    skos:prefLabel    "Binnenschiffer/Binnenschifferin"@de, "skipper - inland water navigation"@en ;
     skos:topConceptOf <> .
 
 <25>
     a                 skos:Concept ;
     skos:prefLabel    "Binnenschifffahrtskapitän/Binnenschifffahrtskapitänin"@de,
-                      "Captain - Inland Water Navigation"@en ;
+                      "captain - inland water navigation"@en ;
     skos:topConceptOf <> .
 
 <26>
     a                 skos:Concept ;
-    skos:prefLabel    "Biologielaborant/Biologielaborantin"@de, "Biology Laboratory Technician"@en ;
+    skos:prefLabel    "Biologielaborant/Biologielaborantin"@de, "biology laboratory technician"@en ;
     skos:topConceptOf <> .
 
 <27>
     a                 skos:Concept ;
     skos:prefLabel    "Biologiemodellmacher/Biologiemodellmacherin"@de,
-                      "Biological Modeller"@en ;
+                      "biological modeller"@en ;
     skos:topConceptOf <> .
 
 <28>
     a                 skos:Concept ;
-    skos:prefLabel    "Bodenleger/Bodenlegerin"@de, "Floor Layer"@en ;
+    skos:prefLabel    "Bodenleger/Bodenlegerin"@de, "floor layer"@en ;
     skos:topConceptOf <> .
 
 <29>
     a                 skos:Concept ;
-    skos:prefLabel    "Bogenmacher/Bogenmacherin"@de, "Bow Builder"@en ;
+    skos:prefLabel    "Bogenmacher/Bogenmacherin"@de, "bow builder"@en ;
     skos:topConceptOf <> .
 
 <30>
     a                 skos:Concept ;
-    skos:prefLabel    "Bootsbauer/Bootsbauerin"@de, "Boat Builder"@en ;
+    skos:prefLabel    "Bootsbauer/Bootsbauerin"@de, "boat builder"@en ;
     skos:topConceptOf <> .
 
 <31>
     a                 skos:Concept ;
-    skos:prefLabel    "Böttcher/Böttcherin"@de, "Cooper"@en ;
+    skos:prefLabel    "Böttcher/Böttcherin"@de, "cooper"@en ;
     skos:topConceptOf <> .
 
 <32>
     a                 skos:Concept ;
-    skos:prefLabel    "Brauer und Mälzer/Brauerin und Mälzerin"@de, "Brewer and Maltster"@en ;
+    skos:prefLabel    "Brauer und Mälzer/Brauerin und Mälzerin"@de, "brewer and maltster"@en ;
     skos:topConceptOf <> .
 
 <33>
     a                 skos:Concept ;
-    skos:prefLabel    "Brenner/Brennerin"@de, "Burner/Distiller"@en ;
+    skos:prefLabel    "Brenner/Brennerin"@de, "burner/distiller"@en ;
     skos:topConceptOf <> .
 
 <34>
     a                 skos:Concept ;
-    skos:prefLabel    "Brunnenbauer/Brunnenbauerin"@de, "Well Sinker"@en ;
+    skos:prefLabel    "Brunnenbauer/Brunnenbauerin"@de, "well sinker"@en ;
     skos:topConceptOf <> .
 
 <35>
     a                 skos:Concept ;
-    skos:prefLabel    "Buchbinder/Buchbinderin"@de, "Bookbinder"@en ;
+    skos:prefLabel    "Buchbinder/Buchbinderin"@de, "bookbinder"@en ;
     skos:topConceptOf <> .
 
 <36>
     a                 skos:Concept ;
-    skos:prefLabel    "Buchhändler/Buchhändlerin"@de, "Bookseller"@en ;
+    skos:prefLabel    "Buchhändler/Buchhändlerin"@de, "bookseller"@en ;
     skos:topConceptOf <> .
 
 <37>
     a                 skos:Concept ;
-    skos:prefLabel    "Büchsenmacher/Büchsenmacherin"@de, "Gunsmith"@en ;
+    skos:prefLabel    "Büchsenmacher/Büchsenmacherin"@de, "gunsmith"@en ;
     skos:topConceptOf <> .
 
 <38>
     a                 skos:Concept ;
     skos:prefLabel    "Bühnenmaler und -plastiker/Bühnenmalerin und -plastikerin"@de,
-                      "Scene Painter and Scene Sculptor"@en ;
+                      "scene painter and scene sculptor"@en ;
     skos:topConceptOf <> .
 
 <39>
     a                 skos:Concept ;
     skos:prefLabel    "Bürsten- und Pinselmacher/Bürsten- und Pinselmacherin"@de,
-                      "Broom and Brush Maker"@en ;
+                      "broom and brush maker"@en ;
     skos:topConceptOf <> .
 
 <40>
     a                 skos:Concept ;
-    skos:prefLabel    "Chemielaborant/Chemielaborantin"@de, "Chemical Laboratory Technician"@en ;
+    skos:prefLabel    "Chemielaborant/Chemielaborantin"@de, "chemical laboratory technician"@en ;
     skos:topConceptOf <> .
 
 <41>
     a                 skos:Concept ;
     skos:prefLabel    "Chemielaborjungwerker/Chemielaborjungwerkerin"@de,
-                      "Chemical Laboratory Assistant"@en ;
+                      "chemical laboratory assistant"@en ;
     skos:topConceptOf <> .
 
 <42>
     a                 skos:Concept ;
-    skos:prefLabel    "Chemikant/Chemikantin"@de, "Chemical Production Technician"@en ;
+    skos:prefLabel    "Chemikant/Chemikantin"@de, "chemical production technician"@en ;
     skos:topConceptOf <> .
 
 <43>
     a                 skos:Concept ;
-    skos:prefLabel    "Chirurgiemechaniker/Chirurgiemechanikerin"@de, "Surgical mechanic"@en ;
+    skos:prefLabel    "Chirurgiemechaniker/Chirurgiemechanikerin"@de, "surgical mechanic"@en ;
     skos:topConceptOf <> .
 
 <44>
     a                 skos:Concept ;
-    skos:prefLabel    "Dachdecker/Dachdeckerin"@de, "Roofer"@en ;
+    skos:prefLabel    "Dachdecker/Dachdeckerin"@de, "roofer"@en ;
     skos:topConceptOf <> .
 
 <45>
     a                 skos:Concept ;
-    skos:prefLabel    "Destillateur/Destillateurin"@de, "Distiller"@en ;
+    skos:prefLabel    "Destillateur/Destillateurin"@de, "distiller"@en ;
     skos:topConceptOf <> .
 
 <46>
     a                 skos:Concept ;
     skos:prefLabel    "Drechsler (Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin)"@de,
-                      "Woodturner (ivory carver)"@en ;
+                      "woodturner (ivory carver)"@en ;
     skos:topConceptOf <> .
 
 <47>
     a                 skos:Concept ;
-    skos:prefLabel    "Drogist/Drogistin"@de, "Chemist"@en ;
+    skos:prefLabel    "Drogist/Drogistin"@de, "chemist"@en ;
     skos:topConceptOf <> .
 
 <48>
     a                 skos:Concept ;
-    skos:prefLabel    "Edelmetallprüfer/Edelmetallprüferin"@de, "Precious Metal Assayer"@en ;
+    skos:prefLabel    "Edelmetallprüfer/Edelmetallprüferin"@de, "precious metal assayer"@en ;
     skos:topConceptOf <> .
 
 <49>
     a                 skos:Concept ;
-    skos:prefLabel    "Edelsteinfasser/Edelsteinfasserin"@de, "Precious Stone Setter"@en ;
+    skos:prefLabel    "Edelsteinfasser/Edelsteinfasserin"@de, "precious stone setter"@en ;
     skos:topConceptOf <> .
 
 <50>
     a                 skos:Concept ;
-    skos:prefLabel    "Edelsteinschleifer/Edelsteinschleiferin"@de, "Precious Stone Cutter"@en ;
+    skos:prefLabel    "Edelsteinschleifer/Edelsteinschleiferin"@de, "precious stone cutter"@en ;
     skos:topConceptOf <> .
 
 <51>
     a                 skos:Concept ;
     skos:prefLabel    "Eisenbahner im Betriebsdienst Lokführer und Transport/Eisenbahnerin im Betriebsdienst Lokführerin und Transport"@de,
-                      "Railway Worker in Operational Service Subject Area: Engine Driver and Transportation"@en ;
+                      "railway worker in operational service subject area: engine driver and transportation"@en ;
     skos:topConceptOf <> .
 
 <52>
     a                 skos:Concept ;
     skos:prefLabel    "Eisenbahner in der Zugverkehrssteuerung/Eisenbahnerin in der Zugverkehrssteuerung"@de,
-                      "Railway Worker in Operational Service Subject Area: Track Duties"@en ;
+                      "railway worker in operational service subject area: track duties"@en ;
     skos:topConceptOf <> .
 
 <53>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroanlagenmonteur/Elektroanlagenmonteurin"@de,
-                      "Electrical Systems Fitter"@en ;
+                      "electrical systems fitter"@en ;
     skos:topConceptOf <> .
 
 <54>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroniker für Automatisierungstechnik/Elektronikerin für Automatisierungstechnik"@de,
-                      "Electronics Technician for Automation Technology"@en ;
+                      "electronics technician for automation technology"@en ;
     skos:topConceptOf <> .
 
 <55>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroniker für Betriebstechnik/Elektronikerin für Betriebstechnik"@de,
-                      "Industrial Electronics Technician"@en ;
+                      "industrial electronics technician"@en ;
     skos:topConceptOf <> .
 
 <56>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroniker für Gebäude- und Infrastruktursysteme/Elektronikerin für Gebäude- und Infrastruktursysteme"@de,
-                      "Electronics Technician for Building and Infrastruc. Systems"@en ;
+                      "electronics technician for building and infrastructure systems"@en ;
     skos:topConceptOf <> .
 
 <57>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroniker für Gebäudesystemintegration/Elektronikerin für Gebäudesystemintegration"@de,
-                      "Electronics Technician for Building systems integration"@en ;
+                      "electronics technician for building systems integration"@en ;
     skos:topConceptOf <> .
 
 <58>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroniker für Geräte und Systeme/Elektronikerin für Geräte und Systeme"@de,
-                      "Electronics Technician for Equipment and Systems"@en ;
+                      "electronics technician for equipment and systems"@en ;
     skos:topConceptOf <> .
 
 <59>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroniker für Informations- und Systemtechnik/Elektronikerin für Informations- und Systemtechnik"@de,
-                      "Electronics Technician for Equipment and Systems Field: Information and Communication Technology"@en ;
+                      "electronics technician for equipment and systems field: information and communication technology"@en ;
     skos:topConceptOf <> .
 
 <60>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroniker für Maschinen und Antriebstechnik nach dem Berufsbildungsgesetz/Elektronikerin für Maschinen und Antriebstechnik nach dem Berufsbildungsgesetz"@de,
-                      "Electronics Technician for Machines and Drive Technology in accordance with the Vocational Training Act"@en ;
+                      "electronics technician for machines and drive technology in accordance with the vocational training act"@en ;
     skos:topConceptOf <> .
 
 <61>
     a                 skos:Concept ;
     skos:prefLabel    "Elektroniker für Maschinen und Antriebstechnik nach der Handwerksordnung/Elektronikerin für Maschinen und Antriebstechnik nach der Handwerksordnung"@de,
-                      "Electronics Technician for Machines and Drive Technology according to the craft code"@en ;
+                      "electronics technician for machines and drive technology according to the craft code"@en ;
     skos:topConceptOf <> .
 
 <62>
     a                 skos:Concept ;
-    skos:prefLabel    "Elektroniker/Elektronikerin"@de, "Electronics Technician"@en ;
+    skos:prefLabel    "Elektroniker/Elektronikerin"@de, "electronics technician"@en ;
     skos:topConceptOf <> .
 
 <63>
     a                 skos:Concept ;
-    skos:prefLabel    "Estrichleger/Estrichlegerin"@de, "Screed Layer"@en ;
+    skos:prefLabel    "Estrichleger/Estrichlegerin"@de, "screed layer"@en ;
     skos:topConceptOf <> .
 
 <64>
     a                 skos:Concept ;
     skos:prefLabel    "Fachangestellter für Arbeitsmarktdienstleistungen/Fachangestellte für Arbeitsmarktdienstleistungen"@de,
-                      "Specialist for labor market services"@en ;
+                      "specialist for labor market services"@en ;
     skos:topConceptOf <> .
 
 <65>
     a                 skos:Concept ;
     skos:prefLabel    "Fachangestellter für Bäderbetriebe/Fachangestellte für Bäderbetriebe"@de,
-                      "Swimming Pool Technician"@en ;
+                      "swimming pool technician"@en ;
     skos:topConceptOf <> .
 
 <66>
     a                 skos:Concept ;
     skos:prefLabel    "Fachangestellter für Markt- und Sozialforschung/Fachangestellte für Markt- und Sozialforschung"@de,
-                      "Market and Social Research Analyst"@en ;
+                      "market and social research analyst"@en ;
     skos:topConceptOf <> .
 
 <67>
     a                 skos:Concept ;
     skos:prefLabel    "Fachangestellter für Medien- und Informationsdienste/Fachangestellte für Medien- und Informationsdienste"@de,
-                      "Media and Information Services Specialist"@en ;
+                      "media and information services specialist"@en ;
     skos:topConceptOf <> .
 
 <68>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachinformatiker/Fachinformatikerin"@de, "Computer Science Expert"@en ;
+    skos:prefLabel    "Fachinformatiker/Fachinformatikerin"@de, "computer science expert"@en ;
     skos:topConceptOf <> .
 
 <69>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft Agrarservice"@de, "Agricultural service Technician"@en ;
+    skos:prefLabel    "Fachkraft Agrarservice"@de, "agricultural service technician"@en ;
     skos:topConceptOf <> .
 
 <70>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Abwassertechnik"@de, "Wastewater Technician"@en ;
+    skos:prefLabel    "Fachkraft für Abwassertechnik"@de, "wastewater technician"@en ;
     skos:topConceptOf <> .
 
 <71>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Fruchtsafttechnik"@de, "Fruit-Juice Expert"@en ;
+    skos:prefLabel    "Fachkraft für Fruchtsafttechnik"@de, "fruit juice expert"@en ;
     skos:topConceptOf <> .
 
 <72>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Gastronomie"@de, "Specialist for gastronomy"@en ;
+    skos:prefLabel    "Fachkraft für Gastronomie"@de, "specialist for gastronomy"@en ;
     skos:topConceptOf <> .
 
 <73>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Hafenlogistik"@de, "Port Logistics Expert"@en ;
+    skos:prefLabel    "Fachkraft für Hafenlogistik"@de, "port logistics expert"@en ;
     skos:topConceptOf <> .
 
 <74>
     a                 skos:Concept ;
     skos:prefLabel    "Fachkraft für Holz- und Bautenschutzarbeiten"@de,
-                      "Timber and Building Preservation Expert"@en ;
+                      "timber and building preservation expert"@en ;
     skos:topConceptOf <> .
 
 <75>
     a                 skos:Concept ;
     skos:prefLabel    "Fachkraft für Kreislauf- und Abfallwirtschaft"@de,
-                      "Recycling and Waste Management Technician"@en ;
+                      "recycling and waste management technician"@en ;
     skos:topConceptOf <> .
 
 <76>
     a                 skos:Concept ;
     skos:prefLabel    "Fachkraft für Kurier-, Express- und Postdienstleistungen"@de,
-                      "Expert in Courier, Express and Postal Services"@en ;
+                      "expert in courier, express and postal services"@en ;
     skos:topConceptOf <> .
 
 <77>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Lagerlogistik"@de, "Warehouse Logistics Expert"@en ;
+    skos:prefLabel    "Fachkraft für Lagerlogistik"@de, "warehouse logistics expert"@en ;
     skos:topConceptOf <> .
 
 <78>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Lebensmitteltechnik"@de, "Food Technology Expert"@en ;
+    skos:prefLabel    "Fachkraft für Lebensmitteltechnik"@de, "food technology expert"@en ;
     skos:topConceptOf <> .
 
 <79>
     a                 skos:Concept ;
     skos:prefLabel    "Fachkraft für Lederherstellung und Gerbereitechnik"@de,
-                      "Specialist for leather production and tanning technology"@en ;
+                      "specialist for leather production and tanning technology"@en ;
     skos:topConceptOf <> .
 
 <80>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Lederverarbeitung"@de, "Specialist for leather processing"@en ;
+    skos:prefLabel    "Fachkraft für Lederverarbeitung"@de, "specialist for leather processing"@en ;
     skos:topConceptOf <> .
 
 <81>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Metalltechnik"@de, "Specialist for metal technology"@en ;
+    skos:prefLabel    "Fachkraft für Metalltechnik"@de, "specialist for metal technology"@en ;
     skos:topConceptOf <> .
 
 <82>
     a                 skos:Concept ;
     skos:prefLabel    "Fachkraft für Möbel-, Küchen- und Umzugsservice"@de,
-                      "Expert for Furniture, Kitchen and Moving Services"@en ;
+                      "expert for furniture, kitchen and moving services"@en ;
     skos:topConceptOf <> .
 
 <83>
     a                 skos:Concept ;
     skos:prefLabel    "Fachkraft für Rohr-, Kanal- und Industrieservice"@de,
-                      "Pipe, Conduit and Industrial Service Technician"@en ;
+                      "pipe, conduit and industrial service technician"@en ;
     skos:topConceptOf <> .
 
 <84>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Schutz und Sicherheit"@de, "Security Services Expert"@en ;
+    skos:prefLabel    "Fachkraft für Schutz und Sicherheit"@de, "security services expert"@en ;
     skos:topConceptOf <> .
 
 <85>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Straßen- und Verkehrstechnik"@de, "Road and Traffic Technician"@en ;
+    skos:prefLabel    "Fachkraft für Straßen- und Verkehrstechnik"@de, "road and traffic technician"@en ;
     skos:topConceptOf <> .
 
 <86>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Veranstaltungstechnik"@de, "Event Technician"@en ;
+    skos:prefLabel    "Fachkraft für Veranstaltungstechnik"@de, "event technician"@en ;
     skos:topConceptOf <> .
 
 <87>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Wasserversorgungstechnik"@de, "Water Supply Technician"@en ;
+    skos:prefLabel    "Fachkraft für Wasserversorgungstechnik"@de, "water supply technician"@en ;
     skos:topConceptOf <> .
 
 <88>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft für Wasserwirtschaft"@de, "Water Management Technician"@en ;
+    skos:prefLabel    "Fachkraft für Wasserwirtschaft"@de, "water management technician"@en ;
     skos:topConceptOf <> .
 
 <89>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft im Fahrbetrieb"@de, "Transportation Expert"@en ;
+    skos:prefLabel    "Fachkraft im Fahrbetrieb"@de, "transportation expert"@en ;
     skos:topConceptOf <> .
 
 <90>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkraft Küche"@de, "Kitchen specialist"@en ;
+    skos:prefLabel    "Fachkraft Küche"@de, "kitchen specialist"@en ;
     skos:topConceptOf <> .
 
 <91>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachlagerist/Fachlageristin"@de, "Skilled Warehouse Operator"@en ;
+    skos:prefLabel    "Fachlagerist/Fachlageristin"@de, "skilled warehouse operator"@en ;
     skos:topConceptOf <> .
 
 <92>
     a                 skos:Concept ;
     skos:prefLabel    "Fachmann für Restaurants und Veranstaltungsgastronomie/Fachfrau für Restaurants und Veranstaltungsgastronomie"@de,
-                      "Specialist for restaurants and event catering"@en ;
+                      "specialist for restaurants and event catering"@en ;
     skos:topConceptOf <> .
 
 <93>
     a                 skos:Concept ;
     skos:prefLabel    "Fachmann für Systemgastronomie/Fachfrau für Systemgastronomie"@de,
-                      "Catering Expert"@en ;
+                      "catering expert"@en ;
     skos:topConceptOf <> .
 
 <94>
     a                 skos:Concept ;
     skos:prefLabel    "Fachverkäufer im Lebensmittelhandwerk/Fachverkäuferin im Lebensmittelhandwerk"@de,
-                      "Food Salesperson"@en ;
+                      "food salesperson"@en ;
     skos:topConceptOf <> .
 
 <95>
     a                 skos:Concept ;
-    skos:prefLabel    "Fahrradmonteur/Fahrradmonteurin"@de, "Bicycle Assembler"@en ;
+    skos:prefLabel    "Fahrradmonteur/Fahrradmonteurin"@de, "bicycle assembler"@en ;
     skos:topConceptOf <> .
 
 <96>
     a                 skos:Concept ;
     skos:prefLabel    "Fahrzeuginterieur-Mechaniker/Fahrzeuginterieur-Mechanikerin"@de,
-                      "Vehicle Trimmer"@en ;
+                      "vehicle trimmer"@en ;
     skos:topConceptOf <> .
 
 <97>
     a                 skos:Concept ;
-    skos:prefLabel    "Fahrzeuglackierer/Fahrzeuglackiererin"@de, "Vehicle Painter"@en ;
+    skos:prefLabel    "Fahrzeuglackierer/Fahrzeuglackiererin"@de, "vehicle painter"@en ;
     skos:topConceptOf <> .
 
 <98>
     a                 skos:Concept ;
-    skos:prefLabel    "Fassadenmonteur/Fassadenmonteurin"@de, "Exterior Finisher"@en ;
+    skos:prefLabel    "Fassadenmonteur/Fassadenmonteurin"@de, "exterior finisher"@en ;
     skos:topConceptOf <> .
 
 <99>
     a                 skos:Concept ;
-    skos:prefLabel    "Feinoptiker/Feinoptikerin"@de, "Optics Technician"@en ;
+    skos:prefLabel    "Feinoptiker/Feinoptikerin"@de, "optics technician"@en ;
     skos:topConceptOf <> .
 
 <100>
     a                 skos:Concept ;
-    skos:prefLabel    "Feinpolierer/Feinpoliererin"@de, "Polisher"@en ;
+    skos:prefLabel    "Feinpolierer/Feinpoliererin"@de, "polisher"@en ;
     skos:topConceptOf <> .
 
 <101>
     a                 skos:Concept ;
-    skos:prefLabel    "Feinwerkmechaniker/Feinwerkmechanikerin"@de, "Precision Mechanic"@en ;
+    skos:prefLabel    "Feinwerkmechaniker/Feinwerkmechanikerin"@de, "precision mechanic"@en ;
     skos:topConceptOf <> .
 
 <102>
     a                 skos:Concept ;
     skos:prefLabel    "Fertigungsmechaniker/Fertigungsmechanikerin"@de,
-                      "Production Mechanic"@en ;
+                      "production mechanic"@en ;
     skos:topConceptOf <> .
 
 <103>
     a                 skos:Concept ;
     skos:prefLabel    "Feuerungs- und Schornsteinbauer/Feuerungs- und Schornsteinbauerin"@de,
-                      "Furnace and Chimney Builder"@en ;
+                      "furnace and chimney builder"@en ;
     skos:topConceptOf <> .
 
 <104>
     a                 skos:Concept ;
-    skos:prefLabel    "Figurenkeramformer/Figurenkeramformerin"@de, "Ceramist"@en ;
+    skos:prefLabel    "Figurenkeramformer/Figurenkeramformerin"@de, "ceramist"@en ;
     skos:topConceptOf <> .
 
 <105>
     a                 skos:Concept ;
-    skos:prefLabel    "Fischwirt/Fischwirtin"@de, "Fisherman/fisherwoman"@en ;
+    skos:prefLabel    "Fischwirt/Fischwirtin"@de, "fisherman/fisherwoman"@en ;
     skos:topConceptOf <> .
 
 <106>
     a                 skos:Concept ;
-    skos:prefLabel    "Flachglastechnologe/Flachglastechnologin"@de, "Plate Glass Mechanic"@en ;
+    skos:prefLabel    "Flachglastechnologe/Flachglastechnologin"@de, "plate glass mechanic"@en ;
     skos:topConceptOf <> .
 
 <107>
     a                 skos:Concept ;
-    skos:prefLabel    "Flechtwerkgestalter/Flechtwerkgestalterin"@de, "Wickerwork Designer"@en ;
+    skos:prefLabel    "Flechtwerkgestalter/Flechtwerkgestalterin"@de, "wickerwork designer"@en ;
     skos:topConceptOf <> .
 
 <108>
     a                 skos:Concept ;
-    skos:prefLabel    "Fleischer/Fleischerin"@de, "Butcher"@en ;
+    skos:prefLabel    "Fleischer/Fleischerin"@de, "butcher"@en ;
     skos:topConceptOf <> .
 
 <109>
     a                 skos:Concept ;
     skos:prefLabel    "Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und Mosaiklegerin"@de,
-                      "Tile, Slab and Mosaic Layer"@en ;
+                      "tile, slab and mosaic layer"@en ;
     skos:topConceptOf <> .
 
 <110>
     a                 skos:Concept ;
-    skos:prefLabel    "Florist/Floristin"@de, "Florist"@en ;
+    skos:prefLabel    "Florist/Floristin"@de, "florist"@en ;
     skos:topConceptOf <> .
 
 <111>
     a                 skos:Concept ;
     skos:prefLabel    "Fluggerätelektroniker/Fluggerätelektronikerin"@de,
-                      "Aircraft electronics technician"@en ;
+                      "aircraft electronics technician"@en ;
     skos:topConceptOf <> .
 
 <112>
     a                 skos:Concept ;
-    skos:prefLabel    "Fluggerätmechaniker/Fluggerätmechanikerin"@de, "Aircraft Mechanic"@en ;
+    skos:prefLabel    "Fluggerätmechaniker/Fluggerätmechanikerin"@de, "aircraft mechanic"@en ;
     skos:topConceptOf <> .
 
 <113>
     a                 skos:Concept ;
-    skos:prefLabel    "Forstwirt/Forstwirtin"@de, "Forester"@en ;
+    skos:prefLabel    "Forstwirt/Forstwirtin"@de, "forester"@en ;
     skos:topConceptOf <> .
 
 <114>
     a                 skos:Concept ;
-    skos:prefLabel    "Fotograf/Fotografin"@de, "Photographer"@en ;
+    skos:prefLabel    "Fotograf/Fotografin"@de, "photographer"@en ;
     skos:topConceptOf <> .
 
 <115>
     a                 skos:Concept ;
-    skos:prefLabel    "Fotomedienfachmann/Fotomedienfachfrau"@de, "Photographic Media Expert"@en ;
+    skos:prefLabel    "Fotomedienfachmann/Fotomedienfachfrau"@de, "photographic media expert"@en ;
     skos:topConceptOf <> .
 
 <116>
     a                 skos:Concept ;
-    skos:prefLabel    "Friseur/Friseurin"@de, "Hairdresser"@en ;
+    skos:prefLabel    "Friseur/Friseurin"@de, "hairdresser"@en ;
     skos:topConceptOf <> .
 
 <117>
     a                 skos:Concept ;
-    skos:prefLabel    "Gärtner/Gärtnerin"@de, "Gardener"@en ;
+    skos:prefLabel    "Gärtner/Gärtnerin"@de, "gardener"@en ;
     skos:topConceptOf <> .
 
 <118>
     a                 skos:Concept ;
-    skos:prefLabel    "Gebäudereiniger/Gebäudereinigerin"@de, "Building cleaner"@en ;
+    skos:prefLabel    "Gebäudereiniger/Gebäudereinigerin"@de, "building cleaner"@en ;
     skos:topConceptOf <> .
 
 <119>
     a                 skos:Concept ;
-    skos:prefLabel    "Geigenbauer/Geigenbauerin"@de, "Violin maker"@en ;
+    skos:prefLabel    "Geigenbauer/Geigenbauerin"@de, "violin maker"@en ;
     skos:topConceptOf <> .
 
 <120>
     a                 skos:Concept ;
-    skos:prefLabel    "Geomatiker/Geomatikerin"@de, "Geomatics Technician"@en ;
+    skos:prefLabel    "Geomatiker/Geomatikerin"@de, "geomatics technician"@en ;
     skos:topConceptOf <> .
 
 <121>
     a                 skos:Concept ;
-    skos:prefLabel    "Gerüstbauer/Gerüstbauerin"@de, "Scaffolder"@en ;
+    skos:prefLabel    "Gerüstbauer/Gerüstbauerin"@de, "scaffolder"@en ;
     skos:topConceptOf <> .
 
 <122>
     a                 skos:Concept ;
     skos:prefLabel    "Gestalter für visuelles Marketing/Gestalterin für visuelles Marketing"@de,
-                      "Designer for Visual Marketing"@en ;
+                      "designer for visual marketing"@en ;
     skos:topConceptOf <> .
 
 <123>
     a                 skos:Concept ;
-    skos:prefLabel    "Gießereimechaniker/Gießereimechanikerin"@de, "Foundry Mechanic"@en ;
+    skos:prefLabel    "Gießereimechaniker/Gießereimechanikerin"@de, "foundry mechanic"@en ;
     skos:topConceptOf <> .
 
 <124>
     a                 skos:Concept ;
     skos:prefLabel    "Glas- und Porzellanmaler/Glas- und Porzellanmalerin"@de,
-                      "Glass and porcelain painter"@en ;
+                      "glass and porcelain painter"@en ;
     skos:topConceptOf <> .
 
 <125>
     a                 skos:Concept ;
-    skos:prefLabel    "Glasapparatebauer/Glasapparatebauerin"@de, "Glass Apparatus Maker"@en ;
+    skos:prefLabel    "Glasapparatebauer/Glasapparatebauerin"@de, "glass apparatus maker"@en ;
     skos:topConceptOf <> .
 
 <126>
     a                 skos:Concept ;
-    skos:prefLabel    "Glasbläser/Glasbläserin"@de, "Glass Blower"@en ;
+    skos:prefLabel    "Glasbläser/Glasbläserin"@de, "glass blower"@en ;
     skos:topConceptOf <> .
 
 <127>
     a                 skos:Concept ;
-    skos:prefLabel    "Glaser/Glaserin"@de, "Glazier"@en ;
+    skos:prefLabel    "Glaser/Glaserin"@de, "glazier"@en ;
     skos:topConceptOf <> .
 
 <128>
     a                 skos:Concept ;
-    skos:prefLabel    "Glasmacher/Glasmacherin"@de, "Glass Maker"@en ;
+    skos:prefLabel    "Glasmacher/Glasmacherin"@de, "glass maker"@en ;
     skos:topConceptOf <> .
 
 <129>
     a                 skos:Concept ;
-    skos:prefLabel    "Glasveredler/Glasveredlerin"@de, "Glass Finisher"@en ;
+    skos:prefLabel    "Glasveredler/Glasveredlerin"@de, "glass finisher"@en ;
     skos:topConceptOf <> .
 
 <130>
     a                 skos:Concept ;
-    skos:prefLabel    "Gleisbauer/Gleisbauerin"@de, "Track Layer"@en ;
+    skos:prefLabel    "Gleisbauer/Gleisbauerin"@de, "track layer"@en ;
     skos:topConceptOf <> .
 
 <131>
     a                 skos:Concept ;
-    skos:prefLabel    "Goldschmied/Goldschmiedin"@de, "Goldsmith"@en ;
+    skos:prefLabel    "Goldschmied/Goldschmiedin"@de, "goldsmith"@en ;
     skos:topConceptOf <> .
 
 <132>
     a                 skos:Concept ;
-    skos:prefLabel    "Graveur/Graveurin"@de, "Engraver"@en ;
+    skos:prefLabel    "Graveur/Graveurin"@de, "engraver"@en ;
     skos:topConceptOf <> .
 
 <133>
     a                 skos:Concept ;
-    skos:prefLabel    "Hafenschiffer/Hafenschifferin"@de, "Port Sailor"@en ;
+    skos:prefLabel    "Hafenschiffer/Hafenschifferin"@de, "port sailor"@en ;
     skos:topConceptOf <> .
 
 <134>
     a                 skos:Concept ;
     skos:prefLabel    "Handzuginstrumentenmacher/Handzuginstrumentenmacherin"@de,
-                      "Accordion and Concertina Maker"@en ;
+                      "accordion and concertina maker"@en ;
     skos:topConceptOf <> .
 
 <135>
     a                 skos:Concept ;
-    skos:prefLabel    "Hauswirtschafter/Hauswirtschafterin"@de, "Housekeeper"@en ;
+    skos:prefLabel    "Hauswirtschafter/Hauswirtschafterin"@de, "housekeeper"@en ;
     skos:topConceptOf <> .
 
 <136>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochbaufacharbeiter/Hochbaufacharbeiterin"@de, "Skilled Building Construction Worker"@en ;
+    skos:prefLabel    "Hochbaufacharbeiter/Hochbaufacharbeiterin"@de, "skilled building construction worker"@en ;
     skos:topConceptOf <> .
 
 <137>
     a                 skos:Concept ;
     skos:prefLabel    "Holz- und Bautenschützer/Holz- und Bautenschützerin"@de,
-                      "Timber and Building Preservationist"@en ;
+                      "timber and building preservationist"@en ;
     skos:topConceptOf <> .
 
 <138>
     a                 skos:Concept ;
     skos:prefLabel    "Holzbearbeitungsmechaniker/Holzbearbeitungsmechanikerin"@de,
-                      "Wood-Processing Technician"@en ;
+                      "wood-processing technician"@en ;
     skos:topConceptOf <> .
 
 <139>
     a                 skos:Concept ;
-    skos:prefLabel    "Holzbildhauer/Holzbildhauerin"@de, "Wood Carver"@en ;
+    skos:prefLabel    "Holzbildhauer/Holzbildhauerin"@de, "wood carver"@en ;
     skos:topConceptOf <> .
 
 <140>
     a                 skos:Concept ;
     skos:prefLabel    "Holzblasinstrumentenmacher/Holzblasinstrumentenmacherin"@de,
-                      "Wooden Wind Instrument Maker"@en ;
+                      "wooden wind instrument maker"@en ;
     skos:topConceptOf <> .
 
 <141>
     a                 skos:Concept ;
-    skos:prefLabel    "Holzmechaniker/Holzmechanikerin"@de, "Woodworker"@en ;
+    skos:prefLabel    "Holzmechaniker/Holzmechanikerin"@de, "woodworker"@en ;
     skos:topConceptOf <> .
 
 <142>
     a                 skos:Concept ;
-    skos:prefLabel    "Holzspielzeugmacher/Holzspielzeugmacherin"@de, "Wooden Toy Maker"@en ;
+    skos:prefLabel    "Holzspielzeugmacher/Holzspielzeugmacherin"@de, "wooden toy maker"@en ;
     skos:topConceptOf <> .
 
 <143>
     a                 skos:Concept ;
-    skos:prefLabel    "Hörakustiker/Hörakustikerin"@de, "Hearing care professional"@en ;
+    skos:prefLabel    "Hörakustiker/Hörakustikerin"@de, "hearing care professional"@en ;
     skos:topConceptOf <> .
 
 <144>
     a                 skos:Concept ;
-    skos:prefLabel    "Hotelfachmann/Hotelfachfrau"@de, "Hotel Industry Expert"@en ;
+    skos:prefLabel    "Hotelfachmann/Hotelfachfrau"@de, "hotel industry expert"@en ;
     skos:topConceptOf <> .
 
 <145>
     a                 skos:Concept ;
-    skos:prefLabel    "Immobilienkaufmann/Immobilienkauffrau"@de, "Real Estate Management Assistant"@en ;
+    skos:prefLabel    "Immobilienkaufmann/Immobilienkauffrau"@de, "real estate management assistant"@en ;
     skos:topConceptOf <> .
 
 <146>
     a                 skos:Concept ;
-    skos:prefLabel    "Industrieelektriker/Industrieelektrikerin"@de, "Industrial Electrician"@en ;
+    skos:prefLabel    "Industrieelektriker/Industrieelektrikerin"@de, "industrial electrician"@en ;
     skos:topConceptOf <> .
 
 <147>
     a                 skos:Concept ;
-    skos:prefLabel    "Industrie-Isolierer/Industrie-Isoliererin"@de, "Industrial Insulator"@en ;
+    skos:prefLabel    "Industrie-Isolierer/Industrie-Isoliererin"@de, "industrial insulator"@en ;
     skos:topConceptOf <> .
 
 <148>
     a                 skos:Concept ;
-    skos:prefLabel    "Industriekaufmann/Industriekauffrau"@de, "Industrial Management Assistant"@en ;
+    skos:prefLabel    "Industriekaufmann/Industriekauffrau"@de, "industrial management assistant"@en ;
     skos:topConceptOf <> .
 
 <149>
     a                 skos:Concept ;
     skos:prefLabel    "Industriekeramiker Anlagentechnik/Industriekeramikerin Anlagentechnik"@de,
-                      "Ceramic Engineer in Plant Engineering"@en ;
+                      "ceramic engineer in plant engineering"@en ;
     skos:topConceptOf <> .
 
 <150>
     a                 skos:Concept ;
     skos:prefLabel    "Industriekeramiker Dekorationstechnik/Industriekeramikerin Dekorationstechnik"@de,
-                      "Ceramic Engineer in Decoration Engineering"@en ;
+                      "ceramic engineer in decoration engineering"@en ;
     skos:topConceptOf <> .
 
 <151>
     a                 skos:Concept ;
     skos:prefLabel    "Industriekeramiker Modelltechnik/Industriekeramikerin Modelltechnik"@de,
-                      "Ceramic Engineer in Modelling Engineering"@en ;
+                      "ceramic engineer in modelling engineering"@en ;
     skos:topConceptOf <> .
 
 <152>
     a                 skos:Concept ;
     skos:prefLabel    "Industriekeramiker Verfahrenstechnik/Industriekeramikerin Verfahrenstechnik"@de,
-                      "Ceramic Engineer in Process Engineering"@en ;
+                      "ceramic engineer in process engineering"@en ;
     skos:topConceptOf <> .
 
 <153>
     a                 skos:Concept ;
-    skos:prefLabel    "Industriemechaniker/Industriemechanikerin"@de, "Industrial Mechanic"@en ;
+    skos:prefLabel    "Industriemechaniker/Industriemechanikerin"@de, "industrial mechanic"@en ;
     skos:topConceptOf <> .
 
 <154>
     a                 skos:Concept ;
     skos:prefLabel    "Informationselektroniker/Informationselektronikerin"@de,
-                      "Electronics Technician for Information and Telecommunications Systems"@en ;
+                      "electronics technician for information and telecommunications systems"@en ;
     skos:topConceptOf <> .
 
 <155>
     a                 skos:Concept ;
     skos:prefLabel    "Investmentfondskaufmann/Investmentfondskauffrau"@de,
-                      "Investment Fund Management Assistant"@en ;
+                      "investment fund management assistant"@en ;
     skos:topConceptOf <> .
 
 <156>
     a                 skos:Concept ;
-    skos:prefLabel    "Isolierfacharbeiter/Isolierfacharbeiterin"@de, "Insulation Expert"@en ;
+    skos:prefLabel    "Isolierfacharbeiter/Isolierfacharbeiterin"@de, "insulation expert"@en ;
     skos:topConceptOf <> .
 
 <157>
     a                 skos:Concept ;
     skos:prefLabel    "IT-System-Elektroniker/IT-System-Elektronikerin"@de,
-                      "IT systems electronics technician"@en ;
+                      "it systems electronics technician"@en ;
     skos:topConceptOf <> .
 
 <158>
     a                 skos:Concept ;
     skos:prefLabel    "Justizfachangestellter/Justizfachangestellte"@de,
-                      "Judicial clerk"@en ;
+                      "judicial clerk"@en ;
     skos:topConceptOf <> .
 
 <159>
     a                 skos:Concept ;
-    skos:prefLabel    "Kanalbauer/Kanalbauerin"@de, "Conduit Builder"@en ;
+    skos:prefLabel    "Kanalbauer/Kanalbauerin"@de, "conduit builder"@en ;
     skos:topConceptOf <> .
 
 <160>
     a                 skos:Concept ;
     skos:prefLabel    "Karosserie- und Fahrzeugbaumechaniker/Karosserie- und Fahrzeugbaumechanikerin"@de,
-                      "Coachbuilder"@en ;
+                      "coachbuilder"@en ;
     skos:topConceptOf <> .
 
 <161>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für audiovisuelle Medien/Kauffrau für audiovisuelle Medien"@de,
-                      "Management assistant for audiovisual media"@en ;
+                      "management assistant for audiovisual media"@en ;
     skos:topConceptOf <> .
 
 <162>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Büromanagement/Kauffrau für Büromanagement"@de,
-                      "Office management assistant"@en ;
+                      "office management assistant"@en ;
     skos:topConceptOf <> .
 
 <163>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Dialogmarketing/Kauffrau für Dialogmarketing"@de,
-                      "Management Assistant for Dialogue Marketing"@en ;
+                      "management assistant for dialogue marketing"@en ;
     skos:topConceptOf <> .
 
 <164>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Digitalisierungsmanagement/Kauffrau für Digitalisierungsmanagement"@de,
-                      "Management assistant for digitization management"@en ;
+                      "management assistant for digitization management"@en ;
     skos:topConceptOf <> .
 
 <165>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Groß- und Außenhandelsmanagement/Kauffrau für Groß- und Außenhandelsmanagement"@de,
-                      "Management assistant for wholesale and foreign trade management"@en ;
+                      "management assistant for wholesale and foreign trade management"@en ;
     skos:topConceptOf <> .
 
 <166>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Hotelmanagement/Kauffrau für Hotelmanagement"@de,
-                      "Management assistant for hotel management"@en ;
+                      "management assistant for hotel management"@en ;
     skos:topConceptOf <> .
 
 <167>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für IT-System-Management/Kauffrau für IT-System-Management"@de,
-                      "IT systems management clerk"@en ;
+                      "it systems management clerk"@en ;
     skos:topConceptOf <> .
 
 <168>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Kurier-, Express- und Postdienstleistungen/Kauffrau für Kurier-, Express- und Postdienstleistungen"@de,
-                      "Management Assistant for Courier, Express and Postal Services"@en ;
+                      "management assistant for courier, express and postal services"@en ;
     skos:topConceptOf <> .
 
 <169>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Marketingkommunikation/Kauffrau für Marketingkommunikation"@de,
-                      "Management Assistant for Marketing Communication"@en ;
+                      "management assistant for marketing communication"@en ;
     skos:topConceptOf <> .
 
 <170>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Spedition und Logistikdienstleistung/Kauffrau für Spedition und Logistikdienstleistung"@de,
-                      "Management Assistant for Freight Forwarding and Logistic Services"@en ;
+                      "management assistant for freight forwarding and logistic services"@en ;
     skos:topConceptOf <> .
 
 <171>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Tourismus und Freizeit/Kauffrau für Tourismus und Freizeit"@de,
-                      "Management Assistant for Tourism and Leisure"@en ;
+                      "management assistant for tourism and leisure"@en ;
     skos:topConceptOf <> .
 
 <172>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Verkehrsservice/Kauffrau für Verkehrsservice"@de,
-                      "Management Assistant for Transport Services"@en ;
+                      "management assistant for transport services"@en ;
     skos:topConceptOf <> .
 
 <173>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann für Versicherungen und Finanzanlagen/Kauffrau für Versicherungen und Finanzanlagen"@de,
-                      "Management Assistant for Insurance and Finance"@en ;
+                      "management assistant for insurance and finance"@en ;
     skos:topConceptOf <> .
 
 <174>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann im E-Commerce/Kauffrau im E-Commerce"@de,
-                      "Businessperson in e-commerce"@en ;
+                      "businessperson in e-commerce"@en ;
     skos:topConceptOf <> .
 
 <175>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann im Einzelhandel/Kauffrau im Einzelhandel"@de,
-                      "Retail Management Assistant"@en ;
+                      "retail management assistant"@en ;
     skos:topConceptOf <> .
 
 <176>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann im Eisenbahn- und Straßenverkehr/Kauffrau im Eisenbahn- und Straßenverkehr"@de,
-                      "Management Assistant for Railway and Road Transport"@en ;
+                      "management assistant for railway and road transport"@en ;
     skos:topConceptOf <> .
 
 <177>
     a                 skos:Concept ;
     skos:prefLabel    "Kaufmann im Gesundheitswesen/Kauffrau im Gesundheitswesen"@de,
-                      "Management Assistant for Healthcare"@en ;
+                      "management assistant for healthcare"@en ;
     skos:topConceptOf <> .
 
 <178>
     a                 skos:Concept ;
-    skos:prefLabel    "Keramiker/Keramikerin"@de, "Ceramist"@en ;
+    skos:prefLabel    "Keramiker/Keramikerin"@de, "ceramist"@en ;
     skos:topConceptOf <> .
 
 <179>
     a                 skos:Concept ;
     skos:prefLabel    "Kerzenhersteller und Wachsbildner/Kerzenherstellerin und Wachsbildnerin"@de,
-                      "Candle maker and wax sculptor"@en ;
+                      "candle maker and wax sculptor"@en ;
     skos:topConceptOf <> .
 
 <180>
     a                 skos:Concept ;
     skos:prefLabel    "Klavier- und Cembalobauer/Klavier- und Cembalobauerin"@de,
-                      "Piano and Harpsicord Maker"@en ;
+                      "piano and harpsicord maker"@en ;
     skos:topConceptOf <> .
 
 <181>
     a                 skos:Concept ;
-    skos:prefLabel    "Klempner/Klempnerin"@de, "Plumber"@en ;
+    skos:prefLabel    "Klempner/Klempnerin"@de, "plumber"@en ;
     skos:topConceptOf <> .
 
 <182>
     a                 skos:Concept ;
-    skos:prefLabel    "Koch/Köchin"@de, "Cook"@en ;
+    skos:prefLabel    "Koch/Köchin"@de, "cook"@en ;
     skos:topConceptOf <> .
 
 <183>
     a                 skos:Concept ;
-    skos:prefLabel    "Konditor/Konditorin"@de, "Confectioner"@en ;
+    skos:prefLabel    "Konditor/Konditorin"@de, "confectioner"@en ;
     skos:topConceptOf <> .
 
 <184>
     a                 skos:Concept ;
     skos:prefLabel    "Konstruktionsmechaniker/Konstruktionsmechanikerin"@de,
-                      "Construction Mechanic"@en ;
+                      "construction mechanic"@en ;
     skos:topConceptOf <> .
 
 <185>
     a                 skos:Concept ;
-    skos:prefLabel    "Kosmetiker/Kosmetikerin"@de, "Beautician"@en ;
+    skos:prefLabel    "Kosmetiker/Kosmetikerin"@de, "beautician"@en ;
     skos:topConceptOf <> .
 
 <186>
     a                 skos:Concept ;
     skos:prefLabel    "Kraftfahrzeugmechatroniker/Kraftfahrzeugmechatronikerin"@de,
-                      "Automotive Mechatronics Technician"@en ;
+                      "automotive mechatronics technician"@en ;
     skos:topConceptOf <> .
 
 <187>
     a                 skos:Concept ;
-    skos:prefLabel    "Kürschner/Kürschnerin"@de, "Furrier"@en ;
+    skos:prefLabel    "Kürschner/Kürschnerin"@de, "furrier"@en ;
     skos:topConceptOf <> .
 
 <188>
     a                 skos:Concept ;
-    skos:prefLabel    "Lacklaborant/Lacklaborantin"@de, "Paint Laboratory Technician"@en ;
+    skos:prefLabel    "Lacklaborant/Lacklaborantin"@de, "paint laboratory technician"@en ;
     skos:topConceptOf <> .
 
 <189>
     a                 skos:Concept ;
     skos:prefLabel    "Land- und Baumaschinenmechatroniker/Land- und Baumaschinenmechatronikerin"@de,
-                      "Agricultural and construction machinery mechatronics technician"@en ;
+                      "agricultural and construction machinery mechatronics technician"@en ;
     skos:topConceptOf <> .
 
 <190>
     a                 skos:Concept ;
-    skos:prefLabel    "Landwirt/Landwirtin"@de, "Farmer"@en ;
+    skos:prefLabel    "Landwirt/Landwirtin"@de, "farmer"@en ;
     skos:topConceptOf <> .
 
 <191>
     a                 skos:Concept ;
-    skos:prefLabel    "Leichtflugzeugbauer/Leichtflugzeugbauerin"@de, "Lightweight Aircraft Builder"@en ;
+    skos:prefLabel    "Leichtflugzeugbauer/Leichtflugzeugbauerin"@de, "lightweight aircraft builder"@en ;
     skos:topConceptOf <> .
 
 <192>
     a                 skos:Concept ;
     skos:prefLabel    "Leuchtröhrenglasbläser/Leuchtröhrenglasbläserin"@de,
-                      "Neon Glass Blower"@en ;
+                      "neon glass blower"@en ;
     skos:topConceptOf <> .
 
 <193>
     a                 skos:Concept ;
-    skos:prefLabel    "Luftverkehrskaufmann/Luftverkehrskauffrau"@de, "Air Traffic Management Assistant"@en ;
+    skos:prefLabel    "Luftverkehrskaufmann/Luftverkehrskauffrau"@de, "air traffic management assistant"@en ;
     skos:topConceptOf <> .
 
 <194>
     a                 skos:Concept ;
     skos:prefLabel    "Maler und Lackierer/Malerin und Lackiererin"@de,
-                      "Painter and varnisher"@en ;
+                      "painter and varnisher"@en ;
     skos:topConceptOf <> .
 
 <195>
     a                 skos:Concept ;
     skos:prefLabel    "Manufakturporzellanmaler/Manufakturporzellanmalerin"@de,
-                      "Porcelain Painter"@en ;
+                      "porcelain painter"@en ;
     skos:topConceptOf <> .
 
 <196>
     a                 skos:Concept ;
     skos:prefLabel    "Maschinen- und Anlagenführer/Maschinen- und Anlagenführerin"@de,
-                      "Machine and Plant Operator"@en ;
+                      "machine and plant operator"@en ;
     skos:topConceptOf <> .
 
 <197>
     a                 skos:Concept ;
-    skos:prefLabel    "Maskenbildner/Maskenbildnerin"@de, "Make-Up Artist"@en ;
+    skos:prefLabel    "Maskenbildner/Maskenbildnerin"@de, "make-up Artist"@en ;
     skos:topConceptOf <> .
 
 <198>
     a                 skos:Concept ;
-    skos:prefLabel    "Maßschneider/Maßschneiderin"@de, "Custom tailor"@en ;
+    skos:prefLabel    "Maßschneider/Maßschneiderin"@de, "custom tailor"@en ;
     skos:topConceptOf <> .
 
 <199>
     a                 skos:Concept ;
-    skos:prefLabel    "Maßschuhmacher/Maßschuhmacherin"@de, "Bespoke shoemaker"@en ;
+    skos:prefLabel    "Maßschuhmacher/Maßschuhmacherin"@de, "bespoke shoemaker"@en ;
     skos:topConceptOf <> .
 
 <200>
     a                 skos:Concept ;
     skos:prefLabel    "Mathematisch-technischer Softwareentwickler/Mathematisch-technische Softwareentwicklerin"@de,
-                      "Mathematical and Technical Software Developer"@en ;
+                      "mathematical and technical software developer"@en ;
     skos:topConceptOf <> .
 
 <201>
     a                 skos:Concept ;
-    skos:prefLabel    "Maurer/Maurerin"@de, "Bricklayer"@en ;
+    skos:prefLabel    "Maurer/Maurerin"@de, "bricklayer"@en ;
     skos:topConceptOf <> .
 
 <202>
     a                 skos:Concept ;
     skos:prefLabel    "Mechaniker für Reifen- und Vulkanisationstechnik/Mechanikerin für Reifen- und Vulkanisationstechnik"@de,
-                      "Mechanic for tire and vulcanization technology"@en ;
+                      "mechanic for tire and vulcanization technology"@en ;
     skos:topConceptOf <> .
 
 <203>
     a                 skos:Concept ;
     skos:prefLabel    "Mechatroniker für Kältetechnik/Mechatronikerin für Kältetechnik"@de,
-                      "Mechatronics Technician for Refrigeration Technology"@en ;
+                      "mechatronics technician for refrigeration technology"@en ;
     skos:topConceptOf <> .
 
 <204>
     a                 skos:Concept ;
-    skos:prefLabel    "Mechatroniker/Mechatronikerin"@de, "Mechatronics Technician"@en ;
+    skos:prefLabel    "Mechatroniker/Mechatronikerin"@de, "mechatronics technician"@en ;
     skos:topConceptOf <> .
 
 <205>
     a                 skos:Concept ;
     skos:prefLabel    "Mediengestalter Bild und Ton/Mediengestalterin Bild und Ton"@de,
-                      "Audiovisual Media Designer"@en ;
+                      "audiovisual media designer"@en ;
     skos:topConceptOf <> .
 
 <206>
     a                 skos:Concept ;
     skos:prefLabel    "Mediengestalter Digital und Print/Mediengestalterin Digital und Print"@de,
-                      "Digital and Print Media Designer"@en ;
+                      "digital and print media designer"@en ;
     skos:topConceptOf <> .
 
 <207>
     a                 skos:Concept ;
     skos:prefLabel    "Medienkaufmann Digital und Print/Medienkauffrau Digital und Print"@de,
-                      "Management Assistant for Digital and Print Media"@en ;
+                      "management assistant for digital and print media"@en ;
     skos:topConceptOf <> .
 
 <208>
     a                 skos:Concept ;
     skos:prefLabel    "Medientechnologe Druck/Medientechnologin Druck"@de,
-                      "Print media technologist"@en ;
+                      "print media technologist"@en ;
     skos:topConceptOf <> .
 
 <209>
     a                 skos:Concept ;
     skos:prefLabel    "Medientechnologe Druckverarbeitung/Medientechnologin Druckverarbeitung"@de,
-                      "Print processing media technologist"@en ;
+                      "print processing media technologist"@en ;
     skos:topConceptOf <> .
 
 <210>
     a                 skos:Concept ;
     skos:prefLabel    "Medientechnologe Siebdruck/Medientechnologin Siebdruck"@de,
-                      "Screen printing media technologist"@en ;
+                      "screen printing media technologist"@en ;
     skos:topConceptOf <> .
 
 <211>
     a                 skos:Concept ;
     skos:prefLabel    "Medizinischer Fachangestellter/Medizinische Fachangestellte"@de,
-                      "Medical assistant/medical assistant"@en ;
+                      "medical assistant/medical assistant"@en ;
     skos:topConceptOf <> .
 
 <212>
     a                 skos:Concept ;
     skos:prefLabel    "Metall- und Glockengießer/Metall- und Glockengießerin"@de,
-                      "Metal and bell caster"@en ;
+                      "metal and bell caster"@en ;
     skos:topConceptOf <> .
 
 <213>
     a                 skos:Concept ;
-    skos:prefLabel    "Metallbauer/Metallbauerin"@de, "Metalworker"@en ;
+    skos:prefLabel    "Metallbauer/Metallbauerin"@de, "metalworker"@en ;
     skos:topConceptOf <> .
 
 <214>
     a                 skos:Concept ;
-    skos:prefLabel    "Metallbildner/Metallbildnerin"@de, "Metal sculptor"@en ;
+    skos:prefLabel    "Metallbildner/Metallbildnerin"@de, "metal sculptor"@en ;
     skos:topConceptOf <> .
 
 <215>
     a                 skos:Concept ;
     skos:prefLabel    "Metallblasinstrumentenmacher/Metallblasinstrumentenmacherin"@de,
-                      "Metal Wind Instrument Maker"@en ;
+                      "metal wind instrument maker"@en ;
     skos:topConceptOf <> .
 
 <216>
     a                 skos:Concept ;
-    skos:prefLabel    "Mikrotechnologe/Mikrotechnologin"@de, "Microelectronics Technician"@en ;
+    skos:prefLabel    "Mikrotechnologe/Mikrotechnologin"@de, "microelectronics technician"@en ;
     skos:topConceptOf <> .
 
 <217>
     a                 skos:Concept ;
-    skos:prefLabel    "Milchtechnologe/Milchtechnologin"@de, "Milk technologist"@en ;
+    skos:prefLabel    "Milchtechnologe/Milchtechnologin"@de, "milk technologist"@en ;
     skos:topConceptOf <> .
 
 <218>
     a                 skos:Concept ;
     skos:prefLabel    "Milchwirtschaftlicher Laborant/Milchwirtschaftliche Laborantin"@de,
-                      "Dairy laboratory technician"@en ;
+                      "dairy laboratory technician"@en ;
     skos:topConceptOf <> .
 
 <219>
     a                 skos:Concept ;
-    skos:prefLabel    "Modist/Modistin"@de, "Milliner"@en ;
+    skos:prefLabel    "Modist/Modistin"@de, "milliner"@en ;
     skos:topConceptOf <> .
 
 <220>
     a                 skos:Concept ;
-    skos:prefLabel    "Musikfachhändler/Musikfachhändlerin"@de, "Music Retailer"@en ;
+    skos:prefLabel    "Musikfachhändler/Musikfachhändlerin"@de, "music retailer"@en ;
     skos:topConceptOf <> .
 
 <221>
     a                 skos:Concept ;
     skos:prefLabel    "Naturwerksteinmechaniker/Naturwerksteinmechanikerin"@de,
-                      "Stone Mechanic"@en ;
+                      "stone mechanic"@en ;
     skos:topConceptOf <> .
 
 <222>
     a                 skos:Concept ;
-    skos:prefLabel    "Notarfachangestellter/Notarfachangestellte"@de, "Notary clerk/notary assistant"@en ;
+    skos:prefLabel    "Notarfachangestellter/Notarfachangestellte"@de, "notary clerk/notary assistant"@en ;
     skos:topConceptOf <> .
 
 <223>
     a                 skos:Concept ;
     skos:prefLabel    "Oberflächenbeschichter/Oberflächenbeschichterin"@de,
-                      "Surface Coater"@en ;
+                      "surface coater"@en ;
     skos:topConceptOf <> .
 
 <224>
     a                 skos:Concept ;
     skos:prefLabel    "Ofen- und Luftheizungsbauer/Ofen- und Luftheizungsbauerin"@de,
-                      "Stove and air heating engineer"@en ;
+                      "stove and air heating engineer"@en ;
     skos:topConceptOf <> .
 
 <225>
     a                 skos:Concept ;
-    skos:prefLabel    "Orgelbauer/Orgelbauerin"@de, "Organ and Harmonium Maker"@en ;
+    skos:prefLabel    "Orgelbauer/Orgelbauerin"@de, "organ and harmonium maker"@en ;
     skos:topConceptOf <> .
 
 <226>
     a                 skos:Concept ;
     skos:prefLabel    "Orthopädieschuhmacher/Orthopädieschuhmacherin"@de,
-                      "Orthopaedic shoemaker"@en ;
+                      "orthopaedic shoemaker"@en ;
     skos:topConceptOf <> .
 
 <227>
     a                 skos:Concept ;
-    skos:prefLabel    "Orthopädietechnik-Mechaniker/Orthopädietechnik-Mechanikerin"@de,
-                      "Orthopaedic technician-mechanic"@en ;
+    skos:prefLabel    "Orthopädietechnik Mechaniker/Orthopädietechnik Mechanikerin"@de,
+                      "orthopaedic technician mechanic"@en ;
     skos:topConceptOf <> .
 
 <228>
     a                 skos:Concept ;
-    skos:prefLabel    "Packmitteltechnologe/Packmitteltechnologin"@de, "Packaging technologist"@en ;
+    skos:prefLabel    "Packmitteltechnologe/Packmitteltechnologin"@de, "packaging technologist"@en ;
     skos:topConceptOf <> .
 
 <229>
     a                 skos:Concept ;
-    skos:prefLabel    "Papiertechnologe/Papiertechnologin"@de, "Paper Technologist"@en ;
+    skos:prefLabel    "Papiertechnologe/Papiertechnologin"@de, "paper technologist"@en ;
     skos:topConceptOf <> .
 
 <230>
     a                 skos:Concept ;
-    skos:prefLabel    "Parkettleger/Parkettlegerin"@de, "Parquet layer"@en ;
+    skos:prefLabel    "Parkettleger/Parkettlegerin"@de, "parquet layer"@en ;
     skos:topConceptOf <> .
 
 <231>
     a                 skos:Concept ;
     skos:prefLabel    "Patentanwaltsfachangestellter/Patentanwaltsfachangestellte"@de,
-                      "Patent paralegal/patent attorney assistant"@en ;
+                      "patent paralegal/patent attorney assistant"@en ;
     skos:topConceptOf <> .
 
 <232>
     a                 skos:Concept ;
-    skos:prefLabel    "Pelzveredler/Pelzveredlerin"@de, "Fur Processor"@en ;
+    skos:prefLabel    "Pelzveredler/Pelzveredlerin"@de, "fur processor"@en ;
     skos:topConceptOf <> .
 
 <233>
     a                 skos:Concept ;
     skos:prefLabel    "Personaldienstleistungskaufmann/Personaldienstleistungskauffrau"@de,
-                      "Management Assistant for Personnel Services"@en ;
+                      "management assistant for personnel services"@en ;
     skos:topConceptOf <> .
 
 <234>
     a                 skos:Concept ;
-    skos:prefLabel    "Pferdewirt/Pferdewirtin"@de, "Horse farmer"@en ;
+    skos:prefLabel    "Pferdewirt/Pferdewirtin"@de, "horse farmer"@en ;
     skos:topConceptOf <> .
 
 <235>
     a                 skos:Concept ;
-    skos:prefLabel    "Pflanzentechnologe/Pflanzentechnologin"@de, "Plant technologist"@en ;
+    skos:prefLabel    "Pflanzentechnologe/Pflanzentechnologin"@de, "plant technologist"@en ;
     skos:topConceptOf <> .
 
 <236>
     a                 skos:Concept ;
-    skos:prefLabel    "Pharmakant/Pharmakantin"@de, "Pharmaceutical Technician"@en ;
+    skos:prefLabel    "Pharmakant/Pharmakantin"@de, "pharmaceutical technician"@en ;
     skos:topConceptOf <> .
 
 <237>
     a                 skos:Concept ;
     skos:prefLabel    "Pharmazeutisch-kaufmännischer Angestellter/Pharmazeutisch-kaufmännische Angestellte"@de,
-                      "Pharmaceutical commercial clerk"@en ;
+                      "pharmaceutical commercial clerk"@en ;
     skos:topConceptOf <> .
 
 <238>
     a                 skos:Concept ;
-    skos:prefLabel    "Physiklaborant/Physiklaborantin"@de, "Physical Laboratory Technician"@en ;
+    skos:prefLabel    "Physiklaborant/Physiklaborantin"@de, "physical laboratory technician"@en ;
     skos:topConceptOf <> .
 
 <239>
     a                 skos:Concept ;
     skos:prefLabel    "Polster- und Dekorationsnäher/Polster- und Dekorationsnäherin"@de,
-                      "Upholstery and Decorations Sewer"@en ;
+                      "upholstery and decorations sewer"@en ;
     skos:topConceptOf <> .
 
 <240>
     a                 skos:Concept ;
-    skos:prefLabel    "Polsterer/Polsterin"@de, "Upholsterer"@en ;
+    skos:prefLabel    "Polsterer/Polsterin"@de, "upholsterer"@en ;
     skos:topConceptOf <> .
 
 <241>
     a                 skos:Concept ;
     skos:prefLabel    "Präzisionswerkzeugmechaniker/Präzisionswerkzeugmechanikerin"@de,
-                      "Precision tool mechanic"@en ;
+                      "precision tool mechanic"@en ;
     skos:topConceptOf <> .
 
 <242>
     a                 skos:Concept ;
     skos:prefLabel    "Produktgestalter-Textil/Produktgestalterin-Textil"@de,
-                      "Product Designer in Textiles"@en ;
+                      "product designer in textiles"@en ;
     skos:topConceptOf <> .
 
 <243>
     a                 skos:Concept ;
-    skos:prefLabel    "Produktionsfachkraft Chemie"@de, "Skilled Production Worker Chemistry"@en ;
+    skos:prefLabel    "Produktionsfachkraft Chemie"@de, "skilled production eorker chemistry"@en ;
     skos:topConceptOf <> .
 
 <244>
     a                 skos:Concept ;
     skos:prefLabel    "Produktionsmechaniker-Textil/Produktionsmechanikerin-Textil"@de,
-                      "Production Mechanic - Textile Engineering"@en ;
+                      "production mechanic - textile engineering"@en ;
     skos:topConceptOf <> .
 
 <245>
     a                 skos:Concept ;
     skos:prefLabel    "Produktionstechnologe/Produktionstechnologin"@de,
-                      "Production Engineer"@en ;
+                      "production engineer"@en ;
     skos:topConceptOf <> .
 
 <246>
     a                 skos:Concept ;
     skos:prefLabel    "Produktprüfer-Textil/Produktprüferin-Textil"@de,
-                      "Textile Product Tester"@en ;
+                      "textile product tester"@en ;
     skos:topConceptOf <> .
 
 <247>
     a                 skos:Concept ;
     skos:prefLabel    "Produktveredler-Textil/Produktveredlerin-Textil"@de,
-                      "Product Refiner - Textiles"@en ;
+                      "product refiner - textiles"@en ;
     skos:topConceptOf <> .
 
 <248>
     a                 skos:Concept ;
     skos:prefLabel    "Prüftechnologe Keramik/Prüftechnologin Keramik"@de,
-                      "Testing technologist for ceramics"@en ;
+                      "testing technologist for ceramics"@en ;
     skos:topConceptOf <> .
 
 <249>
     a                 skos:Concept ;
-    skos:prefLabel    "Raumausstatter/Raumausstatterin"@de, "Interior Decorator"@en ;
+    skos:prefLabel    "Raumausstatter/Raumausstatterin"@de, "interior decorator"@en ;
     skos:topConceptOf <> .
 
 <250>
     a                 skos:Concept ;
     skos:prefLabel    "Rechtsanwalts- und Notarfachangestellter/Rechtsanwalts- und Notarfachangestellte"@de,
-                      "Paralegal and notary's assistant"@en ;
+                      "paralegal and notary's assistant"@en ;
     skos:topConceptOf <> .
 
 <251>
     a                 skos:Concept ;
     skos:prefLabel    "Rechtsanwaltsfachangestellter/Rechtsanwaltsfachangestellte"@de,
-                      "Paralegal/legal assistant"@en ;
+                      "paralegal/legal assistant"@en ;
     skos:topConceptOf <> .
 
 <252>
     a                 skos:Concept ;
-    skos:prefLabel    "Revierjäger/Revierjägerin"@de, "Huntsman/huntress"@en ;
+    skos:prefLabel    "Revierjäger/Revierjägerin"@de, "huntsman/huntress"@en ;
     skos:topConceptOf <> .
 
 <253>
     a                 skos:Concept ;
-    skos:prefLabel    "Rohrleitungsbauer/Rohrleitungsbauerin"@de, "Pipe Fitter"@en ;
+    skos:prefLabel    "Rohrleitungsbauer/Rohrleitungsbauerin"@de, "pipe fitter"@en ;
     skos:topConceptOf <> .
 
 <254>
     a                 skos:Concept ;
     skos:prefLabel    "Rollladen- und Sonnenschutzmechatroniker/Rollladen- und Sonnenschutzmechatronikerin"@de,
-                      "Roller shutter and sun protection mechatronics technician"@en ;
+                      "roller shutter and sun protection mechatronics technician"@en ;
     skos:topConceptOf <> .
 
 <255>
     a                 skos:Concept ;
-    skos:prefLabel    "Sattler/Sattlerin"@de, "Saddler"@en ;
+    skos:prefLabel    "Sattler/Sattlerin"@de, "saddler"@en ;
     skos:topConceptOf <> .
 
 <256>
     a                 skos:Concept ;
-    skos:prefLabel    "Schädlingsbekämpfer/Schädlingsbekämpferin"@de, "Pest Controller"@en ;
+    skos:prefLabel    "Schädlingsbekämpfer/Schädlingsbekämpferin"@de, "pest controller"@en ;
     skos:topConceptOf <> .
 
 <257>
     a                 skos:Concept ;
-    skos:prefLabel    "Schifffahrtskaufmann/Schifffahrtskauffrau"@de, "Shipping Management Assistant"@en ;
+    skos:prefLabel    "Schifffahrtskaufmann/Schifffahrtskauffrau"@de, "shipping management assistant"@en ;
     skos:topConceptOf <> .
 
 <258>
     a                 skos:Concept ;
     skos:prefLabel    "Schilder- und Lichtreklamehersteller/Schilder- und Lichtreklameherstellerin"@de,
-                      "Sign and illuminated sign maker"@en ;
+                      "sign and illuminated sign maker"@en ;
     skos:topConceptOf <> .
 
 <259>
     a                 skos:Concept ;
-    skos:prefLabel    "Schornsteinfeger/Schornsteinfegerin"@de, "Chimney sweep"@en ;
+    skos:prefLabel    "Schornsteinfeger/Schornsteinfegerin"@de, "chimney sweep"@en ;
     skos:topConceptOf <> .
 
 <260>
     a                 skos:Concept ;
-    skos:prefLabel    "Schuhfertiger/Schuhfertigerin"@de, "Shoe Finisher"@en ;
+    skos:prefLabel    "Schuhfertiger/Schuhfertigerin"@de, "shoe finisher"@en ;
     skos:topConceptOf <> .
 
 <261>
     a                 skos:Concept ;
-    skos:prefLabel    "Segelmacher/Segelmacherin"@de, "Sailmaker"@en ;
+    skos:prefLabel    "Segelmacher/Segelmacherin"@de, "sailmaker"@en ;
     skos:topConceptOf <> .
 
 <262>
     a                 skos:Concept ;
-    skos:prefLabel    "Seiler/Seilerin"@de, "Ropemaker"@en ;
+    skos:prefLabel    "Seiler/Seilerin"@de, "ropemaker"@en ;
     skos:topConceptOf <> .
 
 <263>
     a                 skos:Concept ;
-    skos:prefLabel    "Servicefachkraft für Dialogmarketing"@de, "Dialogue Marketing Expert"@en ;
+    skos:prefLabel    "Servicefachkraft für Dialogmarketing"@de, "dialogue marketing expert"@en ;
     skos:topConceptOf <> .
 
 <264>
     a                 skos:Concept ;
-    skos:prefLabel    "Servicefahrer/Servicefahrerin"@de, "Delivery Driver"@en ;
+    skos:prefLabel    "Servicefahrer/Servicefahrerin"@de, "delivery driver"@en ;
     skos:topConceptOf <> .
 
 <265>
     a                 skos:Concept ;
     skos:prefLabel    "Servicekaufmann im Luftverkehr/Servicekauffrau im Luftverkehr"@de,
-                      "Service Management Assistant for Air Travel"@en ;
+                      "service management assistant for air travel"@en ;
     skos:topConceptOf <> .
 
 <266>
     a                 skos:Concept ;
-    skos:prefLabel    "Servicekraft für Schutz und Sicherheit"@de, "Security Supervisor"@en ;
+    skos:prefLabel    "Servicekraft für Schutz und Sicherheit"@de, "security supervisor"@en ;
     skos:topConceptOf <> .
 
 <267>
     a                 skos:Concept ;
-    skos:prefLabel    "Silberschmied/Silberschmiedin"@de, "Silversmith"@en ;
+    skos:prefLabel    "Silberschmied/Silberschmiedin"@de, "silversmith"@en ;
     skos:topConceptOf <> .
 
 <268>
     a                 skos:Concept ;
     skos:prefLabel    "Sozialversicherungsfachangestellter/Sozialversicherungsfachangestellte"@de,
-                      "Social security clerk"@en ;
+                      "social security clerk"@en ;
     skos:topConceptOf <> .
 
 <269>
     a                 skos:Concept ;
-    skos:prefLabel    "Spezialtiefbauer/Spezialtiefbauerin"@de, "Special Civil Engineering Works Builder"@en ;
+    skos:prefLabel    "Spezialtiefbauer/Spezialtiefbauerin"@de, "special civil engineering works builder"@en ;
     skos:topConceptOf <> .
 
 <270>
     a                 skos:Concept ;
-    skos:prefLabel    "Spielzeughersteller/Spielzeugherstellerin"@de, "Toy Maker"@en ;
+    skos:prefLabel    "Spielzeughersteller/Spielzeugherstellerin"@de, "toy maker"@en ;
     skos:topConceptOf <> .
 
 <271>
     a                 skos:Concept ;
     skos:prefLabel    "Sport- und Fitnesskaufmann/Sport- und Fitnesskauffrau"@de,
-                      "Sport and Fitness Management Assistant"@en ;
+                      "sport and fitness management assistant"@en ;
     skos:topConceptOf <> .
 
 <272>
     a                 skos:Concept ;
-    skos:prefLabel    "Sportfachmann/Sportfachfrau"@de, "Sports Expert"@en ;
+    skos:prefLabel    "Sportfachmann/Sportfachfrau"@de, "sports expert"@en ;
     skos:topConceptOf <> .
 
 <273>
     a                 skos:Concept ;
     skos:prefLabel    "Stanz- und Umformmechaniker/Stanz- und Umformmechanikerin"@de,
-                      "Stamping and forming mechanic"@en ;
+                      "stamping and forming mechanic"@en ;
     skos:topConceptOf <> .
 
 <274>
     a                 skos:Concept ;
     skos:prefLabel    "Steinmetz und Steinbildhauer/Steinmetzin und Steinbildhauerin"@de,
-                      "Stonemason and stone sculptor"@en ;
+                      "stonemason and stone sculptor"@en ;
     skos:topConceptOf <> .
 
 <275>
     a                 skos:Concept ;
     skos:prefLabel    "Steuerfachangestellter/Steuerfachangestellte"@de,
-                      "Assistant tax consultant"@en ;
+                      "assistant tax consultant"@en ;
     skos:topConceptOf <> .
 
 <276>
     a                 skos:Concept ;
-    skos:prefLabel    "Straßenbauer/Straßenbauerin"@de, "Road Construction Worker"@en ;
+    skos:prefLabel    "Straßenbauer/Straßenbauerin"@de, "road construction worker"@en ;
     skos:topConceptOf <> .
 
 <277>
     a                 skos:Concept ;
-    skos:prefLabel    "Straßenwärter/Straßenwärterin"@de, "Road Maintenance Worker"@en ;
+    skos:prefLabel    "Straßenwärter/Straßenwärterin"@de, "road maintenance worker"@en ;
     skos:topConceptOf <> .
 
 <278>
     a                 skos:Concept ;
-    skos:prefLabel    "Stuckateur/Stuckateurin"@de, "Plasterer"@en ;
+    skos:prefLabel    "Stuckateur/Stuckateurin"@de, "plasterer"@en ;
     skos:topConceptOf <> .
 
 <279>
     a                 skos:Concept ;
-    skos:prefLabel    "Süßwarentechnologe/Süßwarentechnologin"@de, "Confectionery technologist"@en ;
+    skos:prefLabel    "Süßwarentechnologe/Süßwarentechnologin"@de, "confectionery technologist"@en ;
     skos:topConceptOf <> .
 
 <280>
     a                 skos:Concept ;
-    skos:prefLabel    "Tankwart/Tankwartin"@de, "Petrol Station Attendant"@en ;
+    skos:prefLabel    "Tankwart/Tankwartin"@de, "petrol station attendant"@en ;
     skos:topConceptOf <> .
 
 <281>
     a                 skos:Concept ;
     skos:prefLabel    "Technischer Konfektionär/Technische Konfektionärin"@de,
-                      "Technician in Heavy-Duty Fabric Goods Manufacturing"@en ;
+                      "technician in heavy-duty fabric goods manufacturing"@en ;
     skos:topConceptOf <> .
 
 <282>
     a                 skos:Concept ;
     skos:prefLabel    "Technischer Modellbauer/Technische Modellbauerin"@de,
-                      "Technical Model Maker"@en ;
+                      "technical model maker"@en ;
     skos:topConceptOf <> .
 
 <283>
     a                 skos:Concept ;
     skos:prefLabel    "Technischer Produktdesigner/Technische Produktdesignerin"@de,
-                      "Technical Product Designer"@en ;
+                      "technical product designer"@en ;
     skos:topConceptOf <> .
 
 <284>
     a                 skos:Concept ;
     skos:prefLabel    "Technischer Systemplaner/Technische Systemplanerin"@de,
-                      "Technical system planner"@en ;
+                      "technical system planner"@en ;
     skos:topConceptOf <> .
 
 <285>
     a                 skos:Concept ;
     skos:prefLabel    "Textil- und Modenäher/Textil- und Modenäherin"@de,
-                      "Textile and fashion seamstress"@en ;
+                      "textile and fashion seamstress"@en ;
     skos:topConceptOf <> .
 
 <286>
     a                 skos:Concept ;
     skos:prefLabel    "Textil- und Modeschneider/Textil- und Modeschneiderin"@de,
-                      "Textile and fashion tailor"@en ;
+                      "textile and fashion tailor"@en ;
     skos:topConceptOf <> .
 
 <287>
     a                 skos:Concept ;
     skos:prefLabel    "Textilgestalter im Handwerk/Textilgestalterin im Handwerk"@de,
-                      "Textile designer in the craft sector"@en ;
+                      "textile designer in the craft sector"@en ;
     skos:topConceptOf <> .
 
 <288>
     a                 skos:Concept ;
-    skos:prefLabel    "Textillaborant/Textillaborantin"@de, "Textile Laboratory Technician"@en ;
+    skos:prefLabel    "Textillaborant/Textillaborantin"@de, "textile laboratory technician"@en ;
     skos:topConceptOf <> .
 
 <289>
     a                 skos:Concept ;
-    skos:prefLabel    "Textilreiniger/Textilreinigerin"@de, "Textile Cleaner"@en ;
+    skos:prefLabel    "Textilreiniger/Textilreinigerin"@de, "textile cleaner"@en ;
     skos:topConceptOf <> .
 
 <290>
     a                 skos:Concept ;
-    skos:prefLabel    "Thermometermacher/Thermometermacherin"@de, "Thermometer Maker"@en ;
+    skos:prefLabel    "Thermometermacher/Thermometermacherin"@de, "thermometer maker"@en ;
     skos:topConceptOf <> .
 
 <291>
     a                 skos:Concept ;
-    skos:prefLabel    "Tiefbaufacharbeiter/Tiefbaufacharbeiterin"@de, "Skilled Civil Engineering Worker"@en ;
+    skos:prefLabel    "Tiefbaufacharbeiter/Tiefbaufacharbeiterin"@de, "skilled civil engineering worker"@en ;
     skos:topConceptOf <> .
 
 <292>
     a                 skos:Concept ;
     skos:prefLabel    "Tiermedizinischer Fachangestellter/Tiermedizinische Fachangestellte"@de,
-                      "Veterinary technician/veterinary assistant"@en ;
+                      "veterinary technician/veterinary assistant"@en ;
     skos:topConceptOf <> .
 
 <293>
     a                 skos:Concept ;
-    skos:prefLabel    "Tierpfleger/Tierpflegerin"@de, "Animal Keeper"@en ;
+    skos:prefLabel    "Tierpfleger/Tierpflegerin"@de, "animal keeper"@en ;
     skos:topConceptOf <> .
 
 <294>
     a                 skos:Concept ;
-    skos:prefLabel    "Tierwirt/Tierwirtin"@de, "Animal farmer"@en ;
+    skos:prefLabel    "Tierwirt/Tierwirtin"@de, "animal farmer"@en ;
     skos:topConceptOf <> .
 
 <295>
     a                 skos:Concept ;
-    skos:prefLabel    "Tischler/Tischlerin"@de, "Joiner"@en ;
+    skos:prefLabel    "Tischler/Tischlerin"@de, "joiner"@en ;
     skos:topConceptOf <> .
 
 <296>
     a                 skos:Concept ;
     skos:prefLabel    "Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen)/Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen)"@de,
-                      "Tourism clerk (clerk for private and business travel)"@en ;
+                      "tourism clerk (clerk for private and business travel)"@en ;
     skos:topConceptOf <> .
 
 <297>
     a                 skos:Concept ;
-    skos:prefLabel    "Trockenbaumonteur/Trockenbaumonteurin"@de, "Drywall Construction Fitter"@en ;
+    skos:prefLabel    "Trockenbaumonteur/Trockenbaumonteurin"@de, "drywall construction fitter"@en ;
     skos:topConceptOf <> .
 
 <298>
     a                 skos:Concept ;
-    skos:prefLabel    "Uhrmacher/Uhrmacherin"@de, "Watchmaker"@en ;
+    skos:prefLabel    "Uhrmacher/Uhrmacherin"@de, "watchmaker"@en ;
     skos:topConceptOf <> .
 
 <299>
     a                 skos:Concept ;
     skos:prefLabel    "Veranstaltungskaufmann/Veranstaltungskauffrau"@de,
-                      "Event Management Assistant"@en ;
+                      "event management assistant"@en ;
     skos:topConceptOf <> .
 
 <300>
     a                 skos:Concept ;
     skos:prefLabel    "Verfahrensmechaniker für Beschichtungstechnik/Verfahrensmechanikerin für Beschichtungstechnik"@de,
-                      "Process Mechanic for Coating Engineering"@en ;
+                      "process mechanic for coating engineering"@en ;
     skos:topConceptOf <> .
 
 <301>
     a                 skos:Concept ;
     skos:prefLabel    "Verfahrensmechaniker für Brillenoptik/Verfahrensmechanikerin für Brillenoptik"@de,
-                      "Ophthalmic Optics Process Mechanic"@en ;
+                      "ophthalmic optics process mechanic"@en ;
     skos:topConceptOf <> .
 
 <302>
     a                 skos:Concept ;
     skos:prefLabel    "Verfahrensmechaniker für Kunststoff- und Kautschuktechnik/Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik"@de,
-                      "Process Technician for Plastics and Rubber Engineering"@en ;
+                      "process technician for plastics and rubber engineering"@en ;
     skos:topConceptOf <> .
 
 <303>
     a                 skos:Concept ;
     skos:prefLabel    "Verfahrensmechaniker Glastechnik/Verfahrensmechanikerin Glastechnik"@de,
-                      "Process Technician for Glass Engineering"@en ;
+                      "process technician for glass engineering"@en ;
     skos:topConceptOf <> .
 
 <304>
     a                 skos:Concept ;
     skos:prefLabel    "Verfahrensmechaniker in der Steine- und Erdenindustrie/Verfahrensmechanikerin in der Steine- und Erdenindustrie"@de,
-                      "Process Technician for the Stone and Earth Industry"@en ;
+                      "process technician for the stone and earth industry"@en ;
     skos:topConceptOf <> .
 
 <305>
     a                 skos:Concept ;
     skos:prefLabel    "Verfahrenstechnologe Metall/Verfahrenstechnologin Metall"@de,
-                      "Metal process technologist"@en ;
+                      "metal process technologist"@en ;
     skos:topConceptOf <> .
 
 <306>
     a                 skos:Concept ;
     skos:prefLabel    "Verfahrenstechnologe Mühlen- und Getreidewirtschaft/Verfahrenstechnologin Mühlen- und Getreidewirtschaft"@de,
-                      "Process technologist in the milling and grain industry"@en ;
+                      "process technologist in the milling and grain industry"@en ;
     skos:topConceptOf <> .
 
 <307>
     a                 skos:Concept ;
-    skos:prefLabel    "Vergolder/Vergolderin"@de, "Gilder"@en ;
+    skos:prefLabel    "Vergolder/Vergolderin"@de, "gilder"@en ;
     skos:topConceptOf <> .
 
 <308>
     a                 skos:Concept ;
-    skos:prefLabel    "Verkäufer/Verkäuferin"@de, "Salesperson"@en ;
+    skos:prefLabel    "Verkäufer/Verkäuferin"@de, "salesperson"@en ;
     skos:topConceptOf <> .
 
 <309>
     a                 skos:Concept ;
     skos:prefLabel    "Vermessungstechniker/Vermessungstechnikerin"@de,
-                      "Surveying technician"@en ;
+                      "surveying technician"@en ;
     skos:topConceptOf <> .
 
 <310>
     a                 skos:Concept ;
     skos:prefLabel    "Verwaltungsfachangestellter/Verwaltungsfachangestellte"@de,
-                      "Administrative assistant"@en ;
+                      "administrative assistant"@en ;
     skos:topConceptOf <> .
 
 <311>
     a                 skos:Concept ;
     skos:prefLabel    "Vorpolierer Schmuck- und Kleingeräteherstellung/Vorpoliererin Schmuck- und Kleingeräteherstellung"@de,
-                      "Pre-polisher jewellery and small appliance manufacturing"@en ;
+                      "pre-polisher jewellery and small appliance manufacturing"@en ;
     skos:topConceptOf <> .
 
 <312>
     a                 skos:Concept ;
     skos:prefLabel    "Wärme-, Kälte- und Schallschutzisolierer/Wärme-, Kälte- und Schallschutzisoliererin"@de,
-                      "Thermal and Acoustic Insulation Fitter"@en ;
+                      "thermal and acoustic insulation fitter"@en ;
     skos:topConceptOf <> .
 
 <313>
     a                 skos:Concept ;
-    skos:prefLabel    "Wasserbauer/Wasserbauerin"@de, "Hydraulic Technician"@en ;
+    skos:prefLabel    "Wasserbauer/Wasserbauerin"@de, "hydraulic technician"@en ;
     skos:topConceptOf <> .
 
 <314>
     a                 skos:Concept ;
-    skos:prefLabel    "Weintechnologe/Weintechnologin"@de, "Wine technologist"@en ;
+    skos:prefLabel    "Weintechnologe/Weintechnologin"@de, "wine technologist"@en ;
     skos:topConceptOf <> .
 
 <315>
     a                 skos:Concept ;
-    skos:prefLabel    "Werkfeuerwehrmann/Werkfeuerwehrfrau"@de, "Corporate Firefighter"@en ;
+    skos:prefLabel    "Werkfeuerwehrmann/Werkfeuerwehrfrau"@de, "Ccorporate firefighter"@en ;
     skos:topConceptOf <> .
 
 <316>
     a                 skos:Concept ;
     skos:prefLabel    "Werkgehilfe Schmuckwarenindustrie, Taschen- und Armbanduhren/Werkgehilfin Schmuckwarenindustrie, Taschen- und Armbanduhren"@de,
-                      "Labourer in the jewellery industry, pocket watches and wristwatches"@en ;
+                      "labourer in the jewellery industry, pocket watches and wristwatches"@en ;
     skos:topConceptOf <> .
 
 <317>
     a                 skos:Concept ;
-    skos:prefLabel    "Werksteinhersteller/Werksteinherstellerin"@de, "Manufactured stone producer"@en ;
+    skos:prefLabel    "Werksteinhersteller/Werksteinherstellerin"@de, "manufactured stone producer"@en ;
     skos:topConceptOf <> .
 
 <318>
     a                 skos:Concept ;
-    skos:prefLabel    "Werkstoffprüfer/Werkstoffprüferin"@de, "Materials Tester"@en ;
+    skos:prefLabel    "Werkstoffprüfer/Werkstoffprüferin"@de, "materials tester"@en ;
     skos:topConceptOf <> .
 
 <319>
     a                 skos:Concept ;
-    skos:prefLabel    "Werkzeugmechaniker/Werkzeugmechanikerin"@de, "Tool Engineer"@en ;
+    skos:prefLabel    "Werkzeugmechaniker/Werkzeugmechanikerin"@de, "tool engineer"@en ;
     skos:topConceptOf <> .
 
 <320>
     a                 skos:Concept ;
-    skos:prefLabel    "Winzer/Winzerin"@de, "Winemaker"@en ;
+    skos:prefLabel    "Winzer/Winzerin"@de, "winemaker"@en ;
     skos:topConceptOf <> .
 
 <321>
     a                 skos:Concept ;
     skos:prefLabel    "Zahnmedizinischer Fachangestellter/Zahnmedizinische Fachangestellte"@de,
-                      "Dental assistant"@en ;
+                      "dental assistant"@en ;
     skos:topConceptOf <> .
 
 <322>
     a                 skos:Concept ;
-    skos:prefLabel    "Zahntechniker/Zahntechnikerin"@de, "Dental technician"@en ;
+    skos:prefLabel    "Zahntechniker/Zahntechnikerin"@de, "dental technician"@en ;
     skos:topConceptOf <> .
 
 <323>
     a                 skos:Concept ;
     skos:prefLabel    "Zerspanungsmechaniker/Zerspanungsmechanikerin"@de,
-                      "Metal Cutting Mechanic"@en ;
+                      "metal cutting mechanic"@en ;
     skos:topConceptOf <> .
 
 <324>
     a                 skos:Concept ;
-    skos:prefLabel    "Zimmerer/Zimmerin"@de, "Carpenter"@en ;
+    skos:prefLabel    "Zimmerer/Zimmerin"@de, "carpenter"@en ;
     skos:topConceptOf <> .
 
 <325>
     a                 skos:Concept ;
     skos:prefLabel    "Zupfinstrumentenmacher/Zupfinstrumentenmach"@de,
-                      "Plucked instrument maker"@en ;
+                      "plucked instrument maker"@en ;
     skos:topConceptOf <> .

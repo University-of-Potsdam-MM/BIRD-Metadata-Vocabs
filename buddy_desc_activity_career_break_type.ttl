@@ -14,55 +14,56 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Urlaubssemester"@de, "Sabbatical"@en ;
+    skos:prefLabel    "Urlaubssemester"@de, "sabbatical"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Reisen"@de, "Travel"@en ;
+    skos:prefLabel    "Reisen"@de, "travel"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Weiterbildung"@de, "Further education"@en ;
+    skos:prefLabel    "Weiterbildung"@de, "further education"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Krankheit"@de, "Illness"@en ;
+    skos:prefLabel    "Krankheit"@de, "illness"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Urlaub"@de, "Vacation"@en ;
+    skos:prefLabel    "Urlaub"@de, "vacation"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Teilzeit"@de, "Part time"@en ;
+    skos:prefLabel    "Teilzeit"@de, "part time"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Arbeitsplatzteilung"@de, "Job sharing"@en ;
+    skos:prefLabel    "Arbeitsplatzteilung"@de, "job sharing"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "Elternzeit"@de, "Parental leave"@en ;
+    skos:prefLabel    "Elternzeit"@de, "parental leave"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "Pflegezeit"@de, "Care leave/time"@en ;
+    skos:prefLabel    "Pflegezeit"@de, "care leave/time"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel    "Familien Pflegezeit"@de, "Family care leave/time"@en ;
+    skos:prefLabel    "Familien Pflegezeit"@de, "family care leave/time"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel    "Religiöse Gründe"@de, "Religious reasons"@en ;
+    skos:prefLabel    "Religiöse Gründe"@de, "religious reasons"@en ;
+    skos:altLabel     "Religioese Gruende"@de ;
     skos:topConceptOf <> .

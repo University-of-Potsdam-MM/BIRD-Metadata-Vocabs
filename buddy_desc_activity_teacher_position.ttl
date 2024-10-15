@@ -14,46 +14,46 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel "Schulleitung"@de, "school-leadership"@en ;
+    skos:prefLabel "Schulleitung"@de, "school leadership"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel "Stellvertretende Schulleitung"@de, "deputy-school-leadership"@en ;
+    skos:prefLabel "Stellvertretende Schulleitung"@de, "deputy school leadership"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel "Abteilungsleitung"@de, "department-head"@en ;
+    skos:prefLabel "Abteilungsleitung"@de, "department head"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel "Oberstufenkoordination"@de, "upper-school-coordination"@en ;
+    skos:prefLabel "Oberstufenkoordination"@de, "upper school coordination"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel "Mittelstufenkoordination"@de, "middle-school-coordination"@en ;
+    skos:prefLabel "Mittelstufenkoordination"@de, "middle school coordination"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel "Unterstufenkoordination; Grundschulkoordination"@de,
-                   "lower-school-coordination; ground-school-coordination"@en ;
+    skos:prefLabel "Unterstufenkoordination"@de, "lower school coordination"@en ;
+    skos:altLabel   "Grundschulkoordination"@de, "ground school coordination"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel "Quallitätssicherung"@de, "quality-assurance"@en ;
+    skos:prefLabel "Quallitätssicherung"@de, "quality assurance"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel "Klassenleitung"@de, "class-leadership"@en ;
+    skos:prefLabel "Klassenleitung"@de, "class leadership"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel "Vertrauenslehrkraft"@de, "trust-teacher"@en ;
+    skos:prefLabel "Vertrauenslehrkraft"@de, "trust teacher"@en ;
     skos:topConceptOf <> .

@@ -24,12 +24,12 @@
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Magister-auslaufend"@de, "magister-discontinued"@en ;
+    skos:prefLabel    "Magister auslaufend"@de, "magister discontinued"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel "Staatsexam"@de, "state-examination"@en ;
+    skos:prefLabel "Staatsexam"@de, "state examination"@en ;
     skos:topConceptOf <> .
 
 <5>

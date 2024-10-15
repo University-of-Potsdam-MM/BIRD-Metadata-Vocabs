@@ -74,12 +74,12 @@
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel "Berufliches-Gymnasium"@de, "vocational grammar school"@en ;
+    skos:prefLabel "Berufliches Gymnasium"@de, "vocational grammar school"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel "Privat-und-Ersatzschule"@de, "private-and-substituteschool"@en ;
+    skos:prefLabel "Privat- und Ersatzschule"@de, "private- and substituteschool"@en ;
     skos:topConceptOf <> .
 
 <15>

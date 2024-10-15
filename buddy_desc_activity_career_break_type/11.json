@@ -1,9 +1,9 @@
 {
-  "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_career_break_type/4",
+  "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_career_break_type/11",
   "type": "Concept",
   "prefLabel": {
-    "en": "Illness",
-    "de": "Krankheit"
+    "en": "Religious reasons",
+    "de": "Religiöse Gründe"
   },
   "inScheme": [
     {

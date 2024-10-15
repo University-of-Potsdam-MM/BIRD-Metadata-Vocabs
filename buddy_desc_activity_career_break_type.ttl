@@ -10,50 +10,59 @@
     dct:creator        "BIRD"@de ;
     dct:created        "2024-06-05"^^xsd:date ;
     dct:license        <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9> .
+    skos:hasTopConcept <1>, <2>, <3>, <4>, <5>, <6>, <7>, <8>, <9>, <10>, <11> .
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Urlaubssemester"@de, "sabbatical"@en ;
+    skos:prefLabel    "Urlaubssemester"@de, "Sabbatical"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Reisen"@de, "travel"@en ;
+    skos:prefLabel    "Reisen"@de, "Travel"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Weiterbildung"@de, "further-education"@en ;
+    skos:prefLabel    "Weiterbildung"@de, "Further education"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Krankheit"@de, "illness"@en ;
+    skos:prefLabel    "Krankheit"@de, "Illness"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Urlaub"@de, "vacation"@en ;
+    skos:prefLabel    "Urlaub"@de, "Vacation"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Teilzeit"@de, "part-time"@en ;
+    skos:prefLabel    "Teilzeit"@de, "Part time"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Arbeitsplatzteilung"@de, "job-sharing"@en ;
+    skos:prefLabel    "Arbeitsplatzteilung"@de, "Job sharing"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "Elternzeit; Pflegezeit; Familien-Pflegezeit"@de,
-                      "parental-leave; care-leave; family-care-leave"@en ;
+    skos:prefLabel    "Elternzeit"@de, "Parental leave"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "Religioese-Gründe"@de, "religious-reasons"@en ;
+    skos:prefLabel    "Pflegezeit"@de, "Care leave/time"@en ;
+    skos:topConceptOf <> .
+
+<10>
+    a                 skos:Concept ;
+    skos:prefLabel    "Familien Pflegezeit"@de, "Family care leave/time"@en ;
+    skos:topConceptOf <> .
+
+<11>
+    a                 skos:Concept ;
+    skos:prefLabel    "Religiöse Gründe"@de, "Religious reasons"@en ;
     skos:topConceptOf <> .

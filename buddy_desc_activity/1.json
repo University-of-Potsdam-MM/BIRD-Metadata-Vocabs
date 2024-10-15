@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "school",
-    "de": "Schule"
+    "en": "pupil",
+    "de": "Schüler:in"
   },
   "inScheme": [
     {

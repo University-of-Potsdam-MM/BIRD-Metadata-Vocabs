@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_university_studies_desired_degree/4",
   "type": "Concept",
   "prefLabel": {
-    "en": "state-examination",
+    "en": "state examination",
     "de": "Staatsexam"
   },
   "inScheme": [

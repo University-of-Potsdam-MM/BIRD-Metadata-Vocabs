@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity/10",
   "type": "Concept",
   "prefLabel": {
-    "en": "transition-phase",
+    "en": "transition phase",
     "de": "Übergangsphase"
   },
   "inScheme": [

@@ -3,7 +3,12 @@
   "type": "Concept",
   "prefLabel": {
     "en": "geography",
-    "de": "Geographie; Geografie; Erdkunde"
+    "de": "Geographie"
+  },
+  "altLabel": {
+    "de": [
+      "Geografie; Erdkunde"
+    ]
   },
   "inScheme": [
     {

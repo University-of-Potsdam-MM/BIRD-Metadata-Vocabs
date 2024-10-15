@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_other_profession_industry/15",
   "type": "Concept",
   "prefLabel": {
-    "en": "economics-administration",
-    "de": "Wirtschaft-Verwaltung"
+    "en": "economy, administration",
+    "de": "Wirtschaft, Verwaltung"
   },
   "inScheme": [
     {

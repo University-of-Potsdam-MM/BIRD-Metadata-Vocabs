@@ -2,8 +2,16 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_desc_activity_school_state/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "Baden-wuerttemberg",
-    "de": "Baden-wuerttemberg"
+    "en": "Baden-Württemberg",
+    "de": "Baden-Württemberg"
+  },
+  "altLabel": {
+    "en": [
+      "Baden-Wuerttemberg"
+    ],
+    "de": [
+      "Baden-Wuerttemberg"
+    ]
   },
   "inScheme": [
     {

@@ -13,23 +13,23 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Präsenz"@de, "Presence"@en ;
+    skos:prefLabel    "Präsenz"@de, "presence"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Online (Selbstlernkurs)"@de, "Online (self-paced course)"@en ;
+    skos:prefLabel    "Online (Selbstlernkurs)"@de, "online (self-paced course)"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
     skos:prefLabel    "Blended Learning mit festen Präsenz-Gruppenterminen"@de,
-                      "Blended learning with fixed attendance dates"@en ;
+                      "blended learning with fixed attendance dates"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Online mit festen Online-Gruppenterminen"@de, "Online with fixed online dates"@en ;
+    skos:prefLabel    "Online mit festen Online-Gruppenterminen"@de, "online with fixed online dates"@en ;
     skos:topConceptOf <> .
 
 <5>

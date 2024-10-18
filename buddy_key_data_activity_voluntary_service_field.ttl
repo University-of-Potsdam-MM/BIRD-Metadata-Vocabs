@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Sozialbereich"@de, "social-sector"@en ;
+    skos:prefLabel    "Sozialbereich"@de, "social sector"@en ;
     skos:topConceptOf <> .
 
 <2>
@@ -34,7 +34,7 @@
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Umwelt-Naturschutz"@de, "environmental-nature-protection"@en ;
+    skos:prefLabel    "Umwelt-Naturschutz"@de, "environmental nature protection"@en ;
     skos:topConceptOf <> .
 
 <6>

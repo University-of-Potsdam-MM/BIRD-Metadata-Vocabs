@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Schule"@de, "School"@en ;
+    skos:prefLabel    "Schule"@de, "school"@en ;
     skos:topConceptOf <> .
 
 <2>

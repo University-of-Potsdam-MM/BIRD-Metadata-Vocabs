@@ -13,35 +13,35 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Schüler*innen"@de, "Pupils"@en ;
+    skos:prefLabel    "Schüler:in"@de, "pupils"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Studieninteressierte"@de, "Prospective students"@en ;
+    skos:prefLabel    "Studieninteressierte"@de, "prospective students"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Studierende"@de, "Students"@en ;
+    skos:prefLabel    "Studierende"@de, "students"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Promotionsinteresse"@de, "Prospective doctoral students"@en ;
+    skos:prefLabel    "Promotionsinteresse"@de, "prospective doctoral students"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "PASCH-Schüler*innen"@de, "PASCH pupils"@en ;
+    skos:prefLabel    "PASCH-Schüler:in"@de, "PASCH pupils"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Lehrende"@de, "Lecturer"@en ;
+    skos:prefLabel    "Lehrende"@de, "lecturer"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Eltern"@de, "Parents"@en ;
+    skos:prefLabel    "Eltern"@de, "parents"@en ;
     skos:topConceptOf <> .

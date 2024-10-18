@@ -13,15 +13,15 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Teilnahmebescheinigung"@de, "Certificate of participation"@en ;
+    skos:prefLabel    "Teilnahmebescheinigung"@de, "certificate of participation"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Zertifikat"@de, "Certificate"@en ;
+    skos:prefLabel    "Zertifikat"@de, "certificate"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Kein Leistungsnachweis"@de, "No certificate"@en ;
+    skos:prefLabel    "Kein Leistungsnachweis"@de, "no certificate"@en ;
     skos:topConceptOf <> .

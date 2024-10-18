@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Bau-Architektur-Vermessung"@de, "construction-architecture-surveying"@en ;
+    skos:prefLabel    "Bau, Architektur, Vermessung"@de, "construction, architecture, surveying"@en ;
     skos:topConceptOf <> .
 
 <2>
@@ -24,7 +24,7 @@
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Elektrotechnik"@de, "electrical"@en ;
+    skos:prefLabel    "Elektro"@de, "electrical"@en ;
     skos:topConceptOf <> .
 
 <4>
@@ -34,17 +34,17 @@
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "IT-Computer"@de, "it-computer"@en ;
+    skos:prefLabel    "IT, Computer"@de, "it, computer"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Kunst-Kultur-Design"@de, "arts-culture-design"@en ;
+    skos:prefLabel    "Kunst, Kultur, Gestaltung"@de, "arts, culture, design"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Landwirtschaft-Natur-Umwelt"@de, "agriculture-nature-environment"@en ;
+    skos:prefLabel    "Landwirtschaft, Natur, Umwelt"@de, "agriculture, nature, environment"@en ;
     skos:topConceptOf <> .
 
 <8>
@@ -54,35 +54,35 @@
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "Metallkunde-Maschinenbau"@de, "metallurgy-mechanical-engineering"@en ;
+    skos:prefLabel    "Metall, Maschinenbau"@de, "metal, mechanical engineering"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel    "Naturwissenschaften"@de, "natural-sciences"@en ;
+    skos:prefLabel    "Naturwissenschaften"@de, "natural sciences"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel    "Produktion-Herstellung"@de, "production-manufacturing"@en ;
+    skos:prefLabel    "Produktion, Fertigung"@de, "production, manufacturing"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel    "Sozialpädagogik"@de, "social-educational"@en ;
+    skos:prefLabel    "Soziales, Pädagogik"@de, "social, pedagogy"@en ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel    "Technologie-technologische Bereiche"@de, "technology-technology-fields"@en ;
+    skos:prefLabel    "Technik, Technologiefelder"@de, "Technology, technology fields"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel    "Transport-Logistik"@de, "transport-logistics"@en ;
+    skos:prefLabel    "Verkehr, Logistik"@de, "transport, logistics"@en ;
     skos:topConceptOf <> .
 
 <15>
     a                 skos:Concept ;
-    skos:prefLabel    "Wirtschaft-Verwaltung"@de, "economics-administration"@en ;
+    skos:prefLabel    "Wirtschaft, Verwaltung"@de, "economy, administration"@en ;
     skos:topConceptOf <> .

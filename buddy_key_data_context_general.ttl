@@ -14,7 +14,7 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Schule"@de, "School"@en ;
+    skos:prefLabel    "Schule"@de, "school"@en ;
     skos:topConceptOf <> .
 
 <2>
@@ -39,10 +39,10 @@
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Beruf"@de, "Occupation"@en ;
+    skos:prefLabel    "Beruf"@de, "occupation"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschullehre"@de, "University"@en ;
+    skos:prefLabel    "Digitale Lehrmethoden Hochschule"@de, "digital teaching methods university"@en ;
     skos:topConceptOf <> .

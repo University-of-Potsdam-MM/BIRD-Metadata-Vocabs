@@ -13,25 +13,25 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Minuten"@de, "Minutes"@en ;
+    skos:prefLabel    "Minuten"@de, "minutes"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Stunden"@de, "Hours"@en ;
+    skos:prefLabel    "Stunden"@de, "hours"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Tage"@de, "Days"@en ;
+    skos:prefLabel    "Tage"@de, "days"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Wochen"@de, "Weeks"@en ;
+    skos:prefLabel    "Wochen"@de, "weeks"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Monate"@de, "Months"@en ;
+    skos:prefLabel    "Monate"@de, "months"@en ;
     skos:topConceptOf <> .

@@ -13,10 +13,10 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Selbstlernkurs"@de, "Self-paced"@en ;
+    skos:prefLabel    "Selbstlernkurs"@de, "self-paced"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Betreuter Kurs"@de, "Tutored"@en ;
+    skos:prefLabel    "Betreuter Kurs"@de, "tutored"@en ;
     skos:topConceptOf <> .

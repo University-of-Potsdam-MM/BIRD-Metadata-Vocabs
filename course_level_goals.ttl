@@ -13,40 +13,40 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Niveau 1"@de, "Level 1"@en ;
+    skos:prefLabel    "Niveau 1"@de, "level 1"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Niveau 2"@de, "Level 2"@en ;
+    skos:prefLabel    "Niveau 2"@de, "level 2"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Niveau 3"@de, "Level 3"@en ;
+    skos:prefLabel    "Niveau 3"@de, "level 3"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Niveau 4"@de, "Level 4"@en ;
+    skos:prefLabel    "Niveau 4"@de, "level 4"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Niveau 5"@de, "Level 5"@en ;
+    skos:prefLabel    "Niveau 5"@de, "level 5"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Niveau 6"@de, "Level 6"@en ;
+    skos:prefLabel    "Niveau 6"@de, "level 6"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Niveau 7"@de, "Level 7"@en ;
+    skos:prefLabel    "Niveau 7"@de, "level 7"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "Niveau 8"@de, "Level 8"@en ;
+    skos:prefLabel    "Niveau 8"@de, "level 8"@en ;
     skos:topConceptOf <> .

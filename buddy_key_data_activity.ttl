@@ -13,42 +13,43 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Schule"@de, "school"@en ;
+    skos:prefLabel    "Schüler:in"@de, "pupil"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Berufsausbildung"@de, "vocational-training"@en ;
+    skos:prefLabel    "Berufsausbildung"@de, "vocational training"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Universitätsstudent"@de, "university-studies"@en ;
+    skos:prefLabel    "Universitätsstudent"@de, "university studies"@en ;
+    skos:altLabel     "Universiteatsstudent"@de ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Freiwilligendienst"@de, "voluntary-service"@en ;
+    skos:prefLabel    "Freiwilligendienst"@de, "voluntary service"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Lehrkraft"@de, "school-teacher"@en ;
+    skos:prefLabel    "Schullehrer"@de, "school teacher"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Anderer Beruf"@de, "other-profession"@en ;
+    skos:prefLabel    "Anderer Beruf"@de, "other profession"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Pflegekraft"@de, "care-work"@en ;
+    skos:prefLabel    "Pflegekraft"@de, "care work"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "Karrierepause"@de, "career-break"@en ;
+    skos:prefLabel    "Karrierepause"@de, "career break"@en ;
     skos:topConceptOf <> .
 
 <9>
@@ -58,11 +59,11 @@
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel    "Übergangsphase"@de, "transition-phase"@en ;
+    skos:prefLabel    "Übergangsphase"@de, "transition phase"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel    "Hochschul-Lehrkraft"@de, "university-professor"@en ;
+    skos:prefLabel    "Hochschullehrkraft"@de, "university professor"@en ;
     skos:topConceptOf <> .
 

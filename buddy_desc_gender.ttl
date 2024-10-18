@@ -29,5 +29,5 @@
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Keine Angabe"@de, "no-disclosure"@en ;
+    skos:prefLabel    "Keine Angabe"@de, "no disclosure"@en ;
     skos:topConceptOf <> .

@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_school_subject/14",
   "type": "Concept",
   "prefLabel": {
-    "en": "technology-works",
-    "de": "Technisches Arbeiten"
+    "en": "technology, crafts",
+    "de": "Technik, Werken"
   },
   "inScheme": [
     {

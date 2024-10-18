@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_charge/2",
   "type": "Concept",
   "prefLabel": {
-    "en": "Fee required",
+    "en": "fee required",
     "de": "Kostenpflichtig"
   },
   "inScheme": [

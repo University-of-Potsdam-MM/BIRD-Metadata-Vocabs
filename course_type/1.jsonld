@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_type/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "Language course",
+    "en": "language course",
     "de": "Sprachkurs"
   },
   "inScheme": [

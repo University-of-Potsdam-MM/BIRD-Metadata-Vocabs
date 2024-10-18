@@ -3,7 +3,12 @@
   "type": "Concept",
   "prefLabel": {
     "en": "special needs school",
-    "de": "Foerderschule"
+    "de": "Förderschule"
+  },
+  "altLabel": {
+    "de": [
+      "Foerderschule"
+    ]
   },
   "inScheme": [
     {

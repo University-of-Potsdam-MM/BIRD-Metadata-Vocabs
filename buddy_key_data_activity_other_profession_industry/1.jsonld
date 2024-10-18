@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_other_profession_industry/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "construction-architecture-surveying",
-    "de": "Bau-Architektur-Vermessung"
+    "en": "construction, architecture, surveying",
+    "de": "Bau, Architektur, Vermessung"
   },
   "inScheme": [
     {

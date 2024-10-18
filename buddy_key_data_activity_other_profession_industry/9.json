@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_other_profession_industry/9",
   "type": "Concept",
   "prefLabel": {
-    "en": "metallurgy-mechanical-engineering",
-    "de": "Metallkunde-Maschinenbau"
+    "en": "metal, mechanical engineering",
+    "de": "Metall, Maschinenbau"
   },
   "inScheme": [
     {

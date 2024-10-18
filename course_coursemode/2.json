@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_coursemode/2",
   "type": "Concept",
   "prefLabel": {
-    "en": "Tutored",
+    "en": "tutored",
     "de": "Betreuter Kurs"
   },
   "inScheme": [

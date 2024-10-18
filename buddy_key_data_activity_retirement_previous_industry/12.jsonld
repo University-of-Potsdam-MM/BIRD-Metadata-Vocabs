@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_retirement_previous_industry/12",
   "type": "Concept",
   "prefLabel": {
-    "en": "social-educational",
-    "de": "Sozialpädagogik"
+    "en": "social, pedagogy",
+    "de": "Soziales, Pädagogik"
   },
   "inScheme": [
     {

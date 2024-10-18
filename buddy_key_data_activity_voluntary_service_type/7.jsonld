@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_voluntary_service_type/7",
   "type": "Concept",
   "prefLabel": {
-    "en": "voluntary-services-for-all-generations",
-    "de": "Freiwillige Dienste für alle Generationen"
+    "en": "voluntary services for all generations",
+    "de": "Freiwilligendienste aller Generationen"
   },
   "inScheme": [
     {

@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_lecture_type/3",
   "type": "Concept",
   "prefLabel": {
-    "en": "Blended learning with fixed attendance dates",
+    "en": "blended learning with fixed attendance dates",
     "de": "Blended Learning mit festen Präsenz-Gruppenterminen"
   },
   "inScheme": [

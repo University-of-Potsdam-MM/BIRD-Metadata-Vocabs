@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_type/2",
   "type": "Concept",
   "prefLabel": {
-    "en": "Specialist course",
+    "en": "specialist course",
     "de": "Fachkurs"
   },
   "inScheme": [

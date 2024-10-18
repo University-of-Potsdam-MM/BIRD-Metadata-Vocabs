@@ -2,8 +2,13 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity/3",
   "type": "Concept",
   "prefLabel": {
-    "en": "university-studies",
+    "en": "university studies",
     "de": "Universitätsstudent"
+  },
+  "altLabel": {
+    "de": [
+      "Universiteatsstudent"
+    ]
   },
   "inScheme": [
     {

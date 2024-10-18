@@ -3,7 +3,12 @@
   "type": "Concept",
   "prefLabel": {
     "en": "french",
-    "de": "Franzoesisch"
+    "de": "Französisch"
+  },
+  "altLabel": {
+    "de": [
+      "Franzoesisch"
+    ]
   },
   "inScheme": [
     {

@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_type/3",
   "type": "Concept",
   "prefLabel": {
-    "en": "Propaedeutics",
+    "en": "propaedeutics",
     "de": "Propädeutika"
   },
   "inScheme": [

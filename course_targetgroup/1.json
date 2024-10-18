@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_targetgroup/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "Pupils",
-    "de": "Schüler*innen"
+    "en": "pupils",
+    "de": "Schüler:in"
   },
   "inScheme": [
     {

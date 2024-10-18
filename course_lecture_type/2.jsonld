@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_lecture_type/2",
   "type": "Concept",
   "prefLabel": {
-    "en": "Online (self-paced course)",
+    "en": "online (self-paced course)",
     "de": "Online (Selbstlernkurs)"
   },
   "inScheme": [

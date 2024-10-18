@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity/11",
   "type": "Concept",
   "prefLabel": {
-    "en": "university-professor",
-    "de": "Hochschul-Lehrkraft"
+    "en": "university professor",
+    "de": "Hochschullehrkraft"
   },
   "inScheme": [
     {

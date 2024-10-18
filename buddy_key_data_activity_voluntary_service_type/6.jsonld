@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_voluntary_service_type/6",
   "type": "Concept",
   "prefLabel": {
-    "en": "developmental-volunteer-service-weltwärts",
-    "de": "Entwicklungspolitischer-Freiwilligendienst-weltwärts"
+    "en": "developmental volunteer service with weltwärts",
+    "de": "Entwicklungspolitischer Freiwilligendienst bei weltwärts"
   },
   "inScheme": [
     {

@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_teacher_subject/23",
   "type": "Concept",
   "prefLabel": {
-    "en": "philosophy-ethics-life-skills",
-    "de": "Philosophie-Ethik-Lebenskompetenzen"
+    "en": "philosophy, ethics, life-skills",
+    "de": "Philosophie, Ethik, Lebenskompetenzen"
   },
   "inScheme": [
     {

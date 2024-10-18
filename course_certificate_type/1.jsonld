@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_certificate_type/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "Certificate of participation",
+    "en": "certificate of participation",
     "de": "Teilnahmebescheinigung"
   },
   "inScheme": [

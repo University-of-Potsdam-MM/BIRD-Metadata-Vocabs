@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_lecture_type/1",
   "type": "Concept",
   "prefLabel": {
-    "en": "Presence",
+    "en": "presence",
     "de": "Präsenz"
   },
   "inScheme": [

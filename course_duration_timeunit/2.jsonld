@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_duration_timeunit/2",
   "type": "Concept",
   "prefLabel": {
-    "en": "Hours",
+    "en": "hours",
     "de": "Stunden"
   },
   "inScheme": [

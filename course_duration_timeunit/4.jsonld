@@ -2,7 +2,7 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/course_duration_timeunit/4",
   "type": "Concept",
   "prefLabel": {
-    "en": "Weeks",
+    "en": "weeks",
     "de": "Wochen"
   },
   "inScheme": [

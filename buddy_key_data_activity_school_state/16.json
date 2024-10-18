@@ -3,7 +3,12 @@
   "type": "Concept",
   "prefLabel": {
     "en": "Thuringia",
-    "de": "Thueringen"
+    "de": "Thüringen"
+  },
+  "altLabel": {
+    "de": [
+      "Thueringen"
+    ]
   },
   "inScheme": [
     {

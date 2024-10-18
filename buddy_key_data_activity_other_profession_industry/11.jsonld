@@ -2,8 +2,8 @@
   "id": "https://university-of-potsdam-mm.github.io/BIRD-Metadata-Vocabs/buddy_key_data_activity_other_profession_industry/11",
   "type": "Concept",
   "prefLabel": {
-    "en": "production-manufacturing",
-    "de": "Produktion-Herstellung"
+    "en": "production, manufacturing",
+    "de": "Produktion, Fertigung"
   },
   "inScheme": [
     {

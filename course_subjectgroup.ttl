@@ -13,45 +13,47 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Agrar- und Forstwissenschaften"@de, "Agricultural and Forest Sciences"@en ;
+    skos:prefLabel "Agrar- und Forstwissenschaften"@de, "agricultural and forestry sciences"@en ;
     skos:topConceptOf <> .
+
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Gesellschafts- und Sozialwissenschaften"@de, "Humanities and Social Sciences"@en ;
+    skos:prefLabel "Gesellschafts- und Sozialwissenschaften"@de, "social and societal sciences"@en ;
     skos:topConceptOf <> .
+
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Ingenieurwissenschaften"@de, "Engineering Sciences"@en ;
+    skos:prefLabel "Ingenieurwissenschaften"@de, "engineering sciences"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Kunst, Musik, Design"@de, "Art, Music, Design"@en ;
+    skos:prefLabel "Kunst, Musik, Design"@de, "art, music, design"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Lehramt"@de, "Teaching Degrees"@en ;
+    skos:prefLabel "Lehramt"@de, "teaching degree"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Mathematik, Naturwissenschaften"@de, "Mathematics and Natural Sciences"@en ;
+    skos:prefLabel "Mathematik, Naturwissenschaften"@de, "mathematics, natural sciences"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Medizin, Gesundheitswissenschaften"@de, "Medicine, Health Sciences"@en ;
+    skos:prefLabel "Medizin, Gesundheitswissenschaften"@de, "medicine, health sciences"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "Sprach-, Kulturwissenschaften"@de, "Language and Cultural Studies"@en ;
+    skos:prefLabel "Sprach- und Kulturwissenschaften"@de, "linguistics and cultural studies"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel    "Wirtschaftswissenschaften, Rechtswissenschaften"@de, "Economic Sciences, Law"@en ;
+    skos:prefLabel    "Wirtschaftswissenschaften, Rechtswissenschaften"@de, "economic sciences, law sciences"@en ;
     skos:topConceptOf <> .

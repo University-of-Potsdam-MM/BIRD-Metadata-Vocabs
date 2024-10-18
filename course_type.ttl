@@ -13,40 +13,40 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Sprachkurs"@de, "Language course"@en ;
+    skos:prefLabel    "Sprachkurs"@de, "language course"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Fachkurs"@de, "Specialist course"@en ;
+    skos:prefLabel    "Fachkurs"@de, "specialist course"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel    "Propädeutika"@de, "Propaedeutics"@en ;
+    skos:prefLabel    "Propädeutika"@de, "propaedeutics"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel    "Soft Skills"@de, "Soft Skills"@en ;
+    skos:prefLabel    "Soft Skills"@de, "soft skills"@en ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel    "Business Skills"@de, "Business Skills"@en ;
+    skos:prefLabel    "Business Skills"@de, "business skills"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel    "Digital Skills"@de, "Digital Skills"@en ;
+    skos:prefLabel    "Digital Skills"@de, "digital skills"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel    "Academic Skills"@de, "Academic Skills"@en ;
+    skos:prefLabel    "Academic Skills"@de, "academic skills"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel    "Career Skills"@de, "Career Skills"@en ;
+    skos:prefLabel    "Career Skills"@de, "career skills"@en ;
     skos:topConceptOf <> .

@@ -13,10 +13,10 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Anfänger"@de, "Beginners"@en ;
+    skos:prefLabel    "Anfänger"@de, "beginners"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Fortgeschritten"@de, "Advanced"@en ;
+    skos:prefLabel    "Fortgeschritten"@de, "advanced"@en ;
     skos:topConceptOf <> .

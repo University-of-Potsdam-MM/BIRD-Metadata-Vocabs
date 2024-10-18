@@ -19,5 +19,5 @@
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Geflüchteten Status"@de, "Refugee status"@en ;
+    skos:prefLabel    "Geflüchteten Status"@de, "refugee status"@en ;
     skos:topConceptOf <> .

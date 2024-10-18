@@ -14,10 +14,10 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel    "Ja"@de, "Yes"@en ;
+    skos:prefLabel    "Ja"@de, "yes"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel    "Nein"@de, "No"@en ;
+    skos:prefLabel    "Nein"@de, "no"@en ;
     skos:topConceptOf <> .

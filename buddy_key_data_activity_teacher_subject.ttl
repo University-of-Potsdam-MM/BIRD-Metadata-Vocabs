@@ -15,120 +15,122 @@
 
 <1>
     a                 skos:Concept ;
-    skos:prefLabel "Mathe"@de, "mathematics"@en ;
+    skos:prefLabel    "Mathe"@de, "mathematics"@en ;
     skos:topConceptOf <> .
 
 <2>
     a                 skos:Concept ;
-    skos:prefLabel "Deutsch"@de, "german"@en ;
+    skos:prefLabel    "Deutsch"@de, "german"@en ;
     skos:topConceptOf <> .
 
 <3>
     a                 skos:Concept ;
-    skos:prefLabel "Englisch"@de, "english"@en ;
+    skos:prefLabel    "Englisch"@de, "english"@en ;
     skos:topConceptOf <> .
 
 <4>
     a                 skos:Concept ;
-    skos:prefLabel "Franzoesisch"@de, "french"@en ;
+    skos:prefLabel    "Französisch"@de, "french"@en ;
+    skos:altLabel     "Franzoesisch"@de ;
     skos:topConceptOf <> .
 
 <5>
     a                 skos:Concept ;
-    skos:prefLabel "Spanisch"@de, "spanish"@en ;
+    skos:prefLabel    "Spanisch"@de, "spanish"@en ;
     skos:topConceptOf <> .
 
 <6>
     a                 skos:Concept ;
-    skos:prefLabel "Italienisch"@de, "italian"@en ;
+    skos:prefLabel    "Italienisch"@de, "italian"@en ;
     skos:topConceptOf <> .
 
 <7>
     a                 skos:Concept ;
-    skos:prefLabel "Latein"@de, "latin"@en ;
+    skos:prefLabel    "Latein"@de, "latin"@en ;
     skos:topConceptOf <> .
 
 <8>
     a                 skos:Concept ;
-    skos:prefLabel "Geschichte"@de, "history"@en ;
+    skos:prefLabel    "Geschichte"@de, "history"@en ;
     skos:topConceptOf <> .
 
 <9>
     a                 skos:Concept ;
-    skos:prefLabel "Physik"@de, "physics"@en ;
+    skos:prefLabel    "Physik"@de, "physics"@en ;
     skos:topConceptOf <> .
 
 <10>
     a                 skos:Concept ;
-    skos:prefLabel "Chemie"@de, "chemistry"@en ;
+    skos:prefLabel    "Chemie"@de, "chemistry"@en ;
     skos:topConceptOf <> .
 
 <11>
     a                 skos:Concept ;
-    skos:prefLabel "Biologie"@de, "biology"@en ;
+    skos:prefLabel    "Biologie"@de, "biology"@en ;
     skos:topConceptOf <> .
 
 <12>
     a                 skos:Concept ;
-    skos:prefLabel "Geographie; Geografie; Erdkunde"@de, "geography"@en ;
+    skos:prefLabel    "Geographie"@de, "geography"@en ;
+    skos:altLabel     "Geografie; Erdkunde"@de ;
     skos:topConceptOf <> .
 
 <13>
     a                 skos:Concept ;
-    skos:prefLabel "Informatik"@de, "computer-science"@en ;
+    skos:prefLabel    "Informatik"@de, "computer science"@en ;
     skos:topConceptOf <> .
 
 <14>
     a                 skos:Concept ;
-    skos:prefLabel "Technisches Arbeiten"@de, "technology-works"@en ;
+    skos:prefLabel    "Technik, Werken"@de, "technology, crafts"@en ;
     skos:topConceptOf <> .
 
 <15>
     a                 skos:Concept ;
-    skos:prefLabel "Sozialkunde; Pädagogik"@de, "social-sciences"@en ;
+    skos:prefLabel    "Sozialkunde, Pädagogik"@de, "social sciences, pedagogy"@en ;
     skos:topConceptOf <> .
 
 <16>
     a                 skos:Concept ;
-    skos:prefLabel "Statistik"@de, "statistics"@en ;
+    skos:prefLabel    "Statistik"@de, "statistics"@en ;
     skos:topConceptOf <> .
 
 <17>
     a                 skos:Concept ;
-    skos:prefLabel "Recht"@de, "law"@en ;
+    skos:prefLabel    "Recht"@de, "law"@en ;
     skos:topConceptOf <> .
 
 <18>
     a                 skos:Concept ;
-    skos:prefLabel "Medien"@de, "media"@en ;
+    skos:prefLabel    "Medien"@de, "media"@en ;
     skos:topConceptOf <> .
 
 <19>
     a                 skos:Concept ;
-    skos:prefLabel "Wirtschaft"@de, "economics"@en ;
+    skos:prefLabel    "Wirtschaft"@de, "economics"@en ;
     skos:topConceptOf <> .
 
 <20>
     a                 skos:Concept ;
-    skos:prefLabel "Buchhaltung"@de, "accounting"@en ;
+    skos:prefLabel    "Rechnungswesen"@de, "accounting"@en ;
     skos:topConceptOf <> .
 
 <21>
     a                 skos:Concept ;
-    skos:prefLabel "Darstellende Künste"@de, "performing-arts"@en ;
+    skos:prefLabel    "Darstellendes Spiel"@de, "performing arts"@en ;
     skos:topConceptOf <> .
 
 <22>
     a                 skos:Concept ;
-    skos:prefLabel "Religion; Religionskunde"@de, "religion"@en ;
+    skos:prefLabel    "Religion, Religionskunde"@de, "religion"@en ;
     skos:topConceptOf <> .
 
 <23>
     a                 skos:Concept ;
-    skos:prefLabel "Philosophie-Ethik-Lebenskompetenzen"@de, "philosophy-ethics-life-skills"@en ;
+    skos:prefLabel    "Philosophie, Ethik, Lebenskompetenzen"@de, "philosophy, ethics, life-skills"@en ;
     skos:topConceptOf <> .
 
 <24>
     a                 skos:Concept ;
-    skos:prefLabel "Andere"@de, "other"@en ;
+    skos:prefLabel    "Andere"@de, "other"@en ;
     skos:topConceptOf <> .

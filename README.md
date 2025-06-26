@@ -5,6 +5,51 @@ This is an example repository (formerly named `skohub-docker-vocabs`) to show ho
 Every time a change is made to a vocabulary a GitHub-workflow-action is triggered to publish the most recent vocabulary to the `gh-pages`-branch, which is used by GitHub pages.
 It spins up a Docker container made from [SkoHub Vocabs](https://github.com/hbz/skohub-vocabs).
 
+## Contents
+
+- [Structure](#structure)
+- [Usage](#usage)
+- [Custom Domain](#custom-domain)
+- [Troubleshooting](#troubleshooting)
+- [CHANGELOG](#changelog)
+
+## Structure
+
+This diagram from the paper visualizes criteria used in the buddyfinder:
+[Metadata structure](./docs/2025-06-05_Metadatenstruktur_Buddy_Finder.pdf)
+
+These criteria are represented in the SKOS vocabulary in this repository.
+
+### Structure of this repository
+
+The concepts described in [concepts for buddyfinder metadata](concepts-for-buddyfinder-metadata) are represented in
+a SKOS vocabulary in this repository. Here is a reference for skos: https://www.w3.org/TR/skos-reference/.
+
+The SKOS metadata is roughly structured as follows:
+
+- **ConceptScheme**: Describes the metadata of a skos concept (e.g., title, creator, creation date, license) and
+  references the included concepts via `skos:hasTopConcept`.
+- **Concept**: Individual terms or entries in the vocabulary. Each concept node has at least one `skos:prefLabel` (label),
+  may have alternative labels (`skos:altLabel`), and other properties. Each concept is linked to the parent
+  ConceptScheme via `skos:topConceptOf`.
+
+Example structure:
+```ttl
+<>
+    a skos:ConceptScheme ;
+    skos:hasTopConcept <1>, <2> .
+
+<1>
+    a skos:Concept ;
+    skos:prefLabel "Term 1"@en ;
+    skos:topConceptOf <> .
+
+<2>
+    a skos:Concept ;
+   skos:prefLabel "Term 2"@en ;
+    skos:topConceptOf <> .
+```
+
 ## Usage
 
 If you want to reuse this repo and have your vocabulary automatically pushed und published via GitHub-Pages, follow these steps:
@@ -56,4 +101,3 @@ Go to `Settings` > `Actions` > `General` > `Workflow permissions` and toggle the
 
 - In an earlier version, there was the .env variable `PATH_PREFIX` set to point to the repository the vocabulary is hosted at. To align with rest of code, this was changed to `BASEURL`.
 - The docker image now also support i18n
-
